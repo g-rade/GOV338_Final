@@ -1,0 +1,16 @@
+---
+title: "Data1"
+author: "Grace Rade"
+date: "2023-03-24"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(rio)
+```
+
+```{r}
+sandy_relief <- import("sandy2014.csv") ## source: https://www.govtrack.us/congress/votes/113-2013/s4 
+highway_funds <- import("highway2014.csv") ## source: https://www.govtrack.us/congress/votes/113-2014/s248
+```
+
