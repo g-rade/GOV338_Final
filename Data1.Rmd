@@ -12,5 +12,19 @@ library(rio)
 ```{r}
 sandy_relief <- import("sandy2014.csv") ## source: https://www.govtrack.us/congress/votes/113-2013/s4 
 highway_funds <- import("highway2014.csv") ## source: https://www.govtrack.us/congress/votes/113-2014/s248
+harvey_relief <- import("harvey2018.csv") %>% 
+  rename(person = "V1", state = "V2", district = "V3", vote = "V4", name = "V5", party = "V6") %>% 
+  filter(!row_number() %in% c(1,2))
+```
+
+```{r}
+sandy_relief <- sandy_relief %>% 
+  mutate(name = substr(name, 1,nchar(sandy_relief$name)-15 )) ## fixing senator names
+
+highway_funds <- highway_funds %>% 
+  mutate(name = substr(name, 1,nchar(highway_funds$name)-15)) ## fixing senator names
+
+harvey_relief <- harvey_relief  %>% 
+  mutate(name = substr(name, 1,nchar(harvey_relief$name)-15)) ## fixing senator names
 ```
 
