@@ -14,7 +14,12 @@ sandy_relief <- import("sandy2014.csv") ## source: https://www.govtrack.us/congr
 highway_funds <- import("highway2014.csv") ## source: https://www.govtrack.us/congress/votes/113-2014/s248
 harvey_relief <- import("harvey2018.csv") %>% 
   rename(person = "V1", state = "V2", district = "V3", vote = "V4", name = "V5", party = "V6") %>% 
-  filter(!row_number() %in% c(1,2))
+  filter(!row_number() %in% c(1,2)) ## source: https://www.govtrack.us/congress/votes/115-2017/s192
+
+
+water_infrastructure <- ## source: https://www.govtrack.us/congress/votes/115-2018/s225
+
+
 ```
 
 ```{r}
