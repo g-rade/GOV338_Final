@@ -16,8 +16,7 @@ harvey_relief <- import("harvey2018.csv") %>%
   rename(person = "V1", state = "V2", district = "V3", vote = "V4", name = "V5", party = "V6") %>% 
   filter(!row_number() %in% c(1,2)) ## source: https://www.govtrack.us/congress/votes/115-2017/s192
 
-
-water_infrastructure <- ## source: https://www.govtrack.us/congress/votes/115-2018/s225
+water_infrastructure <- import("water2018.csv") ## source: https://www.govtrack.us/congress/votes/115-2018/s225
 
 
 ```
@@ -31,5 +30,9 @@ highway_funds <- highway_funds %>%
 
 harvey_relief <- harvey_relief  %>% 
   mutate(name = substr(name, 1,nchar(harvey_relief$name)-15)) ## fixing senator names
+
+water_infrastructure <- water_infrastructure %>% 
+  mutate(name = substr(name, 1,nchar(harvey_relief$name)-15)) %>% 
+  mutate(name = substr(name, 5, nchar(harvey_relief$name)-15))
 ```
 
