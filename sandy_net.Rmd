@@ -10,8 +10,9 @@ library(rio)
 library(statnet)
 
 sandy_dyads <- import("sandy_dyads.csv")
+
 sandy_relief <- import("sandy2014.csv") %>% 
-  mutate(name = substr(name, 5,nchar(sandy_relief$name)-15))
+  mutate(name = substr(name, 6,nchar(sandy_relief$name)-15))
 
 library(network) ## load network
 
@@ -25,6 +26,5 @@ sandy_el <- sandy_dyads %>%
 
 net_sandy[as.matrix(sandy_el)] <- 1 
 
-## as.network from the edge list and assign attributes, etc. 
 ```
 

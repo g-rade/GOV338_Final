@@ -27,19 +27,19 @@ FEMA <- import("FEMA.csv") %>%
 ```{r}
 ## fix the senator names so its just first last
 sandy_relief <- sandy_relief %>% 
-  mutate(name = substr(name, 5,nchar(sandy_relief$name)-15)) %>% 
+  mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>% 
   select(-c(district, person))
 
 highway_funds <- highway_funds %>% 
-  mutate(name = substr(name, 5,nchar(highway_funds$name)-15)) %>% 
+  mutate(name = substr(name, 6,nchar(highway_funds$name)-15)) %>% 
   select(-c(district, person))
   
 harvey_relief <- harvey_relief  %>% 
-  mutate(name = substr(name, 5,nchar(harvey_relief$name)-15)) %>% 
+  mutate(name = substr(name, 6,nchar(harvey_relief$name)-15)) %>% 
   select(-c(district, person))
 
 water_infrastructure <- water_infrastructure %>% 
-  mutate(name = substr(name, 5,nchar(water_infrastructure$name)-15)) %>% 
+  mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>% 
   select(-c(district, person))
 
 
@@ -87,7 +87,7 @@ sandy_joined <- sandy_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1) ## join the datasets together, create a cross party and shared storm variable, then only filter where the votes are the same
 
-## export(sandy_joined, "sandy_dyads.csv")
+export(sandy_joined, "sandy_dyads.csv")
 
 ```
 
@@ -115,7 +115,7 @@ highway_joined <- highway_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-## export(highway_joined, "highway_dyads.csv")
+export(highway_joined, "highway_dyads.csv")
 ```
 
 ```{r}
@@ -141,7 +141,7 @@ harvey_joined <- harvey_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-## export(harvey_joined, "harvey_dyads.csv")
+export(harvey_joined, "harvey_dyads.csv")
   
 ```
 
@@ -168,7 +168,7 @@ water_joined <- water_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-## export(water_joined, "water_dyads.csv")
+export(water_joined, "water_dyads.csv")
 
 ```
 
