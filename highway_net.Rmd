@@ -1,0 +1,22 @@
+---
+title: "highway_net"
+author: "Grace Rade"
+date: "2023-04-23"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(rio)
+library(igraph)
+
+highway_funds <- import("highway2014.csv")
+highway_funds <- highway_funds %>% 
+  mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>% 
+  mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0))
+
+highway_dyads <- import("highway_dyads.csv")
+
+highway_net <- graph_from_data_frame(highway_dyads, directed = F)
+plot(highway_net) ## also pretty modular
+```
+

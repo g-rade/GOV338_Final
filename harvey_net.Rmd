@@ -1,0 +1,24 @@
+---
+title: "harvey_net"
+author: "Grace Rade"
+date: "2023-04-23"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(rio)
+library(igraph)
+
+harvey_relief <- import("harvey2018.csv")
+harvey_relief <- harvey_relief %>% 
+  rename(person = "V1", state = "V2", district = "V3", vote = "V4", name = "V5", party = "V6") %>% 
+  filter(!row_number() %in% c(1,2)) %>% 
+  mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>%
+  mutate(storm = ifelse(state %in% c("TX", "LA"), 1, 0))
+
+harvey_dyads <- import("harvey_dyads.csv")
+
+harvey_net <- graph_from_data_frame(harvey_dyads, directed = F)
+plot(harvey_net)
+```
+
