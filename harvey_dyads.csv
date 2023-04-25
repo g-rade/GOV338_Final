@@ -236,22 +236,6 @@ Angus King,Timothy “Tim” Kaine,ME,1,Independent,VA,1,Democrat,0,0,1
 Angus King,Todd Young,ME,1,Independent,IN,1,Republican,0,0,1
 Angus King,Tom Cotton,ME,1,Independent,AR,1,Republican,0,0,1
 Angus King,Tom Udall,ME,1,Independent,NM,1,Democrat,0,0,1
-Benjamin “Ben” Sasse,Bob Corker,NE,0,Republican,TN,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Charles “Chuck” Grassley,NE,0,Republican,IA,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Deb Fischer,NE,0,Republican,NE,0,Republican,1,0,1
-Benjamin “Ben” Sasse,James Lankford,NE,0,Republican,OK,0,Republican,1,0,1
-Benjamin “Ben” Sasse,James Risch,NE,0,Republican,ID,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Jeff Flake,NE,0,Republican,AZ,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Jerry Moran,NE,0,Republican,KS,0,Republican,1,0,1
-Benjamin “Ben” Sasse,John McCain,NE,0,Republican,AZ,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Joni Ernst,NE,0,Republican,IA,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Lindsey Graham,NE,0,Republican,SC,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Michael Enzi,NE,0,Republican,WY,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Mike Lee,NE,0,Republican,UT,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Patrick “Pat” Toomey,NE,0,Republican,PA,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Rand Paul,NE,0,Republican,KY,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Ron Johnson,NE,0,Republican,WI,0,Republican,1,0,1
-Benjamin “Ben” Sasse,Steve Daines,NE,0,Republican,MT,0,Republican,1,0,1
 Benjamin Cardin,Alan “Al” Franken,MD,1,Democrat,MN,1,Democrat,1,0,1
 Benjamin Cardin,Amy Klobuchar,MD,1,Democrat,MN,1,Democrat,1,0,1
 Benjamin Cardin,Angus King,MD,1,Democrat,ME,1,Independent,0,0,1
@@ -415,7 +399,7 @@ Bill Cassidy,Amy Klobuchar,LA,1,Republican,MN,1,Democrat,0,0,1
 Bill Cassidy,Angus King,LA,1,Republican,ME,1,Independent,0,0,1
 Bill Cassidy,Benjamin Cardin,LA,1,Republican,MD,1,Democrat,0,0,1
 Bill Cassidy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Independent,0,0,1
-Bill Cassidy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,0,1
+Bill Cassidy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,1,1
 Bill Cassidy,Brian Schatz,LA,1,Republican,HI,1,Democrat,0,0,1
 Bill Cassidy,Catherine Cortez Masto,LA,1,Republican,NV,1,Democrat,0,0,1
 Bill Cassidy,Charles “Chuck” Schumer,LA,1,Republican,NY,1,Democrat,0,0,1
@@ -425,7 +409,7 @@ Bill Cassidy,Christopher Murphy,LA,1,Republican,CT,1,Democrat,0,0,1
 Bill Cassidy,Claire McCaskill,LA,1,Republican,MO,1,Democrat,0,0,1
 Bill Cassidy,Cory Booker,LA,1,Republican,NJ,1,Democrat,0,0,1
 Bill Cassidy,Cory Gardner,LA,1,Republican,CO,1,Republican,1,0,1
-Bill Cassidy,David Perdue,LA,1,Republican,GA,1,Republican,1,0,1
+Bill Cassidy,David Perdue,LA,1,Republican,GA,1,Republican,1,1,1
 Bill Cassidy,Dean Heller,LA,1,Republican,NV,1,Republican,1,0,1
 Bill Cassidy,Debbie Stabenow,LA,1,Republican,MI,1,Democrat,0,0,1
 Bill Cassidy,Dianne Feinstein,LA,1,Republican,CA,1,Democrat,0,0,1
@@ -438,7 +422,7 @@ Bill Cassidy,Jeanne Shaheen,LA,1,Republican,NH,1,Democrat,0,0,1
 Bill Cassidy,Jeff Merkley,LA,1,Republican,OR,1,Democrat,0,0,1
 Bill Cassidy,Joe Donnelly,LA,1,Republican,IN,1,Democrat,0,0,1
 Bill Cassidy,Joe Manchin,LA,1,Republican,WV,1,Democrat,0,0,1
-Bill Cassidy,John “Johnny” Isakson,LA,1,Republican,GA,1,Republican,1,0,1
+Bill Cassidy,John “Johnny” Isakson,LA,1,Republican,GA,1,Republican,1,1,1
 Bill Cassidy,John Barrasso,LA,1,Republican,WY,1,Republican,1,0,1
 Bill Cassidy,John Boozman,LA,1,Republican,AR,1,Republican,1,0,1
 Bill Cassidy,John Cornyn,LA,1,Republican,TX,1,Republican,1,1,1
@@ -451,7 +435,7 @@ Bill Cassidy,Kamala Harris,LA,1,Republican,CA,1,Democrat,0,0,1
 Bill Cassidy,Kirsten Gillibrand,LA,1,Republican,NY,1,Democrat,0,0,1
 Bill Cassidy,Lamar Alexander,LA,1,Republican,TN,1,Republican,1,0,1
 Bill Cassidy,Lisa Murkowski,LA,1,Republican,AK,1,Republican,1,0,1
-Bill Cassidy,Luther Strange,LA,1,Republican,AL,1,Republican,1,0,1
+Bill Cassidy,Luther Strange,LA,1,Republican,AL,1,Republican,1,1,1
 Bill Cassidy,Margaret “Maggie” Hassan,LA,1,Republican,NH,1,Democrat,0,0,1
 Bill Cassidy,Maria Cantwell,LA,1,Republican,WA,1,Democrat,0,0,1
 Bill Cassidy,Mark Warner,LA,1,Republican,VA,1,Democrat,0,0,1
@@ -468,7 +452,7 @@ Bill Cassidy,Patty Murray,LA,1,Republican,WA,1,Democrat,0,0,1
 Bill Cassidy,Richard Blumenthal,LA,1,Republican,CT,1,Democrat,0,0,1
 Bill Cassidy,Richard Burr,LA,1,Republican,NC,1,Republican,1,0,1
 Bill Cassidy,Richard Durbin,LA,1,Republican,IL,1,Democrat,0,0,1
-Bill Cassidy,Richard Shelby,LA,1,Republican,AL,1,Republican,1,0,1
+Bill Cassidy,Richard Shelby,LA,1,Republican,AL,1,Republican,1,1,1
 Bill Cassidy,Robert “Bob” Casey,LA,1,Republican,PA,1,Democrat,0,0,1
 Bill Cassidy,Robert “Rob” Portman,LA,1,Republican,OH,1,Republican,1,0,1
 Bill Cassidy,Roger Wicker,LA,1,Republican,MS,1,Republican,1,0,1
@@ -484,7 +468,7 @@ Bill Cassidy,Ted Cruz,LA,1,Republican,TX,1,Republican,1,1,1
 Bill Cassidy,Thad Cochran,LA,1,Republican,MS,1,Republican,1,0,1
 Bill Cassidy,Thom Tillis,LA,1,Republican,NC,1,Republican,1,0,1
 Bill Cassidy,Thomas Carper,LA,1,Republican,DE,1,Democrat,0,0,1
-Bill Cassidy,Tim Scott,LA,1,Republican,SC,1,Republican,1,0,1
+Bill Cassidy,Tim Scott,LA,1,Republican,SC,1,Republican,1,1,1
 Bill Cassidy,Timothy “Tim” Kaine,LA,1,Republican,VA,1,Democrat,0,0,1
 Bill Cassidy,Todd Young,LA,1,Republican,IN,1,Republican,1,0,1
 Bill Cassidy,Tom Cotton,LA,1,Republican,AR,1,Republican,1,0,1
@@ -494,7 +478,7 @@ Bill Nelson,Amy Klobuchar,FL,1,Democrat,MN,1,Democrat,1,0,1
 Bill Nelson,Angus King,FL,1,Democrat,ME,1,Independent,0,0,1
 Bill Nelson,Benjamin Cardin,FL,1,Democrat,MD,1,Democrat,1,0,1
 Bill Nelson,Bernard “Bernie” Sanders,FL,1,Democrat,VT,1,Independent,0,0,1
-Bill Nelson,Bill Cassidy,FL,1,Democrat,LA,1,Republican,0,0,1
+Bill Nelson,Bill Cassidy,FL,1,Democrat,LA,1,Republican,0,1,1
 Bill Nelson,Brian Schatz,FL,1,Democrat,HI,1,Democrat,1,0,1
 Bill Nelson,Catherine Cortez Masto,FL,1,Democrat,NV,1,Democrat,1,0,1
 Bill Nelson,Charles “Chuck” Schumer,FL,1,Democrat,NY,1,Democrat,1,0,1
@@ -504,7 +488,7 @@ Bill Nelson,Christopher Murphy,FL,1,Democrat,CT,1,Democrat,1,0,1
 Bill Nelson,Claire McCaskill,FL,1,Democrat,MO,1,Democrat,1,0,1
 Bill Nelson,Cory Booker,FL,1,Democrat,NJ,1,Democrat,1,0,1
 Bill Nelson,Cory Gardner,FL,1,Democrat,CO,1,Republican,0,0,1
-Bill Nelson,David Perdue,FL,1,Democrat,GA,1,Republican,0,0,1
+Bill Nelson,David Perdue,FL,1,Democrat,GA,1,Republican,0,1,1
 Bill Nelson,Dean Heller,FL,1,Democrat,NV,1,Republican,0,0,1
 Bill Nelson,Debbie Stabenow,FL,1,Democrat,MI,1,Democrat,1,0,1
 Bill Nelson,Dianne Feinstein,FL,1,Democrat,CA,1,Democrat,1,0,1
@@ -517,20 +501,20 @@ Bill Nelson,Jeanne Shaheen,FL,1,Democrat,NH,1,Democrat,1,0,1
 Bill Nelson,Jeff Merkley,FL,1,Democrat,OR,1,Democrat,1,0,1
 Bill Nelson,Joe Donnelly,FL,1,Democrat,IN,1,Democrat,1,0,1
 Bill Nelson,Joe Manchin,FL,1,Democrat,WV,1,Democrat,1,0,1
-Bill Nelson,John “Johnny” Isakson,FL,1,Democrat,GA,1,Republican,0,0,1
+Bill Nelson,John “Johnny” Isakson,FL,1,Democrat,GA,1,Republican,0,1,1
 Bill Nelson,John Barrasso,FL,1,Democrat,WY,1,Republican,0,0,1
 Bill Nelson,John Boozman,FL,1,Democrat,AR,1,Republican,0,0,1
-Bill Nelson,John Cornyn,FL,1,Democrat,TX,1,Republican,0,0,1
+Bill Nelson,John Cornyn,FL,1,Democrat,TX,1,Republican,0,1,1
 Bill Nelson,John F. “Jack” Reed,FL,1,Democrat,RI,1,Democrat,1,0,1
 Bill Nelson,John Hoeven,FL,1,Democrat,ND,1,Republican,0,0,1
-Bill Nelson,John Neely Kennedy,FL,1,Democrat,LA,1,Republican,0,0,1
+Bill Nelson,John Neely Kennedy,FL,1,Democrat,LA,1,Republican,0,1,1
 Bill Nelson,John Thune,FL,1,Democrat,SD,1,Republican,0,0,1
 Bill Nelson,Jon Tester,FL,1,Democrat,MT,1,Democrat,1,0,1
 Bill Nelson,Kamala Harris,FL,1,Democrat,CA,1,Democrat,1,0,1
 Bill Nelson,Kirsten Gillibrand,FL,1,Democrat,NY,1,Democrat,1,0,1
 Bill Nelson,Lamar Alexander,FL,1,Democrat,TN,1,Republican,0,0,1
 Bill Nelson,Lisa Murkowski,FL,1,Democrat,AK,1,Republican,0,0,1
-Bill Nelson,Luther Strange,FL,1,Democrat,AL,1,Republican,0,0,1
+Bill Nelson,Luther Strange,FL,1,Democrat,AL,1,Republican,0,1,1
 Bill Nelson,Margaret “Maggie” Hassan,FL,1,Democrat,NH,1,Democrat,1,0,1
 Bill Nelson,Maria Cantwell,FL,1,Democrat,WA,1,Democrat,1,0,1
 Bill Nelson,Mark Warner,FL,1,Democrat,VA,1,Democrat,1,0,1
@@ -547,7 +531,7 @@ Bill Nelson,Patty Murray,FL,1,Democrat,WA,1,Democrat,1,0,1
 Bill Nelson,Richard Blumenthal,FL,1,Democrat,CT,1,Democrat,1,0,1
 Bill Nelson,Richard Burr,FL,1,Democrat,NC,1,Republican,0,0,1
 Bill Nelson,Richard Durbin,FL,1,Democrat,IL,1,Democrat,1,0,1
-Bill Nelson,Richard Shelby,FL,1,Democrat,AL,1,Republican,0,0,1
+Bill Nelson,Richard Shelby,FL,1,Democrat,AL,1,Republican,0,1,1
 Bill Nelson,Robert “Bob” Casey,FL,1,Democrat,PA,1,Democrat,1,0,1
 Bill Nelson,Robert “Rob” Portman,FL,1,Democrat,OH,1,Republican,0,0,1
 Bill Nelson,Roger Wicker,FL,1,Democrat,MS,1,Republican,0,0,1
@@ -559,31 +543,15 @@ Bill Nelson,Sherrod Brown,FL,1,Democrat,OH,1,Democrat,1,0,1
 Bill Nelson,Susan Collins,FL,1,Democrat,ME,1,Republican,0,0,1
 Bill Nelson,Tammy Baldwin,FL,1,Democrat,WI,1,Democrat,1,0,1
 Bill Nelson,Tammy Duckworth,FL,1,Democrat,IL,1,Democrat,1,0,1
-Bill Nelson,Ted Cruz,FL,1,Democrat,TX,1,Republican,0,0,1
+Bill Nelson,Ted Cruz,FL,1,Democrat,TX,1,Republican,0,1,1
 Bill Nelson,Thad Cochran,FL,1,Democrat,MS,1,Republican,0,0,1
 Bill Nelson,Thom Tillis,FL,1,Democrat,NC,1,Republican,0,0,1
 Bill Nelson,Thomas Carper,FL,1,Democrat,DE,1,Democrat,1,0,1
-Bill Nelson,Tim Scott,FL,1,Democrat,SC,1,Republican,0,0,1
+Bill Nelson,Tim Scott,FL,1,Democrat,SC,1,Republican,0,1,1
 Bill Nelson,Timothy “Tim” Kaine,FL,1,Democrat,VA,1,Democrat,1,0,1
 Bill Nelson,Todd Young,FL,1,Democrat,IN,1,Republican,0,0,1
 Bill Nelson,Tom Cotton,FL,1,Democrat,AR,1,Republican,0,0,1
 Bill Nelson,Tom Udall,FL,1,Democrat,NM,1,Democrat,1,0,1
-Bob Corker,Benjamin “Ben” Sasse,TN,0,Republican,NE,0,Republican,1,0,1
-Bob Corker,Charles “Chuck” Grassley,TN,0,Republican,IA,0,Republican,1,0,1
-Bob Corker,Deb Fischer,TN,0,Republican,NE,0,Republican,1,0,1
-Bob Corker,James Lankford,TN,0,Republican,OK,0,Republican,1,0,1
-Bob Corker,James Risch,TN,0,Republican,ID,0,Republican,1,0,1
-Bob Corker,Jeff Flake,TN,0,Republican,AZ,0,Republican,1,0,1
-Bob Corker,Jerry Moran,TN,0,Republican,KS,0,Republican,1,0,1
-Bob Corker,John McCain,TN,0,Republican,AZ,0,Republican,1,0,1
-Bob Corker,Joni Ernst,TN,0,Republican,IA,0,Republican,1,0,1
-Bob Corker,Lindsey Graham,TN,0,Republican,SC,0,Republican,1,0,1
-Bob Corker,Michael Enzi,TN,0,Republican,WY,0,Republican,1,0,1
-Bob Corker,Mike Lee,TN,0,Republican,UT,0,Republican,1,0,1
-Bob Corker,Patrick “Pat” Toomey,TN,0,Republican,PA,0,Republican,1,0,1
-Bob Corker,Rand Paul,TN,0,Republican,KY,0,Republican,1,0,1
-Bob Corker,Ron Johnson,TN,0,Republican,WI,0,Republican,1,0,1
-Bob Corker,Steve Daines,TN,0,Republican,MT,0,Republican,1,0,1
 Brian Schatz,Alan “Al” Franken,HI,1,Democrat,MN,1,Democrat,1,0,1
 Brian Schatz,Amy Klobuchar,HI,1,Democrat,MN,1,Democrat,1,0,1
 Brian Schatz,Angus King,HI,1,Democrat,ME,1,Independent,0,0,1
@@ -742,22 +710,6 @@ Catherine Cortez Masto,Timothy “Tim” Kaine,NV,1,Democrat,VA,1,Democrat,1,0,1
 Catherine Cortez Masto,Todd Young,NV,1,Democrat,IN,1,Republican,0,0,1
 Catherine Cortez Masto,Tom Cotton,NV,1,Democrat,AR,1,Republican,0,0,1
 Catherine Cortez Masto,Tom Udall,NV,1,Democrat,NM,1,Democrat,1,0,1
-Charles “Chuck” Grassley,Benjamin “Ben” Sasse,IA,0,Republican,NE,0,Republican,1,0,1
-Charles “Chuck” Grassley,Bob Corker,IA,0,Republican,TN,0,Republican,1,0,1
-Charles “Chuck” Grassley,Deb Fischer,IA,0,Republican,NE,0,Republican,1,0,1
-Charles “Chuck” Grassley,James Lankford,IA,0,Republican,OK,0,Republican,1,0,1
-Charles “Chuck” Grassley,James Risch,IA,0,Republican,ID,0,Republican,1,0,1
-Charles “Chuck” Grassley,Jeff Flake,IA,0,Republican,AZ,0,Republican,1,0,1
-Charles “Chuck” Grassley,Jerry Moran,IA,0,Republican,KS,0,Republican,1,0,1
-Charles “Chuck” Grassley,John McCain,IA,0,Republican,AZ,0,Republican,1,0,1
-Charles “Chuck” Grassley,Joni Ernst,IA,0,Republican,IA,0,Republican,1,0,1
-Charles “Chuck” Grassley,Lindsey Graham,IA,0,Republican,SC,0,Republican,1,0,1
-Charles “Chuck” Grassley,Michael Enzi,IA,0,Republican,WY,0,Republican,1,0,1
-Charles “Chuck” Grassley,Mike Lee,IA,0,Republican,UT,0,Republican,1,0,1
-Charles “Chuck” Grassley,Patrick “Pat” Toomey,IA,0,Republican,PA,0,Republican,1,0,1
-Charles “Chuck” Grassley,Rand Paul,IA,0,Republican,KY,0,Republican,1,0,1
-Charles “Chuck” Grassley,Ron Johnson,IA,0,Republican,WI,0,Republican,1,0,1
-Charles “Chuck” Grassley,Steve Daines,IA,0,Republican,MT,0,Republican,1,0,1
 Charles “Chuck” Schumer,Alan “Al” Franken,NY,1,Democrat,MN,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Amy Klobuchar,NY,1,Democrat,MN,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Angus King,NY,1,Democrat,ME,1,Independent,0,0,1
@@ -1316,8 +1268,8 @@ David Perdue,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
 David Perdue,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
 David Perdue,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
 David Perdue,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
-David Perdue,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,0,1
-David Perdue,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,0,1
+David Perdue,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,1,1
+David Perdue,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,1,1
 David Perdue,Brian Schatz,GA,1,Republican,HI,1,Democrat,0,0,1
 David Perdue,Catherine Cortez Masto,GA,1,Republican,NV,1,Democrat,0,0,1
 David Perdue,Charles “Chuck” Schumer,GA,1,Republican,NY,1,Democrat,0,0,1
@@ -1339,20 +1291,20 @@ David Perdue,Jeanne Shaheen,GA,1,Republican,NH,1,Democrat,0,0,1
 David Perdue,Jeff Merkley,GA,1,Republican,OR,1,Democrat,0,0,1
 David Perdue,Joe Donnelly,GA,1,Republican,IN,1,Democrat,0,0,1
 David Perdue,Joe Manchin,GA,1,Republican,WV,1,Democrat,0,0,1
-David Perdue,John “Johnny” Isakson,GA,1,Republican,GA,1,Republican,1,0,1
+David Perdue,John “Johnny” Isakson,GA,1,Republican,GA,1,Republican,1,1,1
 David Perdue,John Barrasso,GA,1,Republican,WY,1,Republican,1,0,1
 David Perdue,John Boozman,GA,1,Republican,AR,1,Republican,1,0,1
-David Perdue,John Cornyn,GA,1,Republican,TX,1,Republican,1,0,1
+David Perdue,John Cornyn,GA,1,Republican,TX,1,Republican,1,1,1
 David Perdue,John F. “Jack” Reed,GA,1,Republican,RI,1,Democrat,0,0,1
 David Perdue,John Hoeven,GA,1,Republican,ND,1,Republican,1,0,1
-David Perdue,John Neely Kennedy,GA,1,Republican,LA,1,Republican,1,0,1
+David Perdue,John Neely Kennedy,GA,1,Republican,LA,1,Republican,1,1,1
 David Perdue,John Thune,GA,1,Republican,SD,1,Republican,1,0,1
 David Perdue,Jon Tester,GA,1,Republican,MT,1,Democrat,0,0,1
 David Perdue,Kamala Harris,GA,1,Republican,CA,1,Democrat,0,0,1
 David Perdue,Kirsten Gillibrand,GA,1,Republican,NY,1,Democrat,0,0,1
 David Perdue,Lamar Alexander,GA,1,Republican,TN,1,Republican,1,0,1
 David Perdue,Lisa Murkowski,GA,1,Republican,AK,1,Republican,1,0,1
-David Perdue,Luther Strange,GA,1,Republican,AL,1,Republican,1,0,1
+David Perdue,Luther Strange,GA,1,Republican,AL,1,Republican,1,1,1
 David Perdue,Margaret “Maggie” Hassan,GA,1,Republican,NH,1,Democrat,0,0,1
 David Perdue,Maria Cantwell,GA,1,Republican,WA,1,Democrat,0,0,1
 David Perdue,Mark Warner,GA,1,Republican,VA,1,Democrat,0,0,1
@@ -1369,7 +1321,7 @@ David Perdue,Patty Murray,GA,1,Republican,WA,1,Democrat,0,0,1
 David Perdue,Richard Blumenthal,GA,1,Republican,CT,1,Democrat,0,0,1
 David Perdue,Richard Burr,GA,1,Republican,NC,1,Republican,1,0,1
 David Perdue,Richard Durbin,GA,1,Republican,IL,1,Democrat,0,0,1
-David Perdue,Richard Shelby,GA,1,Republican,AL,1,Republican,1,0,1
+David Perdue,Richard Shelby,GA,1,Republican,AL,1,Republican,1,1,1
 David Perdue,Robert “Bob” Casey,GA,1,Republican,PA,1,Democrat,0,0,1
 David Perdue,Robert “Rob” Portman,GA,1,Republican,OH,1,Republican,1,0,1
 David Perdue,Roger Wicker,GA,1,Republican,MS,1,Republican,1,0,1
@@ -1381,11 +1333,11 @@ David Perdue,Sherrod Brown,GA,1,Republican,OH,1,Democrat,0,0,1
 David Perdue,Susan Collins,GA,1,Republican,ME,1,Republican,1,0,1
 David Perdue,Tammy Baldwin,GA,1,Republican,WI,1,Democrat,0,0,1
 David Perdue,Tammy Duckworth,GA,1,Republican,IL,1,Democrat,0,0,1
-David Perdue,Ted Cruz,GA,1,Republican,TX,1,Republican,1,0,1
+David Perdue,Ted Cruz,GA,1,Republican,TX,1,Republican,1,1,1
 David Perdue,Thad Cochran,GA,1,Republican,MS,1,Republican,1,0,1
 David Perdue,Thom Tillis,GA,1,Republican,NC,1,Republican,1,0,1
 David Perdue,Thomas Carper,GA,1,Republican,DE,1,Democrat,0,0,1
-David Perdue,Tim Scott,GA,1,Republican,SC,1,Republican,1,0,1
+David Perdue,Tim Scott,GA,1,Republican,SC,1,Republican,1,1,1
 David Perdue,Timothy “Tim” Kaine,GA,1,Republican,VA,1,Democrat,0,0,1
 David Perdue,Todd Young,GA,1,Republican,IN,1,Republican,1,0,1
 David Perdue,Tom Cotton,GA,1,Republican,AR,1,Republican,1,0,1
@@ -1469,22 +1421,6 @@ Dean Heller,Timothy “Tim” Kaine,NV,1,Republican,VA,1,Democrat,0,0,1
 Dean Heller,Todd Young,NV,1,Republican,IN,1,Republican,1,0,1
 Dean Heller,Tom Cotton,NV,1,Republican,AR,1,Republican,1,0,1
 Dean Heller,Tom Udall,NV,1,Republican,NM,1,Democrat,0,0,1
-Deb Fischer,Benjamin “Ben” Sasse,NE,0,Republican,NE,0,Republican,1,0,1
-Deb Fischer,Bob Corker,NE,0,Republican,TN,0,Republican,1,0,1
-Deb Fischer,Charles “Chuck” Grassley,NE,0,Republican,IA,0,Republican,1,0,1
-Deb Fischer,James Lankford,NE,0,Republican,OK,0,Republican,1,0,1
-Deb Fischer,James Risch,NE,0,Republican,ID,0,Republican,1,0,1
-Deb Fischer,Jeff Flake,NE,0,Republican,AZ,0,Republican,1,0,1
-Deb Fischer,Jerry Moran,NE,0,Republican,KS,0,Republican,1,0,1
-Deb Fischer,John McCain,NE,0,Republican,AZ,0,Republican,1,0,1
-Deb Fischer,Joni Ernst,NE,0,Republican,IA,0,Republican,1,0,1
-Deb Fischer,Lindsey Graham,NE,0,Republican,SC,0,Republican,1,0,1
-Deb Fischer,Michael Enzi,NE,0,Republican,WY,0,Republican,1,0,1
-Deb Fischer,Mike Lee,NE,0,Republican,UT,0,Republican,1,0,1
-Deb Fischer,Patrick “Pat” Toomey,NE,0,Republican,PA,0,Republican,1,0,1
-Deb Fischer,Rand Paul,NE,0,Republican,KY,0,Republican,1,0,1
-Deb Fischer,Ron Johnson,NE,0,Republican,WI,0,Republican,1,0,1
-Deb Fischer,Steve Daines,NE,0,Republican,MT,0,Republican,1,0,1
 Debbie Stabenow,Alan “Al” Franken,MI,1,Democrat,MN,1,Democrat,1,0,1
 Debbie Stabenow,Amy Klobuchar,MI,1,Democrat,MN,1,Democrat,1,0,1
 Debbie Stabenow,Angus King,MI,1,Democrat,ME,1,Independent,0,0,1
@@ -2038,38 +1974,6 @@ James “Jim” Inhofe,Timothy “Tim” Kaine,OK,1,Republican,VA,1,Democrat,0,0
 James “Jim” Inhofe,Todd Young,OK,1,Republican,IN,1,Republican,1,0,1
 James “Jim” Inhofe,Tom Cotton,OK,1,Republican,AR,1,Republican,1,0,1
 James “Jim” Inhofe,Tom Udall,OK,1,Republican,NM,1,Democrat,0,0,1
-James Lankford,Benjamin “Ben” Sasse,OK,0,Republican,NE,0,Republican,1,0,1
-James Lankford,Bob Corker,OK,0,Republican,TN,0,Republican,1,0,1
-James Lankford,Charles “Chuck” Grassley,OK,0,Republican,IA,0,Republican,1,0,1
-James Lankford,Deb Fischer,OK,0,Republican,NE,0,Republican,1,0,1
-James Lankford,James Risch,OK,0,Republican,ID,0,Republican,1,0,1
-James Lankford,Jeff Flake,OK,0,Republican,AZ,0,Republican,1,0,1
-James Lankford,Jerry Moran,OK,0,Republican,KS,0,Republican,1,0,1
-James Lankford,John McCain,OK,0,Republican,AZ,0,Republican,1,0,1
-James Lankford,Joni Ernst,OK,0,Republican,IA,0,Republican,1,0,1
-James Lankford,Lindsey Graham,OK,0,Republican,SC,0,Republican,1,0,1
-James Lankford,Michael Enzi,OK,0,Republican,WY,0,Republican,1,0,1
-James Lankford,Mike Lee,OK,0,Republican,UT,0,Republican,1,0,1
-James Lankford,Patrick “Pat” Toomey,OK,0,Republican,PA,0,Republican,1,0,1
-James Lankford,Rand Paul,OK,0,Republican,KY,0,Republican,1,0,1
-James Lankford,Ron Johnson,OK,0,Republican,WI,0,Republican,1,0,1
-James Lankford,Steve Daines,OK,0,Republican,MT,0,Republican,1,0,1
-James Risch,Benjamin “Ben” Sasse,ID,0,Republican,NE,0,Republican,1,0,1
-James Risch,Bob Corker,ID,0,Republican,TN,0,Republican,1,0,1
-James Risch,Charles “Chuck” Grassley,ID,0,Republican,IA,0,Republican,1,0,1
-James Risch,Deb Fischer,ID,0,Republican,NE,0,Republican,1,0,1
-James Risch,James Lankford,ID,0,Republican,OK,0,Republican,1,0,1
-James Risch,Jeff Flake,ID,0,Republican,AZ,0,Republican,1,0,1
-James Risch,Jerry Moran,ID,0,Republican,KS,0,Republican,1,0,1
-James Risch,John McCain,ID,0,Republican,AZ,0,Republican,1,0,1
-James Risch,Joni Ernst,ID,0,Republican,IA,0,Republican,1,0,1
-James Risch,Lindsey Graham,ID,0,Republican,SC,0,Republican,1,0,1
-James Risch,Michael Enzi,ID,0,Republican,WY,0,Republican,1,0,1
-James Risch,Mike Lee,ID,0,Republican,UT,0,Republican,1,0,1
-James Risch,Patrick “Pat” Toomey,ID,0,Republican,PA,0,Republican,1,0,1
-James Risch,Rand Paul,ID,0,Republican,KY,0,Republican,1,0,1
-James Risch,Ron Johnson,ID,0,Republican,WI,0,Republican,1,0,1
-James Risch,Steve Daines,ID,0,Republican,MT,0,Republican,1,0,1
 Jeanne Shaheen,Alan “Al” Franken,NH,1,Democrat,MN,1,Democrat,1,0,1
 Jeanne Shaheen,Amy Klobuchar,NH,1,Democrat,MN,1,Democrat,1,0,1
 Jeanne Shaheen,Angus King,NH,1,Democrat,ME,1,Independent,0,0,1
@@ -2149,22 +2053,6 @@ Jeanne Shaheen,Timothy “Tim” Kaine,NH,1,Democrat,VA,1,Democrat,1,0,1
 Jeanne Shaheen,Todd Young,NH,1,Democrat,IN,1,Republican,0,0,1
 Jeanne Shaheen,Tom Cotton,NH,1,Democrat,AR,1,Republican,0,0,1
 Jeanne Shaheen,Tom Udall,NH,1,Democrat,NM,1,Democrat,1,0,1
-Jeff Flake,Benjamin “Ben” Sasse,AZ,0,Republican,NE,0,Republican,1,0,1
-Jeff Flake,Bob Corker,AZ,0,Republican,TN,0,Republican,1,0,1
-Jeff Flake,Charles “Chuck” Grassley,AZ,0,Republican,IA,0,Republican,1,0,1
-Jeff Flake,Deb Fischer,AZ,0,Republican,NE,0,Republican,1,0,1
-Jeff Flake,James Lankford,AZ,0,Republican,OK,0,Republican,1,0,1
-Jeff Flake,James Risch,AZ,0,Republican,ID,0,Republican,1,0,1
-Jeff Flake,Jerry Moran,AZ,0,Republican,KS,0,Republican,1,0,1
-Jeff Flake,John McCain,AZ,0,Republican,AZ,0,Republican,1,0,1
-Jeff Flake,Joni Ernst,AZ,0,Republican,IA,0,Republican,1,0,1
-Jeff Flake,Lindsey Graham,AZ,0,Republican,SC,0,Republican,1,0,1
-Jeff Flake,Michael Enzi,AZ,0,Republican,WY,0,Republican,1,0,1
-Jeff Flake,Mike Lee,AZ,0,Republican,UT,0,Republican,1,0,1
-Jeff Flake,Patrick “Pat” Toomey,AZ,0,Republican,PA,0,Republican,1,0,1
-Jeff Flake,Rand Paul,AZ,0,Republican,KY,0,Republican,1,0,1
-Jeff Flake,Ron Johnson,AZ,0,Republican,WI,0,Republican,1,0,1
-Jeff Flake,Steve Daines,AZ,0,Republican,MT,0,Republican,1,0,1
 Jeff Merkley,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Jeff Merkley,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
 Jeff Merkley,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
@@ -2244,22 +2132,6 @@ Jeff Merkley,Timothy “Tim” Kaine,OR,1,Democrat,VA,1,Democrat,1,0,1
 Jeff Merkley,Todd Young,OR,1,Democrat,IN,1,Republican,0,0,1
 Jeff Merkley,Tom Cotton,OR,1,Democrat,AR,1,Republican,0,0,1
 Jeff Merkley,Tom Udall,OR,1,Democrat,NM,1,Democrat,1,0,1
-Jerry Moran,Benjamin “Ben” Sasse,KS,0,Republican,NE,0,Republican,1,0,1
-Jerry Moran,Bob Corker,KS,0,Republican,TN,0,Republican,1,0,1
-Jerry Moran,Charles “Chuck” Grassley,KS,0,Republican,IA,0,Republican,1,0,1
-Jerry Moran,Deb Fischer,KS,0,Republican,NE,0,Republican,1,0,1
-Jerry Moran,James Lankford,KS,0,Republican,OK,0,Republican,1,0,1
-Jerry Moran,James Risch,KS,0,Republican,ID,0,Republican,1,0,1
-Jerry Moran,Jeff Flake,KS,0,Republican,AZ,0,Republican,1,0,1
-Jerry Moran,John McCain,KS,0,Republican,AZ,0,Republican,1,0,1
-Jerry Moran,Joni Ernst,KS,0,Republican,IA,0,Republican,1,0,1
-Jerry Moran,Lindsey Graham,KS,0,Republican,SC,0,Republican,1,0,1
-Jerry Moran,Michael Enzi,KS,0,Republican,WY,0,Republican,1,0,1
-Jerry Moran,Mike Lee,KS,0,Republican,UT,0,Republican,1,0,1
-Jerry Moran,Patrick “Pat” Toomey,KS,0,Republican,PA,0,Republican,1,0,1
-Jerry Moran,Rand Paul,KS,0,Republican,KY,0,Republican,1,0,1
-Jerry Moran,Ron Johnson,KS,0,Republican,WI,0,Republican,1,0,1
-Jerry Moran,Steve Daines,KS,0,Republican,MT,0,Republican,1,0,1
 Joe Donnelly,Alan “Al” Franken,IN,1,Democrat,MN,1,Democrat,1,0,1
 Joe Donnelly,Amy Klobuchar,IN,1,Democrat,MN,1,Democrat,1,0,1
 Joe Donnelly,Angus King,IN,1,Democrat,ME,1,Independent,0,0,1
@@ -2423,8 +2295,8 @@ John “Johnny” Isakson,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
 John “Johnny” Isakson,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
 John “Johnny” Isakson,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
 John “Johnny” Isakson,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
-John “Johnny” Isakson,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,0,1
-John “Johnny” Isakson,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,0,1
+John “Johnny” Isakson,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,1,1
+John “Johnny” Isakson,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,1,1
 John “Johnny” Isakson,Brian Schatz,GA,1,Republican,HI,1,Democrat,0,0,1
 John “Johnny” Isakson,Catherine Cortez Masto,GA,1,Republican,NV,1,Democrat,0,0,1
 John “Johnny” Isakson,Charles “Chuck” Schumer,GA,1,Republican,NY,1,Democrat,0,0,1
@@ -2434,7 +2306,7 @@ John “Johnny” Isakson,Christopher Murphy,GA,1,Republican,CT,1,Democrat,0,0,1
 John “Johnny” Isakson,Claire McCaskill,GA,1,Republican,MO,1,Democrat,0,0,1
 John “Johnny” Isakson,Cory Booker,GA,1,Republican,NJ,1,Democrat,0,0,1
 John “Johnny” Isakson,Cory Gardner,GA,1,Republican,CO,1,Republican,1,0,1
-John “Johnny” Isakson,David Perdue,GA,1,Republican,GA,1,Republican,1,0,1
+John “Johnny” Isakson,David Perdue,GA,1,Republican,GA,1,Republican,1,1,1
 John “Johnny” Isakson,Dean Heller,GA,1,Republican,NV,1,Republican,1,0,1
 John “Johnny” Isakson,Debbie Stabenow,GA,1,Republican,MI,1,Democrat,0,0,1
 John “Johnny” Isakson,Dianne Feinstein,GA,1,Republican,CA,1,Democrat,0,0,1
@@ -2449,17 +2321,17 @@ John “Johnny” Isakson,Joe Donnelly,GA,1,Republican,IN,1,Democrat,0,0,1
 John “Johnny” Isakson,Joe Manchin,GA,1,Republican,WV,1,Democrat,0,0,1
 John “Johnny” Isakson,John Barrasso,GA,1,Republican,WY,1,Republican,1,0,1
 John “Johnny” Isakson,John Boozman,GA,1,Republican,AR,1,Republican,1,0,1
-John “Johnny” Isakson,John Cornyn,GA,1,Republican,TX,1,Republican,1,0,1
+John “Johnny” Isakson,John Cornyn,GA,1,Republican,TX,1,Republican,1,1,1
 John “Johnny” Isakson,John F. “Jack” Reed,GA,1,Republican,RI,1,Democrat,0,0,1
 John “Johnny” Isakson,John Hoeven,GA,1,Republican,ND,1,Republican,1,0,1
-John “Johnny” Isakson,John Neely Kennedy,GA,1,Republican,LA,1,Republican,1,0,1
+John “Johnny” Isakson,John Neely Kennedy,GA,1,Republican,LA,1,Republican,1,1,1
 John “Johnny” Isakson,John Thune,GA,1,Republican,SD,1,Republican,1,0,1
 John “Johnny” Isakson,Jon Tester,GA,1,Republican,MT,1,Democrat,0,0,1
 John “Johnny” Isakson,Kamala Harris,GA,1,Republican,CA,1,Democrat,0,0,1
 John “Johnny” Isakson,Kirsten Gillibrand,GA,1,Republican,NY,1,Democrat,0,0,1
 John “Johnny” Isakson,Lamar Alexander,GA,1,Republican,TN,1,Republican,1,0,1
 John “Johnny” Isakson,Lisa Murkowski,GA,1,Republican,AK,1,Republican,1,0,1
-John “Johnny” Isakson,Luther Strange,GA,1,Republican,AL,1,Republican,1,0,1
+John “Johnny” Isakson,Luther Strange,GA,1,Republican,AL,1,Republican,1,1,1
 John “Johnny” Isakson,Margaret “Maggie” Hassan,GA,1,Republican,NH,1,Democrat,0,0,1
 John “Johnny” Isakson,Maria Cantwell,GA,1,Republican,WA,1,Democrat,0,0,1
 John “Johnny” Isakson,Mark Warner,GA,1,Republican,VA,1,Democrat,0,0,1
@@ -2476,7 +2348,7 @@ John “Johnny” Isakson,Patty Murray,GA,1,Republican,WA,1,Democrat,0,0,1
 John “Johnny” Isakson,Richard Blumenthal,GA,1,Republican,CT,1,Democrat,0,0,1
 John “Johnny” Isakson,Richard Burr,GA,1,Republican,NC,1,Republican,1,0,1
 John “Johnny” Isakson,Richard Durbin,GA,1,Republican,IL,1,Democrat,0,0,1
-John “Johnny” Isakson,Richard Shelby,GA,1,Republican,AL,1,Republican,1,0,1
+John “Johnny” Isakson,Richard Shelby,GA,1,Republican,AL,1,Republican,1,1,1
 John “Johnny” Isakson,Robert “Bob” Casey,GA,1,Republican,PA,1,Democrat,0,0,1
 John “Johnny” Isakson,Robert “Rob” Portman,GA,1,Republican,OH,1,Republican,1,0,1
 John “Johnny” Isakson,Roger Wicker,GA,1,Republican,MS,1,Republican,1,0,1
@@ -2488,11 +2360,11 @@ John “Johnny” Isakson,Sherrod Brown,GA,1,Republican,OH,1,Democrat,0,0,1
 John “Johnny” Isakson,Susan Collins,GA,1,Republican,ME,1,Republican,1,0,1
 John “Johnny” Isakson,Tammy Baldwin,GA,1,Republican,WI,1,Democrat,0,0,1
 John “Johnny” Isakson,Tammy Duckworth,GA,1,Republican,IL,1,Democrat,0,0,1
-John “Johnny” Isakson,Ted Cruz,GA,1,Republican,TX,1,Republican,1,0,1
+John “Johnny” Isakson,Ted Cruz,GA,1,Republican,TX,1,Republican,1,1,1
 John “Johnny” Isakson,Thad Cochran,GA,1,Republican,MS,1,Republican,1,0,1
 John “Johnny” Isakson,Thom Tillis,GA,1,Republican,NC,1,Republican,1,0,1
 John “Johnny” Isakson,Thomas Carper,GA,1,Republican,DE,1,Democrat,0,0,1
-John “Johnny” Isakson,Tim Scott,GA,1,Republican,SC,1,Republican,1,0,1
+John “Johnny” Isakson,Tim Scott,GA,1,Republican,SC,1,Republican,1,1,1
 John “Johnny” Isakson,Timothy “Tim” Kaine,GA,1,Republican,VA,1,Democrat,0,0,1
 John “Johnny” Isakson,Todd Young,GA,1,Republican,IN,1,Republican,1,0,1
 John “Johnny” Isakson,Tom Cotton,GA,1,Republican,AR,1,Republican,1,0,1
@@ -2661,7 +2533,7 @@ John Cornyn,Angus King,TX,1,Republican,ME,1,Independent,0,0,1
 John Cornyn,Benjamin Cardin,TX,1,Republican,MD,1,Democrat,0,0,1
 John Cornyn,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Independent,0,0,1
 John Cornyn,Bill Cassidy,TX,1,Republican,LA,1,Republican,1,1,1
-John Cornyn,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,0,1
+John Cornyn,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,1,1
 John Cornyn,Brian Schatz,TX,1,Republican,HI,1,Democrat,0,0,1
 John Cornyn,Catherine Cortez Masto,TX,1,Republican,NV,1,Democrat,0,0,1
 John Cornyn,Charles “Chuck” Schumer,TX,1,Republican,NY,1,Democrat,0,0,1
@@ -2671,7 +2543,7 @@ John Cornyn,Christopher Murphy,TX,1,Republican,CT,1,Democrat,0,0,1
 John Cornyn,Claire McCaskill,TX,1,Republican,MO,1,Democrat,0,0,1
 John Cornyn,Cory Booker,TX,1,Republican,NJ,1,Democrat,0,0,1
 John Cornyn,Cory Gardner,TX,1,Republican,CO,1,Republican,1,0,1
-John Cornyn,David Perdue,TX,1,Republican,GA,1,Republican,1,0,1
+John Cornyn,David Perdue,TX,1,Republican,GA,1,Republican,1,1,1
 John Cornyn,Dean Heller,TX,1,Republican,NV,1,Republican,1,0,1
 John Cornyn,Debbie Stabenow,TX,1,Republican,MI,1,Democrat,0,0,1
 John Cornyn,Dianne Feinstein,TX,1,Republican,CA,1,Democrat,0,0,1
@@ -2684,7 +2556,7 @@ John Cornyn,Jeanne Shaheen,TX,1,Republican,NH,1,Democrat,0,0,1
 John Cornyn,Jeff Merkley,TX,1,Republican,OR,1,Democrat,0,0,1
 John Cornyn,Joe Donnelly,TX,1,Republican,IN,1,Democrat,0,0,1
 John Cornyn,Joe Manchin,TX,1,Republican,WV,1,Democrat,0,0,1
-John Cornyn,John “Johnny” Isakson,TX,1,Republican,GA,1,Republican,1,0,1
+John Cornyn,John “Johnny” Isakson,TX,1,Republican,GA,1,Republican,1,1,1
 John Cornyn,John Barrasso,TX,1,Republican,WY,1,Republican,1,0,1
 John Cornyn,John Boozman,TX,1,Republican,AR,1,Republican,1,0,1
 John Cornyn,John F. “Jack” Reed,TX,1,Republican,RI,1,Democrat,0,0,1
@@ -2696,7 +2568,7 @@ John Cornyn,Kamala Harris,TX,1,Republican,CA,1,Democrat,0,0,1
 John Cornyn,Kirsten Gillibrand,TX,1,Republican,NY,1,Democrat,0,0,1
 John Cornyn,Lamar Alexander,TX,1,Republican,TN,1,Republican,1,0,1
 John Cornyn,Lisa Murkowski,TX,1,Republican,AK,1,Republican,1,0,1
-John Cornyn,Luther Strange,TX,1,Republican,AL,1,Republican,1,0,1
+John Cornyn,Luther Strange,TX,1,Republican,AL,1,Republican,1,1,1
 John Cornyn,Margaret “Maggie” Hassan,TX,1,Republican,NH,1,Democrat,0,0,1
 John Cornyn,Maria Cantwell,TX,1,Republican,WA,1,Democrat,0,0,1
 John Cornyn,Mark Warner,TX,1,Republican,VA,1,Democrat,0,0,1
@@ -2713,7 +2585,7 @@ John Cornyn,Patty Murray,TX,1,Republican,WA,1,Democrat,0,0,1
 John Cornyn,Richard Blumenthal,TX,1,Republican,CT,1,Democrat,0,0,1
 John Cornyn,Richard Burr,TX,1,Republican,NC,1,Republican,1,0,1
 John Cornyn,Richard Durbin,TX,1,Republican,IL,1,Democrat,0,0,1
-John Cornyn,Richard Shelby,TX,1,Republican,AL,1,Republican,1,0,1
+John Cornyn,Richard Shelby,TX,1,Republican,AL,1,Republican,1,1,1
 John Cornyn,Robert “Bob” Casey,TX,1,Republican,PA,1,Democrat,0,0,1
 John Cornyn,Robert “Rob” Portman,TX,1,Republican,OH,1,Republican,1,0,1
 John Cornyn,Roger Wicker,TX,1,Republican,MS,1,Republican,1,0,1
@@ -2729,7 +2601,7 @@ John Cornyn,Ted Cruz,TX,1,Republican,TX,1,Republican,1,1,1
 John Cornyn,Thad Cochran,TX,1,Republican,MS,1,Republican,1,0,1
 John Cornyn,Thom Tillis,TX,1,Republican,NC,1,Republican,1,0,1
 John Cornyn,Thomas Carper,TX,1,Republican,DE,1,Democrat,0,0,1
-John Cornyn,Tim Scott,TX,1,Republican,SC,1,Republican,1,0,1
+John Cornyn,Tim Scott,TX,1,Republican,SC,1,Republican,1,1,1
 John Cornyn,Timothy “Tim” Kaine,TX,1,Republican,VA,1,Democrat,0,0,1
 John Cornyn,Todd Young,TX,1,Republican,IN,1,Republican,1,0,1
 John Cornyn,Tom Cotton,TX,1,Republican,AR,1,Republican,1,0,1
@@ -2892,29 +2764,13 @@ John Hoeven,Timothy “Tim” Kaine,ND,1,Republican,VA,1,Democrat,0,0,1
 John Hoeven,Todd Young,ND,1,Republican,IN,1,Republican,1,0,1
 John Hoeven,Tom Cotton,ND,1,Republican,AR,1,Republican,1,0,1
 John Hoeven,Tom Udall,ND,1,Republican,NM,1,Democrat,0,0,1
-John McCain,Benjamin “Ben” Sasse,AZ,0,Republican,NE,0,Republican,1,0,1
-John McCain,Bob Corker,AZ,0,Republican,TN,0,Republican,1,0,1
-John McCain,Charles “Chuck” Grassley,AZ,0,Republican,IA,0,Republican,1,0,1
-John McCain,Deb Fischer,AZ,0,Republican,NE,0,Republican,1,0,1
-John McCain,James Lankford,AZ,0,Republican,OK,0,Republican,1,0,1
-John McCain,James Risch,AZ,0,Republican,ID,0,Republican,1,0,1
-John McCain,Jeff Flake,AZ,0,Republican,AZ,0,Republican,1,0,1
-John McCain,Jerry Moran,AZ,0,Republican,KS,0,Republican,1,0,1
-John McCain,Joni Ernst,AZ,0,Republican,IA,0,Republican,1,0,1
-John McCain,Lindsey Graham,AZ,0,Republican,SC,0,Republican,1,0,1
-John McCain,Michael Enzi,AZ,0,Republican,WY,0,Republican,1,0,1
-John McCain,Mike Lee,AZ,0,Republican,UT,0,Republican,1,0,1
-John McCain,Patrick “Pat” Toomey,AZ,0,Republican,PA,0,Republican,1,0,1
-John McCain,Rand Paul,AZ,0,Republican,KY,0,Republican,1,0,1
-John McCain,Ron Johnson,AZ,0,Republican,WI,0,Republican,1,0,1
-John McCain,Steve Daines,AZ,0,Republican,MT,0,Republican,1,0,1
 John Neely Kennedy,Alan “Al” Franken,LA,1,Republican,MN,1,Democrat,0,0,1
 John Neely Kennedy,Amy Klobuchar,LA,1,Republican,MN,1,Democrat,0,0,1
 John Neely Kennedy,Angus King,LA,1,Republican,ME,1,Independent,0,0,1
 John Neely Kennedy,Benjamin Cardin,LA,1,Republican,MD,1,Democrat,0,0,1
 John Neely Kennedy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Independent,0,0,1
 John Neely Kennedy,Bill Cassidy,LA,1,Republican,LA,1,Republican,1,1,1
-John Neely Kennedy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,0,1
+John Neely Kennedy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,1,1
 John Neely Kennedy,Brian Schatz,LA,1,Republican,HI,1,Democrat,0,0,1
 John Neely Kennedy,Catherine Cortez Masto,LA,1,Republican,NV,1,Democrat,0,0,1
 John Neely Kennedy,Charles “Chuck” Schumer,LA,1,Republican,NY,1,Democrat,0,0,1
@@ -2924,7 +2780,7 @@ John Neely Kennedy,Christopher Murphy,LA,1,Republican,CT,1,Democrat,0,0,1
 John Neely Kennedy,Claire McCaskill,LA,1,Republican,MO,1,Democrat,0,0,1
 John Neely Kennedy,Cory Booker,LA,1,Republican,NJ,1,Democrat,0,0,1
 John Neely Kennedy,Cory Gardner,LA,1,Republican,CO,1,Republican,1,0,1
-John Neely Kennedy,David Perdue,LA,1,Republican,GA,1,Republican,1,0,1
+John Neely Kennedy,David Perdue,LA,1,Republican,GA,1,Republican,1,1,1
 John Neely Kennedy,Dean Heller,LA,1,Republican,NV,1,Republican,1,0,1
 John Neely Kennedy,Debbie Stabenow,LA,1,Republican,MI,1,Democrat,0,0,1
 John Neely Kennedy,Dianne Feinstein,LA,1,Republican,CA,1,Democrat,0,0,1
@@ -2937,7 +2793,7 @@ John Neely Kennedy,Jeanne Shaheen,LA,1,Republican,NH,1,Democrat,0,0,1
 John Neely Kennedy,Jeff Merkley,LA,1,Republican,OR,1,Democrat,0,0,1
 John Neely Kennedy,Joe Donnelly,LA,1,Republican,IN,1,Democrat,0,0,1
 John Neely Kennedy,Joe Manchin,LA,1,Republican,WV,1,Democrat,0,0,1
-John Neely Kennedy,John “Johnny” Isakson,LA,1,Republican,GA,1,Republican,1,0,1
+John Neely Kennedy,John “Johnny” Isakson,LA,1,Republican,GA,1,Republican,1,1,1
 John Neely Kennedy,John Barrasso,LA,1,Republican,WY,1,Republican,1,0,1
 John Neely Kennedy,John Boozman,LA,1,Republican,AR,1,Republican,1,0,1
 John Neely Kennedy,John Cornyn,LA,1,Republican,TX,1,Republican,1,1,1
@@ -2949,7 +2805,7 @@ John Neely Kennedy,Kamala Harris,LA,1,Republican,CA,1,Democrat,0,0,1
 John Neely Kennedy,Kirsten Gillibrand,LA,1,Republican,NY,1,Democrat,0,0,1
 John Neely Kennedy,Lamar Alexander,LA,1,Republican,TN,1,Republican,1,0,1
 John Neely Kennedy,Lisa Murkowski,LA,1,Republican,AK,1,Republican,1,0,1
-John Neely Kennedy,Luther Strange,LA,1,Republican,AL,1,Republican,1,0,1
+John Neely Kennedy,Luther Strange,LA,1,Republican,AL,1,Republican,1,1,1
 John Neely Kennedy,Margaret “Maggie” Hassan,LA,1,Republican,NH,1,Democrat,0,0,1
 John Neely Kennedy,Maria Cantwell,LA,1,Republican,WA,1,Democrat,0,0,1
 John Neely Kennedy,Mark Warner,LA,1,Republican,VA,1,Democrat,0,0,1
@@ -2966,7 +2822,7 @@ John Neely Kennedy,Patty Murray,LA,1,Republican,WA,1,Democrat,0,0,1
 John Neely Kennedy,Richard Blumenthal,LA,1,Republican,CT,1,Democrat,0,0,1
 John Neely Kennedy,Richard Burr,LA,1,Republican,NC,1,Republican,1,0,1
 John Neely Kennedy,Richard Durbin,LA,1,Republican,IL,1,Democrat,0,0,1
-John Neely Kennedy,Richard Shelby,LA,1,Republican,AL,1,Republican,1,0,1
+John Neely Kennedy,Richard Shelby,LA,1,Republican,AL,1,Republican,1,1,1
 John Neely Kennedy,Robert “Bob” Casey,LA,1,Republican,PA,1,Democrat,0,0,1
 John Neely Kennedy,Robert “Rob” Portman,LA,1,Republican,OH,1,Republican,1,0,1
 John Neely Kennedy,Roger Wicker,LA,1,Republican,MS,1,Republican,1,0,1
@@ -2982,7 +2838,7 @@ John Neely Kennedy,Ted Cruz,LA,1,Republican,TX,1,Republican,1,1,1
 John Neely Kennedy,Thad Cochran,LA,1,Republican,MS,1,Republican,1,0,1
 John Neely Kennedy,Thom Tillis,LA,1,Republican,NC,1,Republican,1,0,1
 John Neely Kennedy,Thomas Carper,LA,1,Republican,DE,1,Democrat,0,0,1
-John Neely Kennedy,Tim Scott,LA,1,Republican,SC,1,Republican,1,0,1
+John Neely Kennedy,Tim Scott,LA,1,Republican,SC,1,Republican,1,1,1
 John Neely Kennedy,Timothy “Tim” Kaine,LA,1,Republican,VA,1,Democrat,0,0,1
 John Neely Kennedy,Todd Young,LA,1,Republican,IN,1,Republican,1,0,1
 John Neely Kennedy,Tom Cotton,LA,1,Republican,AR,1,Republican,1,0,1
@@ -3145,22 +3001,6 @@ Jon Tester,Timothy “Tim” Kaine,MT,1,Democrat,VA,1,Democrat,1,0,1
 Jon Tester,Todd Young,MT,1,Democrat,IN,1,Republican,0,0,1
 Jon Tester,Tom Cotton,MT,1,Democrat,AR,1,Republican,0,0,1
 Jon Tester,Tom Udall,MT,1,Democrat,NM,1,Democrat,1,0,1
-Joni Ernst,Benjamin “Ben” Sasse,IA,0,Republican,NE,0,Republican,1,0,1
-Joni Ernst,Bob Corker,IA,0,Republican,TN,0,Republican,1,0,1
-Joni Ernst,Charles “Chuck” Grassley,IA,0,Republican,IA,0,Republican,1,0,1
-Joni Ernst,Deb Fischer,IA,0,Republican,NE,0,Republican,1,0,1
-Joni Ernst,James Lankford,IA,0,Republican,OK,0,Republican,1,0,1
-Joni Ernst,James Risch,IA,0,Republican,ID,0,Republican,1,0,1
-Joni Ernst,Jeff Flake,IA,0,Republican,AZ,0,Republican,1,0,1
-Joni Ernst,Jerry Moran,IA,0,Republican,KS,0,Republican,1,0,1
-Joni Ernst,John McCain,IA,0,Republican,AZ,0,Republican,1,0,1
-Joni Ernst,Lindsey Graham,IA,0,Republican,SC,0,Republican,1,0,1
-Joni Ernst,Michael Enzi,IA,0,Republican,WY,0,Republican,1,0,1
-Joni Ernst,Mike Lee,IA,0,Republican,UT,0,Republican,1,0,1
-Joni Ernst,Patrick “Pat” Toomey,IA,0,Republican,PA,0,Republican,1,0,1
-Joni Ernst,Rand Paul,IA,0,Republican,KY,0,Republican,1,0,1
-Joni Ernst,Ron Johnson,IA,0,Republican,WI,0,Republican,1,0,1
-Joni Ernst,Steve Daines,IA,0,Republican,MT,0,Republican,1,0,1
 Kamala Harris,Alan “Al” Franken,CA,1,Democrat,MN,1,Democrat,1,0,1
 Kamala Harris,Amy Klobuchar,CA,1,Democrat,MN,1,Democrat,1,0,1
 Kamala Harris,Angus King,CA,1,Democrat,ME,1,Independent,0,0,1
@@ -3398,22 +3238,6 @@ Lamar Alexander,Timothy “Tim” Kaine,TN,1,Republican,VA,1,Democrat,0,0,1
 Lamar Alexander,Todd Young,TN,1,Republican,IN,1,Republican,1,0,1
 Lamar Alexander,Tom Cotton,TN,1,Republican,AR,1,Republican,1,0,1
 Lamar Alexander,Tom Udall,TN,1,Republican,NM,1,Democrat,0,0,1
-Lindsey Graham,Benjamin “Ben” Sasse,SC,0,Republican,NE,0,Republican,1,0,1
-Lindsey Graham,Bob Corker,SC,0,Republican,TN,0,Republican,1,0,1
-Lindsey Graham,Charles “Chuck” Grassley,SC,0,Republican,IA,0,Republican,1,0,1
-Lindsey Graham,Deb Fischer,SC,0,Republican,NE,0,Republican,1,0,1
-Lindsey Graham,James Lankford,SC,0,Republican,OK,0,Republican,1,0,1
-Lindsey Graham,James Risch,SC,0,Republican,ID,0,Republican,1,0,1
-Lindsey Graham,Jeff Flake,SC,0,Republican,AZ,0,Republican,1,0,1
-Lindsey Graham,Jerry Moran,SC,0,Republican,KS,0,Republican,1,0,1
-Lindsey Graham,John McCain,SC,0,Republican,AZ,0,Republican,1,0,1
-Lindsey Graham,Joni Ernst,SC,0,Republican,IA,0,Republican,1,0,1
-Lindsey Graham,Michael Enzi,SC,0,Republican,WY,0,Republican,1,0,1
-Lindsey Graham,Mike Lee,SC,0,Republican,UT,0,Republican,1,0,1
-Lindsey Graham,Patrick “Pat” Toomey,SC,0,Republican,PA,0,Republican,1,0,1
-Lindsey Graham,Rand Paul,SC,0,Republican,KY,0,Republican,1,0,1
-Lindsey Graham,Ron Johnson,SC,0,Republican,WI,0,Republican,1,0,1
-Lindsey Graham,Steve Daines,SC,0,Republican,MT,0,Republican,1,0,1
 Lisa Murkowski,Alan “Al” Franken,AK,1,Republican,MN,1,Democrat,0,0,1
 Lisa Murkowski,Amy Klobuchar,AK,1,Republican,MN,1,Democrat,0,0,1
 Lisa Murkowski,Angus King,AK,1,Republican,ME,1,Independent,0,0,1
@@ -3498,8 +3322,8 @@ Luther Strange,Amy Klobuchar,AL,1,Republican,MN,1,Democrat,0,0,1
 Luther Strange,Angus King,AL,1,Republican,ME,1,Independent,0,0,1
 Luther Strange,Benjamin Cardin,AL,1,Republican,MD,1,Democrat,0,0,1
 Luther Strange,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Independent,0,0,1
-Luther Strange,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,0,1
-Luther Strange,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,0,1
+Luther Strange,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,1,1
+Luther Strange,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,1,1
 Luther Strange,Brian Schatz,AL,1,Republican,HI,1,Democrat,0,0,1
 Luther Strange,Catherine Cortez Masto,AL,1,Republican,NV,1,Democrat,0,0,1
 Luther Strange,Charles “Chuck” Schumer,AL,1,Republican,NY,1,Democrat,0,0,1
@@ -3509,7 +3333,7 @@ Luther Strange,Christopher Murphy,AL,1,Republican,CT,1,Democrat,0,0,1
 Luther Strange,Claire McCaskill,AL,1,Republican,MO,1,Democrat,0,0,1
 Luther Strange,Cory Booker,AL,1,Republican,NJ,1,Democrat,0,0,1
 Luther Strange,Cory Gardner,AL,1,Republican,CO,1,Republican,1,0,1
-Luther Strange,David Perdue,AL,1,Republican,GA,1,Republican,1,0,1
+Luther Strange,David Perdue,AL,1,Republican,GA,1,Republican,1,1,1
 Luther Strange,Dean Heller,AL,1,Republican,NV,1,Republican,1,0,1
 Luther Strange,Debbie Stabenow,AL,1,Republican,MI,1,Democrat,0,0,1
 Luther Strange,Dianne Feinstein,AL,1,Republican,CA,1,Democrat,0,0,1
@@ -3522,13 +3346,13 @@ Luther Strange,Jeanne Shaheen,AL,1,Republican,NH,1,Democrat,0,0,1
 Luther Strange,Jeff Merkley,AL,1,Republican,OR,1,Democrat,0,0,1
 Luther Strange,Joe Donnelly,AL,1,Republican,IN,1,Democrat,0,0,1
 Luther Strange,Joe Manchin,AL,1,Republican,WV,1,Democrat,0,0,1
-Luther Strange,John “Johnny” Isakson,AL,1,Republican,GA,1,Republican,1,0,1
+Luther Strange,John “Johnny” Isakson,AL,1,Republican,GA,1,Republican,1,1,1
 Luther Strange,John Barrasso,AL,1,Republican,WY,1,Republican,1,0,1
 Luther Strange,John Boozman,AL,1,Republican,AR,1,Republican,1,0,1
-Luther Strange,John Cornyn,AL,1,Republican,TX,1,Republican,1,0,1
+Luther Strange,John Cornyn,AL,1,Republican,TX,1,Republican,1,1,1
 Luther Strange,John F. “Jack” Reed,AL,1,Republican,RI,1,Democrat,0,0,1
 Luther Strange,John Hoeven,AL,1,Republican,ND,1,Republican,1,0,1
-Luther Strange,John Neely Kennedy,AL,1,Republican,LA,1,Republican,1,0,1
+Luther Strange,John Neely Kennedy,AL,1,Republican,LA,1,Republican,1,1,1
 Luther Strange,John Thune,AL,1,Republican,SD,1,Republican,1,0,1
 Luther Strange,Jon Tester,AL,1,Republican,MT,1,Democrat,0,0,1
 Luther Strange,Kamala Harris,AL,1,Republican,CA,1,Democrat,0,0,1
@@ -3551,7 +3375,7 @@ Luther Strange,Patty Murray,AL,1,Republican,WA,1,Democrat,0,0,1
 Luther Strange,Richard Blumenthal,AL,1,Republican,CT,1,Democrat,0,0,1
 Luther Strange,Richard Burr,AL,1,Republican,NC,1,Republican,1,0,1
 Luther Strange,Richard Durbin,AL,1,Republican,IL,1,Democrat,0,0,1
-Luther Strange,Richard Shelby,AL,1,Republican,AL,1,Republican,1,0,1
+Luther Strange,Richard Shelby,AL,1,Republican,AL,1,Republican,1,1,1
 Luther Strange,Robert “Bob” Casey,AL,1,Republican,PA,1,Democrat,0,0,1
 Luther Strange,Robert “Rob” Portman,AL,1,Republican,OH,1,Republican,1,0,1
 Luther Strange,Roger Wicker,AL,1,Republican,MS,1,Republican,1,0,1
@@ -3563,11 +3387,11 @@ Luther Strange,Sherrod Brown,AL,1,Republican,OH,1,Democrat,0,0,1
 Luther Strange,Susan Collins,AL,1,Republican,ME,1,Republican,1,0,1
 Luther Strange,Tammy Baldwin,AL,1,Republican,WI,1,Democrat,0,0,1
 Luther Strange,Tammy Duckworth,AL,1,Republican,IL,1,Democrat,0,0,1
-Luther Strange,Ted Cruz,AL,1,Republican,TX,1,Republican,1,0,1
+Luther Strange,Ted Cruz,AL,1,Republican,TX,1,Republican,1,1,1
 Luther Strange,Thad Cochran,AL,1,Republican,MS,1,Republican,1,0,1
 Luther Strange,Thom Tillis,AL,1,Republican,NC,1,Republican,1,0,1
 Luther Strange,Thomas Carper,AL,1,Republican,DE,1,Democrat,0,0,1
-Luther Strange,Tim Scott,AL,1,Republican,SC,1,Republican,1,0,1
+Luther Strange,Tim Scott,AL,1,Republican,SC,1,Republican,1,1,1
 Luther Strange,Timothy “Tim” Kaine,AL,1,Republican,VA,1,Democrat,0,0,1
 Luther Strange,Todd Young,AL,1,Republican,IN,1,Republican,1,0,1
 Luther Strange,Tom Cotton,AL,1,Republican,AR,1,Republican,1,0,1
@@ -4125,38 +3949,6 @@ Michael Bennet,Timothy “Tim” Kaine,CO,1,Democrat,VA,1,Democrat,1,0,1
 Michael Bennet,Todd Young,CO,1,Democrat,IN,1,Republican,0,0,1
 Michael Bennet,Tom Cotton,CO,1,Democrat,AR,1,Republican,0,0,1
 Michael Bennet,Tom Udall,CO,1,Democrat,NM,1,Democrat,1,0,1
-Michael Enzi,Benjamin “Ben” Sasse,WY,0,Republican,NE,0,Republican,1,0,1
-Michael Enzi,Bob Corker,WY,0,Republican,TN,0,Republican,1,0,1
-Michael Enzi,Charles “Chuck” Grassley,WY,0,Republican,IA,0,Republican,1,0,1
-Michael Enzi,Deb Fischer,WY,0,Republican,NE,0,Republican,1,0,1
-Michael Enzi,James Lankford,WY,0,Republican,OK,0,Republican,1,0,1
-Michael Enzi,James Risch,WY,0,Republican,ID,0,Republican,1,0,1
-Michael Enzi,Jeff Flake,WY,0,Republican,AZ,0,Republican,1,0,1
-Michael Enzi,Jerry Moran,WY,0,Republican,KS,0,Republican,1,0,1
-Michael Enzi,John McCain,WY,0,Republican,AZ,0,Republican,1,0,1
-Michael Enzi,Joni Ernst,WY,0,Republican,IA,0,Republican,1,0,1
-Michael Enzi,Lindsey Graham,WY,0,Republican,SC,0,Republican,1,0,1
-Michael Enzi,Mike Lee,WY,0,Republican,UT,0,Republican,1,0,1
-Michael Enzi,Patrick “Pat” Toomey,WY,0,Republican,PA,0,Republican,1,0,1
-Michael Enzi,Rand Paul,WY,0,Republican,KY,0,Republican,1,0,1
-Michael Enzi,Ron Johnson,WY,0,Republican,WI,0,Republican,1,0,1
-Michael Enzi,Steve Daines,WY,0,Republican,MT,0,Republican,1,0,1
-Mike Lee,Benjamin “Ben” Sasse,UT,0,Republican,NE,0,Republican,1,0,1
-Mike Lee,Bob Corker,UT,0,Republican,TN,0,Republican,1,0,1
-Mike Lee,Charles “Chuck” Grassley,UT,0,Republican,IA,0,Republican,1,0,1
-Mike Lee,Deb Fischer,UT,0,Republican,NE,0,Republican,1,0,1
-Mike Lee,James Lankford,UT,0,Republican,OK,0,Republican,1,0,1
-Mike Lee,James Risch,UT,0,Republican,ID,0,Republican,1,0,1
-Mike Lee,Jeff Flake,UT,0,Republican,AZ,0,Republican,1,0,1
-Mike Lee,Jerry Moran,UT,0,Republican,KS,0,Republican,1,0,1
-Mike Lee,John McCain,UT,0,Republican,AZ,0,Republican,1,0,1
-Mike Lee,Joni Ernst,UT,0,Republican,IA,0,Republican,1,0,1
-Mike Lee,Lindsey Graham,UT,0,Republican,SC,0,Republican,1,0,1
-Mike Lee,Michael Enzi,UT,0,Republican,WY,0,Republican,1,0,1
-Mike Lee,Patrick “Pat” Toomey,UT,0,Republican,PA,0,Republican,1,0,1
-Mike Lee,Rand Paul,UT,0,Republican,KY,0,Republican,1,0,1
-Mike Lee,Ron Johnson,UT,0,Republican,WI,0,Republican,1,0,1
-Mike Lee,Steve Daines,UT,0,Republican,MT,0,Republican,1,0,1
 Mike Rounds,Alan “Al” Franken,SD,1,Republican,MN,1,Democrat,0,0,1
 Mike Rounds,Amy Klobuchar,SD,1,Republican,MN,1,Democrat,0,0,1
 Mike Rounds,Angus King,SD,1,Republican,ME,1,Independent,0,0,1
@@ -4473,22 +4265,6 @@ Pat Roberts,Timothy “Tim” Kaine,KS,1,Republican,VA,1,Democrat,0,0,1
 Pat Roberts,Todd Young,KS,1,Republican,IN,1,Republican,1,0,1
 Pat Roberts,Tom Cotton,KS,1,Republican,AR,1,Republican,1,0,1
 Pat Roberts,Tom Udall,KS,1,Republican,NM,1,Democrat,0,0,1
-Patrick “Pat” Toomey,Benjamin “Ben” Sasse,PA,0,Republican,NE,0,Republican,1,0,1
-Patrick “Pat” Toomey,Bob Corker,PA,0,Republican,TN,0,Republican,1,0,1
-Patrick “Pat” Toomey,Charles “Chuck” Grassley,PA,0,Republican,IA,0,Republican,1,0,1
-Patrick “Pat” Toomey,Deb Fischer,PA,0,Republican,NE,0,Republican,1,0,1
-Patrick “Pat” Toomey,James Lankford,PA,0,Republican,OK,0,Republican,1,0,1
-Patrick “Pat” Toomey,James Risch,PA,0,Republican,ID,0,Republican,1,0,1
-Patrick “Pat” Toomey,Jeff Flake,PA,0,Republican,AZ,0,Republican,1,0,1
-Patrick “Pat” Toomey,Jerry Moran,PA,0,Republican,KS,0,Republican,1,0,1
-Patrick “Pat” Toomey,John McCain,PA,0,Republican,AZ,0,Republican,1,0,1
-Patrick “Pat” Toomey,Joni Ernst,PA,0,Republican,IA,0,Republican,1,0,1
-Patrick “Pat” Toomey,Lindsey Graham,PA,0,Republican,SC,0,Republican,1,0,1
-Patrick “Pat” Toomey,Michael Enzi,PA,0,Republican,WY,0,Republican,1,0,1
-Patrick “Pat” Toomey,Mike Lee,PA,0,Republican,UT,0,Republican,1,0,1
-Patrick “Pat” Toomey,Rand Paul,PA,0,Republican,KY,0,Republican,1,0,1
-Patrick “Pat” Toomey,Ron Johnson,PA,0,Republican,WI,0,Republican,1,0,1
-Patrick “Pat” Toomey,Steve Daines,PA,0,Republican,MT,0,Republican,1,0,1
 Patrick Leahy,Alan “Al” Franken,VT,1,Democrat,MN,1,Democrat,1,0,1
 Patrick Leahy,Amy Klobuchar,VT,1,Democrat,MN,1,Democrat,1,0,1
 Patrick Leahy,Angus King,VT,1,Democrat,ME,1,Independent,0,0,1
@@ -4647,22 +4423,6 @@ Patty Murray,Timothy “Tim” Kaine,WA,1,Democrat,VA,1,Democrat,1,0,1
 Patty Murray,Todd Young,WA,1,Democrat,IN,1,Republican,0,0,1
 Patty Murray,Tom Cotton,WA,1,Democrat,AR,1,Republican,0,0,1
 Patty Murray,Tom Udall,WA,1,Democrat,NM,1,Democrat,1,0,1
-Rand Paul,Benjamin “Ben” Sasse,KY,0,Republican,NE,0,Republican,1,0,1
-Rand Paul,Bob Corker,KY,0,Republican,TN,0,Republican,1,0,1
-Rand Paul,Charles “Chuck” Grassley,KY,0,Republican,IA,0,Republican,1,0,1
-Rand Paul,Deb Fischer,KY,0,Republican,NE,0,Republican,1,0,1
-Rand Paul,James Lankford,KY,0,Republican,OK,0,Republican,1,0,1
-Rand Paul,James Risch,KY,0,Republican,ID,0,Republican,1,0,1
-Rand Paul,Jeff Flake,KY,0,Republican,AZ,0,Republican,1,0,1
-Rand Paul,Jerry Moran,KY,0,Republican,KS,0,Republican,1,0,1
-Rand Paul,John McCain,KY,0,Republican,AZ,0,Republican,1,0,1
-Rand Paul,Joni Ernst,KY,0,Republican,IA,0,Republican,1,0,1
-Rand Paul,Lindsey Graham,KY,0,Republican,SC,0,Republican,1,0,1
-Rand Paul,Michael Enzi,KY,0,Republican,WY,0,Republican,1,0,1
-Rand Paul,Mike Lee,KY,0,Republican,UT,0,Republican,1,0,1
-Rand Paul,Patrick “Pat” Toomey,KY,0,Republican,PA,0,Republican,1,0,1
-Rand Paul,Ron Johnson,KY,0,Republican,WI,0,Republican,1,0,1
-Rand Paul,Steve Daines,KY,0,Republican,MT,0,Republican,1,0,1
 Richard Blumenthal,Alan “Al” Franken,CT,1,Democrat,MN,1,Democrat,1,0,1
 Richard Blumenthal,Amy Klobuchar,CT,1,Democrat,MN,1,Democrat,1,0,1
 Richard Blumenthal,Angus King,CT,1,Democrat,ME,1,Independent,0,0,1
@@ -4905,8 +4665,8 @@ Richard Shelby,Amy Klobuchar,AL,1,Republican,MN,1,Democrat,0,0,1
 Richard Shelby,Angus King,AL,1,Republican,ME,1,Independent,0,0,1
 Richard Shelby,Benjamin Cardin,AL,1,Republican,MD,1,Democrat,0,0,1
 Richard Shelby,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Independent,0,0,1
-Richard Shelby,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,0,1
-Richard Shelby,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,0,1
+Richard Shelby,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,1,1
+Richard Shelby,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,1,1
 Richard Shelby,Brian Schatz,AL,1,Republican,HI,1,Democrat,0,0,1
 Richard Shelby,Catherine Cortez Masto,AL,1,Republican,NV,1,Democrat,0,0,1
 Richard Shelby,Charles “Chuck” Schumer,AL,1,Republican,NY,1,Democrat,0,0,1
@@ -4916,7 +4676,7 @@ Richard Shelby,Christopher Murphy,AL,1,Republican,CT,1,Democrat,0,0,1
 Richard Shelby,Claire McCaskill,AL,1,Republican,MO,1,Democrat,0,0,1
 Richard Shelby,Cory Booker,AL,1,Republican,NJ,1,Democrat,0,0,1
 Richard Shelby,Cory Gardner,AL,1,Republican,CO,1,Republican,1,0,1
-Richard Shelby,David Perdue,AL,1,Republican,GA,1,Republican,1,0,1
+Richard Shelby,David Perdue,AL,1,Republican,GA,1,Republican,1,1,1
 Richard Shelby,Dean Heller,AL,1,Republican,NV,1,Republican,1,0,1
 Richard Shelby,Debbie Stabenow,AL,1,Republican,MI,1,Democrat,0,0,1
 Richard Shelby,Dianne Feinstein,AL,1,Republican,CA,1,Democrat,0,0,1
@@ -4929,20 +4689,20 @@ Richard Shelby,Jeanne Shaheen,AL,1,Republican,NH,1,Democrat,0,0,1
 Richard Shelby,Jeff Merkley,AL,1,Republican,OR,1,Democrat,0,0,1
 Richard Shelby,Joe Donnelly,AL,1,Republican,IN,1,Democrat,0,0,1
 Richard Shelby,Joe Manchin,AL,1,Republican,WV,1,Democrat,0,0,1
-Richard Shelby,John “Johnny” Isakson,AL,1,Republican,GA,1,Republican,1,0,1
+Richard Shelby,John “Johnny” Isakson,AL,1,Republican,GA,1,Republican,1,1,1
 Richard Shelby,John Barrasso,AL,1,Republican,WY,1,Republican,1,0,1
 Richard Shelby,John Boozman,AL,1,Republican,AR,1,Republican,1,0,1
-Richard Shelby,John Cornyn,AL,1,Republican,TX,1,Republican,1,0,1
+Richard Shelby,John Cornyn,AL,1,Republican,TX,1,Republican,1,1,1
 Richard Shelby,John F. “Jack” Reed,AL,1,Republican,RI,1,Democrat,0,0,1
 Richard Shelby,John Hoeven,AL,1,Republican,ND,1,Republican,1,0,1
-Richard Shelby,John Neely Kennedy,AL,1,Republican,LA,1,Republican,1,0,1
+Richard Shelby,John Neely Kennedy,AL,1,Republican,LA,1,Republican,1,1,1
 Richard Shelby,John Thune,AL,1,Republican,SD,1,Republican,1,0,1
 Richard Shelby,Jon Tester,AL,1,Republican,MT,1,Democrat,0,0,1
 Richard Shelby,Kamala Harris,AL,1,Republican,CA,1,Democrat,0,0,1
 Richard Shelby,Kirsten Gillibrand,AL,1,Republican,NY,1,Democrat,0,0,1
 Richard Shelby,Lamar Alexander,AL,1,Republican,TN,1,Republican,1,0,1
 Richard Shelby,Lisa Murkowski,AL,1,Republican,AK,1,Republican,1,0,1
-Richard Shelby,Luther Strange,AL,1,Republican,AL,1,Republican,1,0,1
+Richard Shelby,Luther Strange,AL,1,Republican,AL,1,Republican,1,1,1
 Richard Shelby,Margaret “Maggie” Hassan,AL,1,Republican,NH,1,Democrat,0,0,1
 Richard Shelby,Maria Cantwell,AL,1,Republican,WA,1,Democrat,0,0,1
 Richard Shelby,Mark Warner,AL,1,Republican,VA,1,Democrat,0,0,1
@@ -4970,11 +4730,11 @@ Richard Shelby,Sherrod Brown,AL,1,Republican,OH,1,Democrat,0,0,1
 Richard Shelby,Susan Collins,AL,1,Republican,ME,1,Republican,1,0,1
 Richard Shelby,Tammy Baldwin,AL,1,Republican,WI,1,Democrat,0,0,1
 Richard Shelby,Tammy Duckworth,AL,1,Republican,IL,1,Democrat,0,0,1
-Richard Shelby,Ted Cruz,AL,1,Republican,TX,1,Republican,1,0,1
+Richard Shelby,Ted Cruz,AL,1,Republican,TX,1,Republican,1,1,1
 Richard Shelby,Thad Cochran,AL,1,Republican,MS,1,Republican,1,0,1
 Richard Shelby,Thom Tillis,AL,1,Republican,NC,1,Republican,1,0,1
 Richard Shelby,Thomas Carper,AL,1,Republican,DE,1,Democrat,0,0,1
-Richard Shelby,Tim Scott,AL,1,Republican,SC,1,Republican,1,0,1
+Richard Shelby,Tim Scott,AL,1,Republican,SC,1,Republican,1,1,1
 Richard Shelby,Timothy “Tim” Kaine,AL,1,Republican,VA,1,Democrat,0,0,1
 Richard Shelby,Todd Young,AL,1,Republican,IN,1,Republican,1,0,1
 Richard Shelby,Tom Cotton,AL,1,Republican,AR,1,Republican,1,0,1
@@ -5216,22 +4976,6 @@ Roger Wicker,Timothy “Tim” Kaine,MS,1,Republican,VA,1,Democrat,0,0,1
 Roger Wicker,Todd Young,MS,1,Republican,IN,1,Republican,1,0,1
 Roger Wicker,Tom Cotton,MS,1,Republican,AR,1,Republican,1,0,1
 Roger Wicker,Tom Udall,MS,1,Republican,NM,1,Democrat,0,0,1
-Ron Johnson,Benjamin “Ben” Sasse,WI,0,Republican,NE,0,Republican,1,0,1
-Ron Johnson,Bob Corker,WI,0,Republican,TN,0,Republican,1,0,1
-Ron Johnson,Charles “Chuck” Grassley,WI,0,Republican,IA,0,Republican,1,0,1
-Ron Johnson,Deb Fischer,WI,0,Republican,NE,0,Republican,1,0,1
-Ron Johnson,James Lankford,WI,0,Republican,OK,0,Republican,1,0,1
-Ron Johnson,James Risch,WI,0,Republican,ID,0,Republican,1,0,1
-Ron Johnson,Jeff Flake,WI,0,Republican,AZ,0,Republican,1,0,1
-Ron Johnson,Jerry Moran,WI,0,Republican,KS,0,Republican,1,0,1
-Ron Johnson,John McCain,WI,0,Republican,AZ,0,Republican,1,0,1
-Ron Johnson,Joni Ernst,WI,0,Republican,IA,0,Republican,1,0,1
-Ron Johnson,Lindsey Graham,WI,0,Republican,SC,0,Republican,1,0,1
-Ron Johnson,Michael Enzi,WI,0,Republican,WY,0,Republican,1,0,1
-Ron Johnson,Mike Lee,WI,0,Republican,UT,0,Republican,1,0,1
-Ron Johnson,Patrick “Pat” Toomey,WI,0,Republican,PA,0,Republican,1,0,1
-Ron Johnson,Rand Paul,WI,0,Republican,KY,0,Republican,1,0,1
-Ron Johnson,Steve Daines,WI,0,Republican,MT,0,Republican,1,0,1
 Ron Wyden,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Ron Wyden,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
 Ron Wyden,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
@@ -5627,22 +5371,6 @@ Sherrod Brown,Timothy “Tim” Kaine,OH,1,Democrat,VA,1,Democrat,1,0,1
 Sherrod Brown,Todd Young,OH,1,Democrat,IN,1,Republican,0,0,1
 Sherrod Brown,Tom Cotton,OH,1,Democrat,AR,1,Republican,0,0,1
 Sherrod Brown,Tom Udall,OH,1,Democrat,NM,1,Democrat,1,0,1
-Steve Daines,Benjamin “Ben” Sasse,MT,0,Republican,NE,0,Republican,1,0,1
-Steve Daines,Bob Corker,MT,0,Republican,TN,0,Republican,1,0,1
-Steve Daines,Charles “Chuck” Grassley,MT,0,Republican,IA,0,Republican,1,0,1
-Steve Daines,Deb Fischer,MT,0,Republican,NE,0,Republican,1,0,1
-Steve Daines,James Lankford,MT,0,Republican,OK,0,Republican,1,0,1
-Steve Daines,James Risch,MT,0,Republican,ID,0,Republican,1,0,1
-Steve Daines,Jeff Flake,MT,0,Republican,AZ,0,Republican,1,0,1
-Steve Daines,Jerry Moran,MT,0,Republican,KS,0,Republican,1,0,1
-Steve Daines,John McCain,MT,0,Republican,AZ,0,Republican,1,0,1
-Steve Daines,Joni Ernst,MT,0,Republican,IA,0,Republican,1,0,1
-Steve Daines,Lindsey Graham,MT,0,Republican,SC,0,Republican,1,0,1
-Steve Daines,Michael Enzi,MT,0,Republican,WY,0,Republican,1,0,1
-Steve Daines,Mike Lee,MT,0,Republican,UT,0,Republican,1,0,1
-Steve Daines,Patrick “Pat” Toomey,MT,0,Republican,PA,0,Republican,1,0,1
-Steve Daines,Rand Paul,MT,0,Republican,KY,0,Republican,1,0,1
-Steve Daines,Ron Johnson,MT,0,Republican,WI,0,Republican,1,0,1
 Susan Collins,Alan “Al” Franken,ME,1,Republican,MN,1,Democrat,0,0,1
 Susan Collins,Amy Klobuchar,ME,1,Republican,MN,1,Democrat,0,0,1
 Susan Collins,Angus King,ME,1,Republican,ME,1,Independent,0,0,1
@@ -5886,7 +5614,7 @@ Ted Cruz,Angus King,TX,1,Republican,ME,1,Independent,0,0,1
 Ted Cruz,Benjamin Cardin,TX,1,Republican,MD,1,Democrat,0,0,1
 Ted Cruz,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Independent,0,0,1
 Ted Cruz,Bill Cassidy,TX,1,Republican,LA,1,Republican,1,1,1
-Ted Cruz,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,0,1
+Ted Cruz,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,1,1
 Ted Cruz,Brian Schatz,TX,1,Republican,HI,1,Democrat,0,0,1
 Ted Cruz,Catherine Cortez Masto,TX,1,Republican,NV,1,Democrat,0,0,1
 Ted Cruz,Charles “Chuck” Schumer,TX,1,Republican,NY,1,Democrat,0,0,1
@@ -5896,7 +5624,7 @@ Ted Cruz,Christopher Murphy,TX,1,Republican,CT,1,Democrat,0,0,1
 Ted Cruz,Claire McCaskill,TX,1,Republican,MO,1,Democrat,0,0,1
 Ted Cruz,Cory Booker,TX,1,Republican,NJ,1,Democrat,0,0,1
 Ted Cruz,Cory Gardner,TX,1,Republican,CO,1,Republican,1,0,1
-Ted Cruz,David Perdue,TX,1,Republican,GA,1,Republican,1,0,1
+Ted Cruz,David Perdue,TX,1,Republican,GA,1,Republican,1,1,1
 Ted Cruz,Dean Heller,TX,1,Republican,NV,1,Republican,1,0,1
 Ted Cruz,Debbie Stabenow,TX,1,Republican,MI,1,Democrat,0,0,1
 Ted Cruz,Dianne Feinstein,TX,1,Republican,CA,1,Democrat,0,0,1
@@ -5909,7 +5637,7 @@ Ted Cruz,Jeanne Shaheen,TX,1,Republican,NH,1,Democrat,0,0,1
 Ted Cruz,Jeff Merkley,TX,1,Republican,OR,1,Democrat,0,0,1
 Ted Cruz,Joe Donnelly,TX,1,Republican,IN,1,Democrat,0,0,1
 Ted Cruz,Joe Manchin,TX,1,Republican,WV,1,Democrat,0,0,1
-Ted Cruz,John “Johnny” Isakson,TX,1,Republican,GA,1,Republican,1,0,1
+Ted Cruz,John “Johnny” Isakson,TX,1,Republican,GA,1,Republican,1,1,1
 Ted Cruz,John Barrasso,TX,1,Republican,WY,1,Republican,1,0,1
 Ted Cruz,John Boozman,TX,1,Republican,AR,1,Republican,1,0,1
 Ted Cruz,John Cornyn,TX,1,Republican,TX,1,Republican,1,1,1
@@ -5922,7 +5650,7 @@ Ted Cruz,Kamala Harris,TX,1,Republican,CA,1,Democrat,0,0,1
 Ted Cruz,Kirsten Gillibrand,TX,1,Republican,NY,1,Democrat,0,0,1
 Ted Cruz,Lamar Alexander,TX,1,Republican,TN,1,Republican,1,0,1
 Ted Cruz,Lisa Murkowski,TX,1,Republican,AK,1,Republican,1,0,1
-Ted Cruz,Luther Strange,TX,1,Republican,AL,1,Republican,1,0,1
+Ted Cruz,Luther Strange,TX,1,Republican,AL,1,Republican,1,1,1
 Ted Cruz,Margaret “Maggie” Hassan,TX,1,Republican,NH,1,Democrat,0,0,1
 Ted Cruz,Maria Cantwell,TX,1,Republican,WA,1,Democrat,0,0,1
 Ted Cruz,Mark Warner,TX,1,Republican,VA,1,Democrat,0,0,1
@@ -5939,7 +5667,7 @@ Ted Cruz,Patty Murray,TX,1,Republican,WA,1,Democrat,0,0,1
 Ted Cruz,Richard Blumenthal,TX,1,Republican,CT,1,Democrat,0,0,1
 Ted Cruz,Richard Burr,TX,1,Republican,NC,1,Republican,1,0,1
 Ted Cruz,Richard Durbin,TX,1,Republican,IL,1,Democrat,0,0,1
-Ted Cruz,Richard Shelby,TX,1,Republican,AL,1,Republican,1,0,1
+Ted Cruz,Richard Shelby,TX,1,Republican,AL,1,Republican,1,1,1
 Ted Cruz,Robert “Bob” Casey,TX,1,Republican,PA,1,Democrat,0,0,1
 Ted Cruz,Robert “Rob” Portman,TX,1,Republican,OH,1,Republican,1,0,1
 Ted Cruz,Roger Wicker,TX,1,Republican,MS,1,Republican,1,0,1
@@ -5954,7 +5682,7 @@ Ted Cruz,Tammy Duckworth,TX,1,Republican,IL,1,Democrat,0,0,1
 Ted Cruz,Thad Cochran,TX,1,Republican,MS,1,Republican,1,0,1
 Ted Cruz,Thom Tillis,TX,1,Republican,NC,1,Republican,1,0,1
 Ted Cruz,Thomas Carper,TX,1,Republican,DE,1,Democrat,0,0,1
-Ted Cruz,Tim Scott,TX,1,Republican,SC,1,Republican,1,0,1
+Ted Cruz,Tim Scott,TX,1,Republican,SC,1,Republican,1,1,1
 Ted Cruz,Timothy “Tim” Kaine,TX,1,Republican,VA,1,Democrat,0,0,1
 Ted Cruz,Todd Young,TX,1,Republican,IN,1,Republican,1,0,1
 Ted Cruz,Tom Cotton,TX,1,Republican,AR,1,Republican,1,0,1
@@ -6201,8 +5929,8 @@ Tim Scott,Amy Klobuchar,SC,1,Republican,MN,1,Democrat,0,0,1
 Tim Scott,Angus King,SC,1,Republican,ME,1,Independent,0,0,1
 Tim Scott,Benjamin Cardin,SC,1,Republican,MD,1,Democrat,0,0,1
 Tim Scott,Bernard “Bernie” Sanders,SC,1,Republican,VT,1,Independent,0,0,1
-Tim Scott,Bill Cassidy,SC,1,Republican,LA,1,Republican,1,0,1
-Tim Scott,Bill Nelson,SC,1,Republican,FL,1,Democrat,0,0,1
+Tim Scott,Bill Cassidy,SC,1,Republican,LA,1,Republican,1,1,1
+Tim Scott,Bill Nelson,SC,1,Republican,FL,1,Democrat,0,1,1
 Tim Scott,Brian Schatz,SC,1,Republican,HI,1,Democrat,0,0,1
 Tim Scott,Catherine Cortez Masto,SC,1,Republican,NV,1,Democrat,0,0,1
 Tim Scott,Charles “Chuck” Schumer,SC,1,Republican,NY,1,Democrat,0,0,1
@@ -6212,7 +5940,7 @@ Tim Scott,Christopher Murphy,SC,1,Republican,CT,1,Democrat,0,0,1
 Tim Scott,Claire McCaskill,SC,1,Republican,MO,1,Democrat,0,0,1
 Tim Scott,Cory Booker,SC,1,Republican,NJ,1,Democrat,0,0,1
 Tim Scott,Cory Gardner,SC,1,Republican,CO,1,Republican,1,0,1
-Tim Scott,David Perdue,SC,1,Republican,GA,1,Republican,1,0,1
+Tim Scott,David Perdue,SC,1,Republican,GA,1,Republican,1,1,1
 Tim Scott,Dean Heller,SC,1,Republican,NV,1,Republican,1,0,1
 Tim Scott,Debbie Stabenow,SC,1,Republican,MI,1,Democrat,0,0,1
 Tim Scott,Dianne Feinstein,SC,1,Republican,CA,1,Democrat,0,0,1
@@ -6225,20 +5953,20 @@ Tim Scott,Jeanne Shaheen,SC,1,Republican,NH,1,Democrat,0,0,1
 Tim Scott,Jeff Merkley,SC,1,Republican,OR,1,Democrat,0,0,1
 Tim Scott,Joe Donnelly,SC,1,Republican,IN,1,Democrat,0,0,1
 Tim Scott,Joe Manchin,SC,1,Republican,WV,1,Democrat,0,0,1
-Tim Scott,John “Johnny” Isakson,SC,1,Republican,GA,1,Republican,1,0,1
+Tim Scott,John “Johnny” Isakson,SC,1,Republican,GA,1,Republican,1,1,1
 Tim Scott,John Barrasso,SC,1,Republican,WY,1,Republican,1,0,1
 Tim Scott,John Boozman,SC,1,Republican,AR,1,Republican,1,0,1
-Tim Scott,John Cornyn,SC,1,Republican,TX,1,Republican,1,0,1
+Tim Scott,John Cornyn,SC,1,Republican,TX,1,Republican,1,1,1
 Tim Scott,John F. “Jack” Reed,SC,1,Republican,RI,1,Democrat,0,0,1
 Tim Scott,John Hoeven,SC,1,Republican,ND,1,Republican,1,0,1
-Tim Scott,John Neely Kennedy,SC,1,Republican,LA,1,Republican,1,0,1
+Tim Scott,John Neely Kennedy,SC,1,Republican,LA,1,Republican,1,1,1
 Tim Scott,John Thune,SC,1,Republican,SD,1,Republican,1,0,1
 Tim Scott,Jon Tester,SC,1,Republican,MT,1,Democrat,0,0,1
 Tim Scott,Kamala Harris,SC,1,Republican,CA,1,Democrat,0,0,1
 Tim Scott,Kirsten Gillibrand,SC,1,Republican,NY,1,Democrat,0,0,1
 Tim Scott,Lamar Alexander,SC,1,Republican,TN,1,Republican,1,0,1
 Tim Scott,Lisa Murkowski,SC,1,Republican,AK,1,Republican,1,0,1
-Tim Scott,Luther Strange,SC,1,Republican,AL,1,Republican,1,0,1
+Tim Scott,Luther Strange,SC,1,Republican,AL,1,Republican,1,1,1
 Tim Scott,Margaret “Maggie” Hassan,SC,1,Republican,NH,1,Democrat,0,0,1
 Tim Scott,Maria Cantwell,SC,1,Republican,WA,1,Democrat,0,0,1
 Tim Scott,Mark Warner,SC,1,Republican,VA,1,Democrat,0,0,1
@@ -6255,7 +5983,7 @@ Tim Scott,Patty Murray,SC,1,Republican,WA,1,Democrat,0,0,1
 Tim Scott,Richard Blumenthal,SC,1,Republican,CT,1,Democrat,0,0,1
 Tim Scott,Richard Burr,SC,1,Republican,NC,1,Republican,1,0,1
 Tim Scott,Richard Durbin,SC,1,Republican,IL,1,Democrat,0,0,1
-Tim Scott,Richard Shelby,SC,1,Republican,AL,1,Republican,1,0,1
+Tim Scott,Richard Shelby,SC,1,Republican,AL,1,Republican,1,1,1
 Tim Scott,Robert “Bob” Casey,SC,1,Republican,PA,1,Democrat,0,0,1
 Tim Scott,Robert “Rob” Portman,SC,1,Republican,OH,1,Republican,1,0,1
 Tim Scott,Roger Wicker,SC,1,Republican,MS,1,Republican,1,0,1
@@ -6267,7 +5995,7 @@ Tim Scott,Sherrod Brown,SC,1,Republican,OH,1,Democrat,0,0,1
 Tim Scott,Susan Collins,SC,1,Republican,ME,1,Republican,1,0,1
 Tim Scott,Tammy Baldwin,SC,1,Republican,WI,1,Democrat,0,0,1
 Tim Scott,Tammy Duckworth,SC,1,Republican,IL,1,Democrat,0,0,1
-Tim Scott,Ted Cruz,SC,1,Republican,TX,1,Republican,1,0,1
+Tim Scott,Ted Cruz,SC,1,Republican,TX,1,Republican,1,1,1
 Tim Scott,Thad Cochran,SC,1,Republican,MS,1,Republican,1,0,1
 Tim Scott,Thom Tillis,SC,1,Republican,NC,1,Republican,1,0,1
 Tim Scott,Thomas Carper,SC,1,Republican,DE,1,Democrat,0,0,1

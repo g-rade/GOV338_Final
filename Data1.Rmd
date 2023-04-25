@@ -20,7 +20,7 @@ harvey_relief <- import("harvey2018.csv") %>%
 water_infrastructure <- import("water2018.csv") ## source: https://www.govtrack.us/congress/votes/115-2018/s225
 
 FEMA <- import("FEMA.csv") %>% 
-  filter(disasterName == "HURRICANE SANDY" | disasterName == "HURRICANE HARVEY") %>% 
+  filter(disasterName %in% c("HURRICANE SANDY", "HURRICANE HARVEY", "HURRICANE MARIA", "HURRICANE IRMA")) %>% 
   distinct(stateCode, .keep_all = TRUE)
 ```
 
@@ -82,12 +82,11 @@ sandy2 <- sandy_relief %>%
 sandy_joined <- sandy_combos %>% 
   left_join(sandy1, by = "name") %>% 
   left_join(sandy2, by = "name2") %>% 
-
-  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm2 = ifelse(state2 %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == vote2, 1, 0)) %>% 
+  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm2 = ifelse(state2 %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == 1 & vote2 == 1, 1, 0)) %>% 
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1) ## join the datasets together, create a cross party and shared storm variable, then only filter where the votes are the same
 
-export(sandy_joined, "sandy_dyads.csv")
+#export(sandy_joined, "sandy_dyads.csv")
 
 ```
 
@@ -111,11 +110,11 @@ highway2 <- highway_funds %>%
 highway_joined <- highway_combos %>% 
   left_join(highway1, by = "name") %>% 
   left_join(highway2, by = "name2") %>% 
-  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm2 = ifelse(state2 %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == vote2, 1, 0)) %>% 
+  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm2 = ifelse(state2 %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == 1 & vote2 == 1, 1, 0)) %>% 
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(highway_joined, "highway_dyads.csv")
+#export(highway_joined, "highway_dyads.csv")
 ```
 
 ```{r}
@@ -137,11 +136,11 @@ harvey2 <- harvey_relief %>%
 harvey_joined <- harvey_combos %>% 
   left_join(harvey1, by = "name") %>% 
   left_join(harvey2, by = "name2") %>% 
-  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("TX", "LA"), 1, 0), storm2 = ifelse(state2 %in% c("TX", "LA"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == vote2, 1, 0)) %>% 
+  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0), storm2 = ifelse(state2 %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == 1 & vote2 == 1, 1, 0)) %>% 
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(harvey_joined, "harvey_dyads.csv")
+#export(harvey_joined, "harvey_dyads.csv")
   
 ```
 
@@ -164,11 +163,11 @@ water2 <- water_infrastructure %>%
 water_joined <- water_combos %>% 
   left_join(water1, by = "name") %>% 
   left_join(water2, by = "name2") %>% 
-  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("TX", "LA"), 1, 0), storm2 = ifelse(state2 %in% c("TX", "LA"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == vote2, 1, 0)) %>% 
+  mutate(cross_party = ifelse(party == party2, 1, 0), storm1 = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0), storm2 = ifelse(state2 %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0), storm = ifelse(storm1 == 1 & storm2 == 1, 1, 0), sharevote = ifelse(vote == 1 & vote2 == 1, 1, 0)) %>% 
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(water_joined, "water_dyads.csv")
+# export(water_joined, "water_dyads.csv")
 
 ```
 

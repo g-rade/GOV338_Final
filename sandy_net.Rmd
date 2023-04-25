@@ -7,7 +7,7 @@ output: html_document
 ```{r}
 library(tidyverse)
 library(rio)
-#library(statnet)
+library(statnet)
 
 sandy_dyads <- import("sandy_dyads.csv")
 
@@ -17,10 +17,10 @@ sandy_relief <- sandy_relief %>%
   mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>% 
   mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0))
 
-#library(network) ## load network
+library(network) ## load network
 
 sandy_sens <- nrow(sandy_relief)
-net_sandy <-network.initialize(sandy_sens) ## initialize an empty network
+net_sandy <-network.initialize(sandy_sens, directed = F) ## initialize an empty network
 
 network.vertex.names(x=net_sandy) <- sandy_relief$name ## name the vertices
 
@@ -29,7 +29,15 @@ sandy_el <- sandy_dyads %>%
 
 net_sandy[as.matrix(sandy_el)] <- 1 
 
-set.vertex.attribute(x=net_sandy,attrname="Storm",val=sandy_dyads$storm) 
+#set.vertex.attribute(x=net_sandy,attrname="Storm",val=sandy_dyads$storm) ## not a directed network (remove arrows manually)
+
+##
+
+plot(net_sandy) ## use this code
+
+## community detection algorithm first, then do modularity (subgroup analysis first)
+
+## could also filter the edge list based on storm 
 
 ```
 
@@ -39,5 +47,7 @@ library(igraph)
 sandy_net <- graph_from_data_frame(sandy_el, directed = F) ## this is a 
 plot(sandy_net, vertex.size = 5, alpha = 0.1, vertex.color = sandy_relief$storm, edge.color = sandy_dyads$cross_party) ## this is a really ugly plot, can't get it to spread out, can't get everything to be bigger, also i can change the color but cannot specify which ones I want
 modularity(sandy_net) ## I can't get this to work
+
+## community detection algorithm first, then do modularity
 ```
 
