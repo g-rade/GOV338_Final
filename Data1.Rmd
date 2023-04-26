@@ -7,7 +7,7 @@ output: html_document
 ```{r}
 library(tidyverse)
 library(rio)
-library(statnet)
+
 ```
 
 ```{r}
@@ -86,7 +86,7 @@ sandy_joined <- sandy_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1) ## join the datasets together, create a cross party and shared storm variable, then only filter where the votes are the same
 
-#export(sandy_joined, "sandy_dyads.csv")
+export(sandy_joined, "sandy_dyads.csv")
 
 ```
 
