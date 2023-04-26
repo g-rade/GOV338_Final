@@ -11,12 +11,108 @@ library(igraph)
 
 water_infrastrucutre <- import('water2018.csv')
 water_infrastrucutre <- water_infrastrucutre %>% 
-  mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>%
+  mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>%
   mutate(storm = ifelse(state %in% c("TX", "LA"), 1, 0))
   
 water_dyads <- import("water_dyads.csv")
 
 water_net <- graph_from_data_frame(water_dyads, directed = F)
 plot(water_net)
+```
+
+```{r}
+library(rio)
+library(tidyverse)
+library(linkcomm)
+library(concoR)
+library(network)
+library(statnet)
+library(igraph)
+library(intergraph)
+
+water_dyads <- import("water_dyads.csv")
+water_dyads2 <- import("water_dyads2.csv")
+water_infrastructure <- import("water2018.csv")
+
+water_infrastructure <- water_infrastructure %>% 
+  mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>% 
+  select(-c(district, person)) %>% 
+  mutate(storm = ifelse(state %in% c("TX", "LA"), 1, 0)) ## sandy relief just in case
+
+water_el <- water_dyads %>% 
+ select(name, name2) ## edge list
+
+water_dyads2 <- water_dyads2 %>% 
+  anti_join(water_dyads)
+water_el2 <- water_dyads2 %>% 
+  select(name, name2) ## edge list 2 of all the nodes not in the edge list (idk just spitballing)
+
+## intiialize network and add names
+
+net_water <- network.initialize(100) ## empty network of 100 people
+network.vertex.names(net_water) <- water_infrastructure$name ## add in senator names
+
+## add in edges
+net_water[as.matrix(water_el)] <- 1 
+
+set.vertex.attribute(net_water, "Storm State", water_infrastructure$storm) ## set storm as a vertex attribute
+
+set.edge.attribute(net_water, "Cross Party", water_dyads$cross_party) ## set edge attribute to cross party vote
+
+## idk if messing with the edge lists will work, trying to get all the senators to be in the edge list
+water_el <- water_el %>% 
+  mutate(sharevote = 1)
+
+water_el2 <- water_el2 %>% 
+  mutate(sharevote = 0)
+
+water_el3 <- water_el %>% 
+  full_join(water_el2)
+
+## start structural equivalence (get the blocks)
+mat <- as.matrix.network.adjacency(net_water)
+blocks <- equiv.clust(mat, method="euclidean") ## use equivalent clusters because they work on network objects
+
+bm<-blockmodel(mat,blocks, k=2) ## blockmodel for the groups  (there are two blocks)
+
+block2 <- as.data.frame(bm$block.membership)
+block2$block <- block2$`bm$block.membership`
+block2$name <-bm$plabels
+block2$`bm$block.membership` <- NULL ## i have made a df of the blockmodel, sorting the whole senate into groups 
+
+net_water2 <- asIgraph(net_water) ## convert this object to an igraph object 
+
+modularity(net_water2, block2$block) ## calculate modularity, how to add the storm attribute though and cross party, not sure what to do next
+## membership variable are the blocks
+
+## my trying to at least make some progress in using our grouping variables
+
+first_block <- water_infrastructure %>% 
+  full_join(block2) %>% 
+  filter(block == 1) %>% 
+  group_by(party, storm) %>% 
+  summarize(number = n()) ## looking at the storm membership by party for block 1
+
+second_block <- water_infrastructure %>% 
+  full_join(block2) %>% 
+  filter(block == 2) %>% 
+  group_by(party, storm) %>% 
+  summarize(number = n()) ## looking at the storm membership by party for block 2
+
+storm <- water_infrastructure %>% 
+  full_join(block2) %>% 
+  group_by(storm, block) %>% 
+  summarize(number = n()) ## looking at the storm membership by block
+
+## not quite sure how to go about doing cross party variable, need to add it to the dyads but then i can't look at the blocks
+
+cross_party1 <- water_dyads %>% 
+  filter(cross_party == 1) %>% 
+  group_by(storm) %>% 
+  summarize(number = n()) ## look at number of shared storm in cross party ties
+
+cross_party2 <- water_dyads %>% 
+  group_by(cross_party, storm) %>% 
+  summarize(number = n()) ## number of ties by cross party and storm
 ```
 
