@@ -29,12 +29,16 @@ library(linkcomm)
 library(concoR)
 library(network)
 library(statnet)
-#library(igraph)
+library(igraph)
 library(intergraph)
 
 harvey_dyads <- import("harvey_dyads.csv")
 harvey_dyads2 <- import("harvey_dyads2.csv")
-#harvey_relief <- import("harvey2018.csv")
+harvey_relief <- import("harvey2018.csv")
+
+harvey_relief <-harvey_relief %>% 
+  rename(person = "V1", state = "V2", district = "V3", vote = "V4", name = "V5", party = "V6") %>% 
+  filter(!row_number() %in% c(1,2))
 
 harvey_relief <- harvey_relief %>% 
   mutate(name = substr(name, 6,nchar(harvey_relief$name)-15)) %>% 
@@ -82,6 +86,7 @@ block2$block <- block2$`bm$block.membership`
 block2$name <-bm$plabels
 block2$`bm$block.membership` <- NULL ## i have made a df of the blockmodel, sorting the whole senate into groups 
 
+export(block2, "harvey_blocks.csv")
 net_harvey2 <- asIgraph(net_harvey) ## convert this object to an igraph object 
 
 modularity(net_harvey2, block2$block) ## calculate modularity, how to add the storm attribute though and cross party, not sure what to do next

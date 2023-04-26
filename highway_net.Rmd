@@ -33,6 +33,7 @@ library(intergraph)
 highway_dyads <- import("highway_dyads.csv")
 highway_dyads2 <- import("highway_dyads2.csv")
 highway_funds <- import("highway2014.csv")
+blocks <- import("sandy_blocks.csv")
 
 highway_funds <- highway_funds %>% 
   mutate(name = substr(name, 6,nchar(highway_funds$name)-15)) %>% 
@@ -113,5 +114,6 @@ cross_party1 <- highway_dyads %>%
 cross_party2 <- highway_dyads %>% 
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
+
 ```
 

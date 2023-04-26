@@ -26,6 +26,14 @@ sandy_relief <- sandy_relief %>%
 sandy_el <- sandy_dyads %>% 
  select(name, name2) ## edge list
 
+sandy_el_sings <- sandy_dyads %>% 
+  edge.duplicates()
+
+sandy_el_sings <- sandy_el_sings[2] %>% 
+  as.data.frame(name = sandy_el_sings[1], name2 = sandy_el_sings[2]) %>% 
+  rename(name = "edges.1", name2 = "edges.2") %>% 
+  left_join(sandy_dyads)
+
 sandy_dyads2 <- sandy_dyads2 %>% 
   anti_join(sandy_dyads)
 sandy_el2 <- sandy_dyads2 %>% 
@@ -65,6 +73,7 @@ block2$block <- block2$`bm$block.membership`
 block2$name <-bm$plabels
 block2$`bm$block.membership` <- NULL ## i have made a df of the blockmodel, sorting the whole senate into groups 
 
+export(block2, "sandy_blocks.csv")
 net_sandy2 <- asIgraph(net_sandy) ## convert this object to an igraph object 
 
 modularity(net_sandy2, block2$block) ## calculate modularity, how to add the storm attribute though and cross party, not sure what to do next
@@ -91,8 +100,8 @@ storm <- sandy_relief %>%
 
 ## not quite sure how to go about doing cross party variable, need to add it to the dyads but then i can't look at the blocks
 
-cross_party1 <- sandy_dyads %>% 
-  filter(cross_party == 1) %>% 
+cross_party1 <- sandy_el_sings %>% 
+  filter(cross_party == 0) %>% 
   group_by(storm) %>% 
   summarize(number = n()) ## look at number of shared storm in cross party ties
 

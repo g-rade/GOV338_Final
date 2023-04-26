@@ -1,0 +1,22 @@
+---
+title: "block_comparisons"
+author: "Grace Rade"
+date: "2023-04-26"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(rio)
+
+## harvey vs. water infrastrucutre blocks
+
+harvey_blocks <- import("harvey_blocks.csv") %>% 
+  rename(block1 = "block")
+water_blocks <- import("water_blocks.csv") %>% 
+  rename(block2 = "block")
+
+change_blocks_hw <- harvey_blocks %>% 
+  inner_join(water_blocks, by = "name") %>% 
+  filter(block1 != block2)
+```
+

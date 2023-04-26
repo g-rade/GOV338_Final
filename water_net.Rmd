@@ -78,7 +78,9 @@ bm<-blockmodel(mat,blocks, k=2) ## blockmodel for the groups  (there are two blo
 block2 <- as.data.frame(bm$block.membership)
 block2$block <- block2$`bm$block.membership`
 block2$name <-bm$plabels
-block2$`bm$block.membership` <- NULL ## i have made a df of the blockmodel, sorting the whole senate into groups 
+block2$`bm$block.membership` <- NULL## i have made a df of the blockmodel, sorting the whole senate into groups 
+
+export(block2, "water_blocks.csv")
 
 net_water2 <- asIgraph(net_water) ## convert this object to an igraph object 
 
