@@ -2,9 +2,11 @@
 title: "sandy_net.Rmd"
 author: "Grace Rade"
 date: "2023-04-18"
-output: html_document
+output: 
+  html_document:
+    df_print: kable
 ---
-```{r}
+```{r, warning = F, message = F}
 library(rio)
 library(tidyverse)
 library(linkcomm)
@@ -13,6 +15,7 @@ library(network)
 library(statnet)
 library(igraph)
 library(intergraph)
+library(knitr)
 
 sandy_dyads <- import("sandy_dyads.csv")
 sandy_dyads2 <- import("sandy_dyads2.csv")
@@ -87,11 +90,15 @@ first_block <- sandy_relief %>%
   group_by(party, storm) %>% 
   summarize(number = n()) ## looking at the storm membership by party for block 1
 
+first_block
+
 second_block <- sandy_relief %>% 
   full_join(block2) %>% 
   filter(block == 2) %>% 
   group_by(party, storm) %>% 
   summarize(number = n()) ## looking at the storm membership by party for block 2
+
+second_block
 
 storm <- sandy_relief %>% 
   full_join(block2) %>% 
@@ -108,5 +115,9 @@ cross_party1 <- sandy_el_sings %>%
 cross_party2 <- sandy_dyads %>% 
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
+```
+
+```{r, fig.caption = "Hurricane Sandy and Highway Funding Block 1 Membership by Party and Storm Status"}
+first_block
 ```
 

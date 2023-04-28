@@ -14,9 +14,24 @@ harvey_blocks <- import("harvey_blocks.csv") %>%
   rename(block1 = "block")
 water_blocks <- import("water_blocks.csv") %>% 
   rename(block2 = "block")
+sandy_blocks <- import("sandy_blocks.csv") %>% 
+  rename(block1 = "block")
+highway_blocks <- import("highway_blocks.csv") %>% 
+  rename(block2 = "block")
+
 
 change_blocks_hw <- harvey_blocks %>% 
   inner_join(water_blocks, by = "name") %>% 
   filter(block1 != block2)
+
+change_blocks_sh <- sandy_blocks %>% 
+  inner_join(highway_blocks, by = "name") %>% 
+  filter(block1 != block2)
+
+both_members_sh <- sandy_blocks %>% 
+  full_join(highway_blocks, by = "name")
+
+both_members_hw <- change_blocks_hw <- harvey_blocks %>% 
+  full_join(water_blocks, by = "name")
 ```
 

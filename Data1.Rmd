@@ -86,7 +86,7 @@ sandy_joined <- sandy_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1) ## join the datasets together, create a cross party and shared storm variable, then only filter where the votes are the same
 
-export(sandy_joined, "sandy_dyads.csv")
+#export(sandy_joined, "sandy_dyads.csv")
 
 ```
 
@@ -114,7 +114,7 @@ highway_joined <- highway_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(highway_joined, "highway_dyads.csv")
+#export(highway_joined, "highway_dyads.csv")
 ```
 
 ```{r}
@@ -140,7 +140,7 @@ harvey_joined <- harvey_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(harvey_joined, "harvey_dyads.csv")
+#export(harvey_joined, "harvey_dyads.csv")
   
 ```
 
@@ -167,7 +167,7 @@ water_joined <- water_combos %>%
   select(-c(storm1, storm2)) %>% 
   filter(sharevote == 1)
 
-export(water_joined, "water_dyads.csv")
+#export(water_joined, "water_dyads.csv")
 
 ```
 

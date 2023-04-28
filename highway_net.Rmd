@@ -80,6 +80,8 @@ block2$block <- block2$`bm$block.membership`
 block2$name <-bm$plabels
 block2$`bm$block.membership` <- NULL ## i have made a df of the blockmodel, sorting the whole senate into groups 
 
+export(block2, "highway_blocks.csv")
+
 net_highway2 <- asIgraph(net_highway) ## convert this object to an igraph object 
 
 modularity(net_highway2, block2$block) ## calculate modularity, how to add the storm attribute though and cross party, not sure what to do next

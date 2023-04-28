@@ -2,22 +2,24 @@
 title: "water_net"
 author: "Grace Rade"
 date: "2023-04-23"
-output: html_document
+output: 
+  html_document:
+    df_print: kable
 ---
 ```{r}
-library(tidyverse)
-library(rio)
-library(igraph)
+#library(tidyverse)
+#library(rio)
+#library(igraph)
 
-water_infrastrucutre <- import('water2018.csv')
-water_infrastrucutre <- water_infrastrucutre %>% 
-  mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>%
-  mutate(storm = ifelse(state %in% c("TX", "LA"), 1, 0))
+#water_infrastrucutre <- import('water2018.csv')
+#water_infrastrucutre <- water_infrastrucutre %>% 
+ # mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>%
+  #mutate(storm = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0))
   
-water_dyads <- import("water_dyads.csv")
+#water_dyads <- import("water_dyads.csv")
 
-water_net <- graph_from_data_frame(water_dyads, directed = F)
-plot(water_net)
+#water_net <- graph_from_data_frame(water_dyads, directed = F)
+#plot(water_net)
 ```
 
 ```{r}
@@ -37,7 +39,7 @@ water_infrastructure <- import("water2018.csv")
 water_infrastructure <- water_infrastructure %>% 
   mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>% 
   select(-c(district, person)) %>% 
-  mutate(storm = ifelse(state %in% c("TX", "LA"), 1, 0)) ## sandy relief just in case
+  mutate(storm = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0)) ## sandy relief just in case
 
 water_el <- water_dyads %>% 
  select(name, name2) ## edge list
@@ -116,5 +118,9 @@ cross_party1 <- water_dyads %>%
 cross_party2 <- water_dyads %>% 
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
+
+first_block
+
+second_block
 ```
 
