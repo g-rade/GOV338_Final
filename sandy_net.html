@@ -4220,9 +4220,9 @@ modularity(net_sandy2, block2$block) ## calculate modularity, how to add the sto
 
 first_block &lt;- sandy_relief %&gt;% 
   full_join(block2) %&gt;% 
-  filter(block == 1) %&gt;% 
-  group_by(party, storm) %&gt;% 
-  summarize(number = n()) ## looking at the storm membership by party for block 1
+  group_by(party, storm, block) %&gt;% 
+  summarize(number = n()) %&gt;% 
+  arrange(block, .by_group = F) ## looking at the storm membership by party for block 1
 
 first_block</code></pre>
 <div class="kable-table">
@@ -4231,6 +4231,7 @@ first_block</code></pre>
 <tr class="header">
 <th align="left">party</th>
 <th align="right">storm</th>
+<th align="right">block</th>
 <th align="right">number</th>
 </tr>
 </thead>
@@ -4238,10 +4239,12 @@ first_block</code></pre>
 <tr class="odd">
 <td align="left">Democrat</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">33</td>
 </tr>
 <tr class="even">
 <td align="left">Democrat</td>
+<td align="right">1</td>
 <td align="right">1</td>
 <td align="right">19</td>
 </tr>
@@ -4249,11 +4252,37 @@ first_block</code></pre>
 <td align="left">Independent</td>
 <td align="right">0</td>
 <td align="right">1</td>
+<td align="right">1</td>
 </tr>
 <tr class="even">
 <td align="left">Republican</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">9</td>
+</tr>
+<tr class="odd">
+<td align="left">Democrat</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">Independent</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">Republican</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">34</td>
+</tr>
+<tr class="even">
+<td align="left">Republican</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">2</td>
 </tr>
 </tbody>
 </table>
@@ -4320,6 +4349,7 @@ cross_party2 &lt;- sandy_dyads %&gt;%
 <tr class="header">
 <th align="left">party</th>
 <th align="right">storm</th>
+<th align="right">block</th>
 <th align="right">number</th>
 </tr>
 </thead>
@@ -4327,10 +4357,12 @@ cross_party2 &lt;- sandy_dyads %&gt;%
 <tr class="odd">
 <td align="left">Democrat</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">33</td>
 </tr>
 <tr class="even">
 <td align="left">Democrat</td>
+<td align="right">1</td>
 <td align="right">1</td>
 <td align="right">19</td>
 </tr>
@@ -4338,11 +4370,37 @@ cross_party2 &lt;- sandy_dyads %&gt;%
 <td align="left">Independent</td>
 <td align="right">0</td>
 <td align="right">1</td>
+<td align="right">1</td>
 </tr>
 <tr class="even">
 <td align="left">Republican</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">9</td>
+</tr>
+<tr class="odd">
+<td align="left">Democrat</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
+<td align="left">Independent</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr class="odd">
+<td align="left">Republican</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">34</td>
+</tr>
+<tr class="even">
+<td align="left">Republican</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">2</td>
 </tr>
 </tbody>
 </table>

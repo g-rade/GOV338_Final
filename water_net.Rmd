@@ -93,9 +93,9 @@ modularity(net_water2, block2$block) ## calculate modularity, how to add the sto
 
 first_block <- water_infrastructure %>% 
   full_join(block2) %>% 
-  filter(block == 1) %>% 
-  group_by(party, storm) %>% 
-  summarize(number = n()) ## looking at the storm membership by party for block 1
+  group_by(party, storm, block) %>% 
+  summarize(number = n()) %>% 
+  arrange(block, .by_group = F) ## looking at the storm membership by party for block 1
 
 second_block <- water_infrastructure %>% 
   full_join(block2) %>% 

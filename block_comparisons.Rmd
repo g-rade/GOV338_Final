@@ -22,7 +22,7 @@ highway_blocks <- import("highway_blocks.csv") %>%
 
 change_blocks_hw <- harvey_blocks %>% 
   inner_join(water_blocks, by = "name") %>% 
-  filter(block1 != block2)
+  filter(block2 == 2)
 
 change_blocks_sh <- sandy_blocks %>% 
   inner_join(highway_blocks, by = "name") %>% 

@@ -98,8 +98,7 @@ modularity(net_harvey2, block2$block) ## calculate modularity, how to add the st
 
 first_block <- harvey_relief %>% 
   full_join(block2) %>% 
-  filter(block == 1) %>% 
-  group_by(party, storm) %>% 
+  group_by(party, storm, block) %>% 
   summarize(number = n()) ## looking at the storm membership by party for block 1
 
 second_block <- harvey_relief %>% 

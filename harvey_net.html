@@ -520,12 +520,11 @@ modularity(net_harvey2, block2$block) ## calculate modularity, how to add the st
 
 first_block &lt;- harvey_relief %&gt;% 
   full_join(block2) %&gt;% 
-  filter(block == 1) %&gt;% 
-  group_by(party, storm) %&gt;% 
+  group_by(party, storm, block) %&gt;% 
   summarize(number = n()) ## looking at the storm membership by party for block 1</code></pre>
 <pre><code>## Joining, by = &quot;name&quot;</code></pre>
-<pre><code>## `summarise()` has grouped output by &#39;party&#39;. You can override using the
-## `.groups` argument.</code></pre>
+<pre><code>## `summarise()` has grouped output by &#39;party&#39;, &#39;storm&#39;. You can override using
+## the `.groups` argument.</code></pre>
 <pre class="r"><code>second_block &lt;- harvey_relief %&gt;% 
   full_join(block2) %&gt;% 
   filter(block == 2) %&gt;% 
@@ -560,6 +559,7 @@ cross_party2 &lt;- harvey_dyads %&gt;%
 <tr class="header">
 <th align="left">party</th>
 <th align="right">storm</th>
+<th align="right">block</th>
 <th align="right">number</th>
 </tr>
 </thead>
@@ -567,27 +567,50 @@ cross_party2 &lt;- harvey_dyads %&gt;%
 <tr class="odd">
 <td align="left">Democrat</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">44</td>
 </tr>
 <tr class="even">
 <td align="left">Democrat</td>
-<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">2</td>
 <td align="right">1</td>
 </tr>
 <tr class="odd">
+<td align="left">Democrat</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr class="even">
 <td align="left">Independent</td>
 <td align="right">0</td>
+<td align="right">1</td>
 <td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">Republican</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">24</td>
 </tr>
 <tr class="even">
 <td align="left">Republican</td>
 <td align="right">0</td>
-<td align="right">24</td>
+<td align="right">2</td>
+<td align="right">17</td>
 </tr>
 <tr class="odd">
 <td align="left">Republican</td>
 <td align="right">1</td>
+<td align="right">1</td>
 <td align="right">9</td>
+</tr>
+<tr class="even">
+<td align="left">Republican</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">2</td>
 </tr>
 </tbody>
 </table>
