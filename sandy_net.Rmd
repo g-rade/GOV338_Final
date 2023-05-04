@@ -115,6 +115,9 @@ cross_party1 <- sandy_el_sings %>%
 cross_party2 <- sandy_dyads %>% 
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
+
+plot(blocks, labels=blocks$glabels, main="Subgroups for H.R. 152 and H.R. 5021", xlab="", ylab="", sub="")
+rect.hclust(blocks$cluster, k=2, border ="blue")
 ```
 
 ```{r, fig.caption = "Hurricane Sandy and Highway Funding Block 1 Membership by Party and Storm Status"}
