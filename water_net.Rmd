@@ -39,7 +39,7 @@ water_infrastructure <- import("water2018.csv")
 water_infrastructure <- water_infrastructure %>% 
   mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>% 
   select(-c(district, person)) %>% 
-  mutate(storm = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0)) ## sandy relief just in case
+  mutate(storm = ifelse(state %in% c("TX", "LA", "SC", "GA", "AL", "FL"), 1, 0)) ## sandy relief just in case
 
 water_el <- water_dyads %>% 
  select(name, name2) ## edge list

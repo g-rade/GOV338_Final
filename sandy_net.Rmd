@@ -24,7 +24,7 @@ sandy_relief <- import("sandy2014.csv")
 sandy_relief <- sandy_relief %>% 
   mutate(name = substr(name, 6,nchar(sandy_relief$name)-15)) %>% 
   select(-c(district, person)) %>% 
-  mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "WA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0)) ## sandy relief just in case
+  mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "VA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0)) ## sandy relief just in case
 
 sandy_el <- sandy_dyads %>% 
  select(name, name2) ## edge list

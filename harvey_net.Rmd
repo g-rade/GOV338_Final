@@ -44,7 +44,7 @@ harvey_relief <-harvey_relief %>%
 
 harvey_relief <- harvey_relief %>% 
   mutate(name = substr(name, 6,nchar(harvey_relief$name)-15)) %>% 
-  mutate(storm = ifelse(state %in% c("TX", "LA", "VI", "SC", "GA", "AL", "FL"), 1, 0)) ## harvey relief just in case
+  mutate(storm = ifelse(state %in% c("TX", "LA", "SC", "GA", "AL", "FL"), 1, 0)) ## harvey relief just in case
 
 harvey_el <- harvey_dyads %>% 
  select(name, name2) ## edge list
