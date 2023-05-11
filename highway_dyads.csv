@@ -1,10 +1,10 @@
 name,name2,state,vote,party,state2,vote2,party2,cross_party,storm,sharevote
 Alan “Al” Franken,Amy Klobuchar,MN,1,Democrat,MN,1,Democrat,1,0,1
-Alan “Al” Franken,Angus King,MN,1,Democrat,ME,1,Independent,0,0,1
+Alan “Al” Franken,Angus King,MN,1,Democrat,ME,1,Democrat,1,0,1
 Alan “Al” Franken,Barbara Boxer,MN,1,Democrat,CA,1,Democrat,1,0,1
 Alan “Al” Franken,Barbara Mikulski,MN,1,Democrat,MD,1,Democrat,1,0,1
 Alan “Al” Franken,Benjamin Cardin,MN,1,Democrat,MD,1,Democrat,1,0,1
-Alan “Al” Franken,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Independent,0,0,1
+Alan “Al” Franken,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Democrat,1,0,1
 Alan “Al” Franken,Bill Nelson,MN,1,Democrat,FL,1,Democrat,1,0,1
 Alan “Al” Franken,Bob Corker,MN,1,Democrat,TN,1,Republican,0,0,1
 Alan “Al” Franken,Carl Levin,MN,1,Democrat,MI,1,Democrat,1,0,1
@@ -78,11 +78,11 @@ Alan “Al” Franken,Tim Johnson,MN,1,Democrat,SD,1,Democrat,1,0,1
 Alan “Al” Franken,Timothy “Tim” Kaine,MN,1,Democrat,VA,1,Democrat,1,0,1
 Alan “Al” Franken,Tom Udall,MN,1,Democrat,NM,1,Democrat,1,0,1
 Amy Klobuchar,Alan “Al” Franken,MN,1,Democrat,MN,1,Democrat,1,0,1
-Amy Klobuchar,Angus King,MN,1,Democrat,ME,1,Independent,0,0,1
+Amy Klobuchar,Angus King,MN,1,Democrat,ME,1,Democrat,1,0,1
 Amy Klobuchar,Barbara Boxer,MN,1,Democrat,CA,1,Democrat,1,0,1
 Amy Klobuchar,Barbara Mikulski,MN,1,Democrat,MD,1,Democrat,1,0,1
 Amy Klobuchar,Benjamin Cardin,MN,1,Democrat,MD,1,Democrat,1,0,1
-Amy Klobuchar,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Independent,0,0,1
+Amy Klobuchar,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Democrat,1,0,1
 Amy Klobuchar,Bill Nelson,MN,1,Democrat,FL,1,Democrat,1,0,1
 Amy Klobuchar,Bob Corker,MN,1,Democrat,TN,1,Republican,0,0,1
 Amy Klobuchar,Carl Levin,MN,1,Democrat,MI,1,Democrat,1,0,1
@@ -155,90 +155,90 @@ Amy Klobuchar,Thomas Carper,MN,1,Democrat,DE,1,Democrat,1,0,1
 Amy Klobuchar,Tim Johnson,MN,1,Democrat,SD,1,Democrat,1,0,1
 Amy Klobuchar,Timothy “Tim” Kaine,MN,1,Democrat,VA,1,Democrat,1,0,1
 Amy Klobuchar,Tom Udall,MN,1,Democrat,NM,1,Democrat,1,0,1
-Angus King,Alan “Al” Franken,ME,1,Independent,MN,1,Democrat,0,0,1
-Angus King,Amy Klobuchar,ME,1,Independent,MN,1,Democrat,0,0,1
-Angus King,Barbara Boxer,ME,1,Independent,CA,1,Democrat,0,0,1
-Angus King,Barbara Mikulski,ME,1,Independent,MD,1,Democrat,0,0,1
-Angus King,Benjamin Cardin,ME,1,Independent,MD,1,Democrat,0,0,1
-Angus King,Bernard “Bernie” Sanders,ME,1,Independent,VT,1,Independent,1,0,1
-Angus King,Bill Nelson,ME,1,Independent,FL,1,Democrat,0,0,1
-Angus King,Bob Corker,ME,1,Independent,TN,1,Republican,0,0,1
-Angus King,Carl Levin,ME,1,Independent,MI,1,Democrat,0,0,1
-Angus King,Charles “Chuck” Grassley,ME,1,Independent,IA,1,Republican,0,0,1
-Angus King,Charles “Chuck” Schumer,ME,1,Independent,NY,1,Democrat,0,0,1
-Angus King,Christopher Coons,ME,1,Independent,DE,1,Democrat,0,0,1
-Angus King,Christopher Murphy,ME,1,Independent,CT,1,Democrat,0,0,1
-Angus King,Claire McCaskill,ME,1,Independent,MO,1,Democrat,0,0,1
-Angus King,Cory Booker,ME,1,Independent,NJ,1,Democrat,0,0,1
-Angus King,Daniel Coats,ME,1,Independent,IN,1,Republican,0,0,1
-Angus King,David Vitter,ME,1,Independent,LA,1,Republican,0,0,1
-Angus King,Dean Heller,ME,1,Independent,NV,1,Republican,0,0,1
-Angus King,Deb Fischer,ME,1,Independent,NE,1,Republican,0,0,1
-Angus King,Debbie Stabenow,ME,1,Independent,MI,1,Democrat,0,0,1
-Angus King,Dianne Feinstein,ME,1,Independent,CA,1,Democrat,0,0,1
-Angus King,Edward “Ed” Markey,ME,1,Independent,MA,1,Democrat,0,0,1
-Angus King,Elizabeth Warren,ME,1,Independent,MA,1,Democrat,0,0,1
-Angus King,Harry Reid,ME,1,Independent,NV,1,Democrat,0,0,1
-Angus King,Heidi Heitkamp,ME,1,Independent,ND,1,Democrat,0,0,1
-Angus King,James “Jim” Inhofe,ME,1,Independent,OK,1,Republican,0,0,1
-Angus King,Jeanne Shaheen,ME,1,Independent,NH,1,Democrat,0,0,1
-Angus King,Jeff Merkley,ME,1,Independent,OR,1,Democrat,0,0,1
-Angus King,Jerry Moran,ME,1,Independent,KS,1,Republican,0,0,1
-Angus King,Joe Donnelly,ME,1,Independent,IN,1,Democrat,0,0,1
-Angus King,Joe Manchin,ME,1,Independent,WV,1,Democrat,0,0,1
-Angus King,John “Jay” Rockefeller,ME,1,Independent,WV,1,Democrat,0,0,1
-Angus King,John “Johnny” Isakson,ME,1,Independent,GA,1,Republican,0,0,1
-Angus King,John Barrasso,ME,1,Independent,WY,1,Republican,0,0,1
-Angus King,John Boozman,ME,1,Independent,AR,1,Republican,0,0,1
-Angus King,John F. “Jack” Reed,ME,1,Independent,RI,1,Democrat,0,0,1
-Angus King,John Hoeven,ME,1,Independent,ND,1,Republican,0,0,1
-Angus King,John Thune,ME,1,Independent,SD,1,Republican,0,0,1
-Angus King,John Walsh,ME,1,Independent,MT,1,Democrat,0,0,1
-Angus King,Jon Tester,ME,1,Independent,MT,1,Democrat,0,0,1
-Angus King,Kay Hagan,ME,1,Independent,NC,1,Democrat,0,0,1
-Angus King,Kelly Ayotte,ME,1,Independent,NH,1,Republican,0,0,1
-Angus King,Kirsten Gillibrand,ME,1,Independent,NY,1,Democrat,0,0,1
-Angus King,Lindsey Graham,ME,1,Independent,SC,1,Republican,0,0,1
-Angus King,Lisa Murkowski,ME,1,Independent,AK,1,Republican,0,0,1
-Angus King,Maria Cantwell,ME,1,Independent,WA,1,Democrat,0,0,1
-Angus King,Mark Begich,ME,1,Independent,AK,1,Democrat,0,0,1
-Angus King,Mark Kirk,ME,1,Independent,IL,1,Republican,0,0,1
-Angus King,Mark Pryor,ME,1,Independent,AR,1,Democrat,0,0,1
-Angus King,Mark Udall,ME,1,Independent,CO,1,Democrat,0,0,1
-Angus King,Mark Warner,ME,1,Independent,VA,1,Democrat,0,0,1
-Angus King,Martin Heinrich,ME,1,Independent,NM,1,Democrat,0,0,1
-Angus King,Mary Landrieu,ME,1,Independent,LA,1,Democrat,0,0,1
-Angus King,Mazie Hirono,ME,1,Independent,HI,1,Democrat,0,0,1
-Angus King,Michael Bennet,ME,1,Independent,CO,1,Democrat,0,0,1
-Angus King,Michael Enzi,ME,1,Independent,WY,1,Republican,0,0,1
-Angus King,Mike Johanns,ME,1,Independent,NE,1,Republican,0,0,1
-Angus King,Mitch McConnell,ME,1,Independent,KY,1,Republican,0,0,1
-Angus King,Patrick Leahy,ME,1,Independent,VT,1,Democrat,0,0,1
-Angus King,Patty Murray,ME,1,Independent,WA,1,Democrat,0,0,1
-Angus King,Richard Blumenthal,ME,1,Independent,CT,1,Democrat,0,0,1
-Angus King,Richard Durbin,ME,1,Independent,IL,1,Democrat,0,0,1
-Angus King,Robert “Bob” Casey,ME,1,Independent,PA,1,Democrat,0,0,1
-Angus King,Robert “Bob” Menendez,ME,1,Independent,NJ,1,Democrat,0,0,1
-Angus King,Roger Wicker,ME,1,Independent,MS,1,Republican,0,0,1
-Angus King,Ron Wyden,ME,1,Independent,OR,1,Democrat,0,0,1
-Angus King,Roy Blunt,ME,1,Independent,MO,1,Republican,0,0,1
-Angus King,Saxby Chambliss,ME,1,Independent,GA,1,Republican,0,0,1
-Angus King,Sheldon Whitehouse,ME,1,Independent,RI,1,Democrat,0,0,1
-Angus King,Sherrod Brown,ME,1,Independent,OH,1,Democrat,0,0,1
-Angus King,Susan Collins,ME,1,Independent,ME,1,Republican,0,0,1
-Angus King,Tammy Baldwin,ME,1,Independent,WI,1,Democrat,0,0,1
-Angus King,Thad Cochran,ME,1,Independent,MS,1,Republican,0,0,1
-Angus King,Thomas “Tom” Harkin,ME,1,Independent,IA,1,Democrat,0,0,1
-Angus King,Thomas Carper,ME,1,Independent,DE,1,Democrat,0,0,1
-Angus King,Tim Johnson,ME,1,Independent,SD,1,Democrat,0,0,1
-Angus King,Timothy “Tim” Kaine,ME,1,Independent,VA,1,Democrat,0,0,1
-Angus King,Tom Udall,ME,1,Independent,NM,1,Democrat,0,0,1
+Angus King,Alan “Al” Franken,ME,1,Democrat,MN,1,Democrat,1,0,1
+Angus King,Amy Klobuchar,ME,1,Democrat,MN,1,Democrat,1,0,1
+Angus King,Barbara Boxer,ME,1,Democrat,CA,1,Democrat,1,0,1
+Angus King,Barbara Mikulski,ME,1,Democrat,MD,1,Democrat,1,0,1
+Angus King,Benjamin Cardin,ME,1,Democrat,MD,1,Democrat,1,0,1
+Angus King,Bernard “Bernie” Sanders,ME,1,Democrat,VT,1,Democrat,1,0,1
+Angus King,Bill Nelson,ME,1,Democrat,FL,1,Democrat,1,0,1
+Angus King,Bob Corker,ME,1,Democrat,TN,1,Republican,0,0,1
+Angus King,Carl Levin,ME,1,Democrat,MI,1,Democrat,1,0,1
+Angus King,Charles “Chuck” Grassley,ME,1,Democrat,IA,1,Republican,0,0,1
+Angus King,Charles “Chuck” Schumer,ME,1,Democrat,NY,1,Democrat,1,0,1
+Angus King,Christopher Coons,ME,1,Democrat,DE,1,Democrat,1,0,1
+Angus King,Christopher Murphy,ME,1,Democrat,CT,1,Democrat,1,0,1
+Angus King,Claire McCaskill,ME,1,Democrat,MO,1,Democrat,1,0,1
+Angus King,Cory Booker,ME,1,Democrat,NJ,1,Democrat,1,0,1
+Angus King,Daniel Coats,ME,1,Democrat,IN,1,Republican,0,0,1
+Angus King,David Vitter,ME,1,Democrat,LA,1,Republican,0,0,1
+Angus King,Dean Heller,ME,1,Democrat,NV,1,Republican,0,0,1
+Angus King,Deb Fischer,ME,1,Democrat,NE,1,Republican,0,0,1
+Angus King,Debbie Stabenow,ME,1,Democrat,MI,1,Democrat,1,0,1
+Angus King,Dianne Feinstein,ME,1,Democrat,CA,1,Democrat,1,0,1
+Angus King,Edward “Ed” Markey,ME,1,Democrat,MA,1,Democrat,1,0,1
+Angus King,Elizabeth Warren,ME,1,Democrat,MA,1,Democrat,1,0,1
+Angus King,Harry Reid,ME,1,Democrat,NV,1,Democrat,1,0,1
+Angus King,Heidi Heitkamp,ME,1,Democrat,ND,1,Democrat,1,0,1
+Angus King,James “Jim” Inhofe,ME,1,Democrat,OK,1,Republican,0,0,1
+Angus King,Jeanne Shaheen,ME,1,Democrat,NH,1,Democrat,1,0,1
+Angus King,Jeff Merkley,ME,1,Democrat,OR,1,Democrat,1,0,1
+Angus King,Jerry Moran,ME,1,Democrat,KS,1,Republican,0,0,1
+Angus King,Joe Donnelly,ME,1,Democrat,IN,1,Democrat,1,0,1
+Angus King,Joe Manchin,ME,1,Democrat,WV,1,Democrat,1,0,1
+Angus King,John “Jay” Rockefeller,ME,1,Democrat,WV,1,Democrat,1,0,1
+Angus King,John “Johnny” Isakson,ME,1,Democrat,GA,1,Republican,0,0,1
+Angus King,John Barrasso,ME,1,Democrat,WY,1,Republican,0,0,1
+Angus King,John Boozman,ME,1,Democrat,AR,1,Republican,0,0,1
+Angus King,John F. “Jack” Reed,ME,1,Democrat,RI,1,Democrat,1,0,1
+Angus King,John Hoeven,ME,1,Democrat,ND,1,Republican,0,0,1
+Angus King,John Thune,ME,1,Democrat,SD,1,Republican,0,0,1
+Angus King,John Walsh,ME,1,Democrat,MT,1,Democrat,1,0,1
+Angus King,Jon Tester,ME,1,Democrat,MT,1,Democrat,1,0,1
+Angus King,Kay Hagan,ME,1,Democrat,NC,1,Democrat,1,0,1
+Angus King,Kelly Ayotte,ME,1,Democrat,NH,1,Republican,0,0,1
+Angus King,Kirsten Gillibrand,ME,1,Democrat,NY,1,Democrat,1,0,1
+Angus King,Lindsey Graham,ME,1,Democrat,SC,1,Republican,0,0,1
+Angus King,Lisa Murkowski,ME,1,Democrat,AK,1,Republican,0,0,1
+Angus King,Maria Cantwell,ME,1,Democrat,WA,1,Democrat,1,0,1
+Angus King,Mark Begich,ME,1,Democrat,AK,1,Democrat,1,0,1
+Angus King,Mark Kirk,ME,1,Democrat,IL,1,Republican,0,0,1
+Angus King,Mark Pryor,ME,1,Democrat,AR,1,Democrat,1,0,1
+Angus King,Mark Udall,ME,1,Democrat,CO,1,Democrat,1,0,1
+Angus King,Mark Warner,ME,1,Democrat,VA,1,Democrat,1,0,1
+Angus King,Martin Heinrich,ME,1,Democrat,NM,1,Democrat,1,0,1
+Angus King,Mary Landrieu,ME,1,Democrat,LA,1,Democrat,1,0,1
+Angus King,Mazie Hirono,ME,1,Democrat,HI,1,Democrat,1,0,1
+Angus King,Michael Bennet,ME,1,Democrat,CO,1,Democrat,1,0,1
+Angus King,Michael Enzi,ME,1,Democrat,WY,1,Republican,0,0,1
+Angus King,Mike Johanns,ME,1,Democrat,NE,1,Republican,0,0,1
+Angus King,Mitch McConnell,ME,1,Democrat,KY,1,Republican,0,0,1
+Angus King,Patrick Leahy,ME,1,Democrat,VT,1,Democrat,1,0,1
+Angus King,Patty Murray,ME,1,Democrat,WA,1,Democrat,1,0,1
+Angus King,Richard Blumenthal,ME,1,Democrat,CT,1,Democrat,1,0,1
+Angus King,Richard Durbin,ME,1,Democrat,IL,1,Democrat,1,0,1
+Angus King,Robert “Bob” Casey,ME,1,Democrat,PA,1,Democrat,1,0,1
+Angus King,Robert “Bob” Menendez,ME,1,Democrat,NJ,1,Democrat,1,0,1
+Angus King,Roger Wicker,ME,1,Democrat,MS,1,Republican,0,0,1
+Angus King,Ron Wyden,ME,1,Democrat,OR,1,Democrat,1,0,1
+Angus King,Roy Blunt,ME,1,Democrat,MO,1,Republican,0,0,1
+Angus King,Saxby Chambliss,ME,1,Democrat,GA,1,Republican,0,0,1
+Angus King,Sheldon Whitehouse,ME,1,Democrat,RI,1,Democrat,1,0,1
+Angus King,Sherrod Brown,ME,1,Democrat,OH,1,Democrat,1,0,1
+Angus King,Susan Collins,ME,1,Democrat,ME,1,Republican,0,0,1
+Angus King,Tammy Baldwin,ME,1,Democrat,WI,1,Democrat,1,0,1
+Angus King,Thad Cochran,ME,1,Democrat,MS,1,Republican,0,0,1
+Angus King,Thomas “Tom” Harkin,ME,1,Democrat,IA,1,Democrat,1,0,1
+Angus King,Thomas Carper,ME,1,Democrat,DE,1,Democrat,1,0,1
+Angus King,Tim Johnson,ME,1,Democrat,SD,1,Democrat,1,0,1
+Angus King,Timothy “Tim” Kaine,ME,1,Democrat,VA,1,Democrat,1,0,1
+Angus King,Tom Udall,ME,1,Democrat,NM,1,Democrat,1,0,1
 Barbara Boxer,Alan “Al” Franken,CA,1,Democrat,MN,1,Democrat,1,0,1
 Barbara Boxer,Amy Klobuchar,CA,1,Democrat,MN,1,Democrat,1,0,1
-Barbara Boxer,Angus King,CA,1,Democrat,ME,1,Independent,0,0,1
+Barbara Boxer,Angus King,CA,1,Democrat,ME,1,Democrat,1,0,1
 Barbara Boxer,Barbara Mikulski,CA,1,Democrat,MD,1,Democrat,1,0,1
 Barbara Boxer,Benjamin Cardin,CA,1,Democrat,MD,1,Democrat,1,0,1
-Barbara Boxer,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Independent,0,0,1
+Barbara Boxer,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Democrat,1,0,1
 Barbara Boxer,Bill Nelson,CA,1,Democrat,FL,1,Democrat,1,0,1
 Barbara Boxer,Bob Corker,CA,1,Democrat,TN,1,Republican,0,0,1
 Barbara Boxer,Carl Levin,CA,1,Democrat,MI,1,Democrat,1,0,1
@@ -313,10 +313,10 @@ Barbara Boxer,Timothy “Tim” Kaine,CA,1,Democrat,VA,1,Democrat,1,0,1
 Barbara Boxer,Tom Udall,CA,1,Democrat,NM,1,Democrat,1,0,1
 Barbara Mikulski,Alan “Al” Franken,MD,1,Democrat,MN,1,Democrat,1,0,1
 Barbara Mikulski,Amy Klobuchar,MD,1,Democrat,MN,1,Democrat,1,0,1
-Barbara Mikulski,Angus King,MD,1,Democrat,ME,1,Independent,0,0,1
+Barbara Mikulski,Angus King,MD,1,Democrat,ME,1,Democrat,1,0,1
 Barbara Mikulski,Barbara Boxer,MD,1,Democrat,CA,1,Democrat,1,0,1
 Barbara Mikulski,Benjamin Cardin,MD,1,Democrat,MD,1,Democrat,1,1,1
-Barbara Mikulski,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Independent,0,0,1
+Barbara Mikulski,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Democrat,1,0,1
 Barbara Mikulski,Bill Nelson,MD,1,Democrat,FL,1,Democrat,1,0,1
 Barbara Mikulski,Bob Corker,MD,1,Democrat,TN,1,Republican,0,0,1
 Barbara Mikulski,Carl Levin,MD,1,Democrat,MI,1,Democrat,1,0,1
@@ -356,12 +356,12 @@ Barbara Mikulski,Kelly Ayotte,MD,1,Democrat,NH,1,Republican,0,1,1
 Barbara Mikulski,Kirsten Gillibrand,MD,1,Democrat,NY,1,Democrat,1,1,1
 Barbara Mikulski,Lindsey Graham,MD,1,Democrat,SC,1,Republican,0,0,1
 Barbara Mikulski,Lisa Murkowski,MD,1,Democrat,AK,1,Republican,0,0,1
-Barbara Mikulski,Maria Cantwell,MD,1,Democrat,WA,1,Democrat,1,1,1
+Barbara Mikulski,Maria Cantwell,MD,1,Democrat,WA,1,Democrat,1,0,1
 Barbara Mikulski,Mark Begich,MD,1,Democrat,AK,1,Democrat,1,0,1
 Barbara Mikulski,Mark Kirk,MD,1,Democrat,IL,1,Republican,0,0,1
 Barbara Mikulski,Mark Pryor,MD,1,Democrat,AR,1,Democrat,1,0,1
 Barbara Mikulski,Mark Udall,MD,1,Democrat,CO,1,Democrat,1,0,1
-Barbara Mikulski,Mark Warner,MD,1,Democrat,VA,1,Democrat,1,0,1
+Barbara Mikulski,Mark Warner,MD,1,Democrat,VA,1,Democrat,1,1,1
 Barbara Mikulski,Martin Heinrich,MD,1,Democrat,NM,1,Democrat,1,0,1
 Barbara Mikulski,Mary Landrieu,MD,1,Democrat,LA,1,Democrat,1,0,1
 Barbara Mikulski,Mazie Hirono,MD,1,Democrat,HI,1,Democrat,1,0,1
@@ -370,7 +370,7 @@ Barbara Mikulski,Michael Enzi,MD,1,Democrat,WY,1,Republican,0,0,1
 Barbara Mikulski,Mike Johanns,MD,1,Democrat,NE,1,Republican,0,0,1
 Barbara Mikulski,Mitch McConnell,MD,1,Democrat,KY,1,Republican,0,0,1
 Barbara Mikulski,Patrick Leahy,MD,1,Democrat,VT,1,Democrat,1,0,1
-Barbara Mikulski,Patty Murray,MD,1,Democrat,WA,1,Democrat,1,1,1
+Barbara Mikulski,Patty Murray,MD,1,Democrat,WA,1,Democrat,1,0,1
 Barbara Mikulski,Richard Blumenthal,MD,1,Democrat,CT,1,Democrat,1,1,1
 Barbara Mikulski,Richard Durbin,MD,1,Democrat,IL,1,Democrat,1,0,1
 Barbara Mikulski,Robert “Bob” Casey,MD,1,Democrat,PA,1,Democrat,1,1,1
@@ -387,14 +387,14 @@ Barbara Mikulski,Thad Cochran,MD,1,Democrat,MS,1,Republican,0,0,1
 Barbara Mikulski,Thomas “Tom” Harkin,MD,1,Democrat,IA,1,Democrat,1,0,1
 Barbara Mikulski,Thomas Carper,MD,1,Democrat,DE,1,Democrat,1,1,1
 Barbara Mikulski,Tim Johnson,MD,1,Democrat,SD,1,Democrat,1,0,1
-Barbara Mikulski,Timothy “Tim” Kaine,MD,1,Democrat,VA,1,Democrat,1,0,1
+Barbara Mikulski,Timothy “Tim” Kaine,MD,1,Democrat,VA,1,Democrat,1,1,1
 Barbara Mikulski,Tom Udall,MD,1,Democrat,NM,1,Democrat,1,0,1
 Benjamin Cardin,Alan “Al” Franken,MD,1,Democrat,MN,1,Democrat,1,0,1
 Benjamin Cardin,Amy Klobuchar,MD,1,Democrat,MN,1,Democrat,1,0,1
-Benjamin Cardin,Angus King,MD,1,Democrat,ME,1,Independent,0,0,1
+Benjamin Cardin,Angus King,MD,1,Democrat,ME,1,Democrat,1,0,1
 Benjamin Cardin,Barbara Boxer,MD,1,Democrat,CA,1,Democrat,1,0,1
 Benjamin Cardin,Barbara Mikulski,MD,1,Democrat,MD,1,Democrat,1,1,1
-Benjamin Cardin,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Independent,0,0,1
+Benjamin Cardin,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Democrat,1,0,1
 Benjamin Cardin,Bill Nelson,MD,1,Democrat,FL,1,Democrat,1,0,1
 Benjamin Cardin,Bob Corker,MD,1,Democrat,TN,1,Republican,0,0,1
 Benjamin Cardin,Carl Levin,MD,1,Democrat,MI,1,Democrat,1,0,1
@@ -434,12 +434,12 @@ Benjamin Cardin,Kelly Ayotte,MD,1,Democrat,NH,1,Republican,0,1,1
 Benjamin Cardin,Kirsten Gillibrand,MD,1,Democrat,NY,1,Democrat,1,1,1
 Benjamin Cardin,Lindsey Graham,MD,1,Democrat,SC,1,Republican,0,0,1
 Benjamin Cardin,Lisa Murkowski,MD,1,Democrat,AK,1,Republican,0,0,1
-Benjamin Cardin,Maria Cantwell,MD,1,Democrat,WA,1,Democrat,1,1,1
+Benjamin Cardin,Maria Cantwell,MD,1,Democrat,WA,1,Democrat,1,0,1
 Benjamin Cardin,Mark Begich,MD,1,Democrat,AK,1,Democrat,1,0,1
 Benjamin Cardin,Mark Kirk,MD,1,Democrat,IL,1,Republican,0,0,1
 Benjamin Cardin,Mark Pryor,MD,1,Democrat,AR,1,Democrat,1,0,1
 Benjamin Cardin,Mark Udall,MD,1,Democrat,CO,1,Democrat,1,0,1
-Benjamin Cardin,Mark Warner,MD,1,Democrat,VA,1,Democrat,1,0,1
+Benjamin Cardin,Mark Warner,MD,1,Democrat,VA,1,Democrat,1,1,1
 Benjamin Cardin,Martin Heinrich,MD,1,Democrat,NM,1,Democrat,1,0,1
 Benjamin Cardin,Mary Landrieu,MD,1,Democrat,LA,1,Democrat,1,0,1
 Benjamin Cardin,Mazie Hirono,MD,1,Democrat,HI,1,Democrat,1,0,1
@@ -448,7 +448,7 @@ Benjamin Cardin,Michael Enzi,MD,1,Democrat,WY,1,Republican,0,0,1
 Benjamin Cardin,Mike Johanns,MD,1,Democrat,NE,1,Republican,0,0,1
 Benjamin Cardin,Mitch McConnell,MD,1,Democrat,KY,1,Republican,0,0,1
 Benjamin Cardin,Patrick Leahy,MD,1,Democrat,VT,1,Democrat,1,0,1
-Benjamin Cardin,Patty Murray,MD,1,Democrat,WA,1,Democrat,1,1,1
+Benjamin Cardin,Patty Murray,MD,1,Democrat,WA,1,Democrat,1,0,1
 Benjamin Cardin,Richard Blumenthal,MD,1,Democrat,CT,1,Democrat,1,1,1
 Benjamin Cardin,Richard Durbin,MD,1,Democrat,IL,1,Democrat,1,0,1
 Benjamin Cardin,Robert “Bob” Casey,MD,1,Democrat,PA,1,Democrat,1,1,1
@@ -465,93 +465,93 @@ Benjamin Cardin,Thad Cochran,MD,1,Democrat,MS,1,Republican,0,0,1
 Benjamin Cardin,Thomas “Tom” Harkin,MD,1,Democrat,IA,1,Democrat,1,0,1
 Benjamin Cardin,Thomas Carper,MD,1,Democrat,DE,1,Democrat,1,1,1
 Benjamin Cardin,Tim Johnson,MD,1,Democrat,SD,1,Democrat,1,0,1
-Benjamin Cardin,Timothy “Tim” Kaine,MD,1,Democrat,VA,1,Democrat,1,0,1
+Benjamin Cardin,Timothy “Tim” Kaine,MD,1,Democrat,VA,1,Democrat,1,1,1
 Benjamin Cardin,Tom Udall,MD,1,Democrat,NM,1,Democrat,1,0,1
-Bernard “Bernie” Sanders,Alan “Al” Franken,VT,1,Independent,MN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Amy Klobuchar,VT,1,Independent,MN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Angus King,VT,1,Independent,ME,1,Independent,1,0,1
-Bernard “Bernie” Sanders,Barbara Boxer,VT,1,Independent,CA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Barbara Mikulski,VT,1,Independent,MD,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Benjamin Cardin,VT,1,Independent,MD,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Bill Nelson,VT,1,Independent,FL,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Bob Corker,VT,1,Independent,TN,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Carl Levin,VT,1,Independent,MI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Charles “Chuck” Grassley,VT,1,Independent,IA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Charles “Chuck” Schumer,VT,1,Independent,NY,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Christopher Coons,VT,1,Independent,DE,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Christopher Murphy,VT,1,Independent,CT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Claire McCaskill,VT,1,Independent,MO,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Cory Booker,VT,1,Independent,NJ,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Daniel Coats,VT,1,Independent,IN,1,Republican,0,0,1
-Bernard “Bernie” Sanders,David Vitter,VT,1,Independent,LA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Dean Heller,VT,1,Independent,NV,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Deb Fischer,VT,1,Independent,NE,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Debbie Stabenow,VT,1,Independent,MI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Dianne Feinstein,VT,1,Independent,CA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Edward “Ed” Markey,VT,1,Independent,MA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Elizabeth Warren,VT,1,Independent,MA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Harry Reid,VT,1,Independent,NV,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Heidi Heitkamp,VT,1,Independent,ND,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,James “Jim” Inhofe,VT,1,Independent,OK,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Jeanne Shaheen,VT,1,Independent,NH,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Jeff Merkley,VT,1,Independent,OR,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Jerry Moran,VT,1,Independent,KS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Joe Donnelly,VT,1,Independent,IN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Joe Manchin,VT,1,Independent,WV,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,John “Jay” Rockefeller,VT,1,Independent,WV,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,John “Johnny” Isakson,VT,1,Independent,GA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Barrasso,VT,1,Independent,WY,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Boozman,VT,1,Independent,AR,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John F. “Jack” Reed,VT,1,Independent,RI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,John Hoeven,VT,1,Independent,ND,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Thune,VT,1,Independent,SD,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Walsh,VT,1,Independent,MT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Jon Tester,VT,1,Independent,MT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Kay Hagan,VT,1,Independent,NC,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Kelly Ayotte,VT,1,Independent,NH,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Kirsten Gillibrand,VT,1,Independent,NY,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Lindsey Graham,VT,1,Independent,SC,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Lisa Murkowski,VT,1,Independent,AK,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Maria Cantwell,VT,1,Independent,WA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mark Begich,VT,1,Independent,AK,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mark Kirk,VT,1,Independent,IL,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Mark Pryor,VT,1,Independent,AR,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mark Udall,VT,1,Independent,CO,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mark Warner,VT,1,Independent,VA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Martin Heinrich,VT,1,Independent,NM,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mary Landrieu,VT,1,Independent,LA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mazie Hirono,VT,1,Independent,HI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Michael Bennet,VT,1,Independent,CO,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Michael Enzi,VT,1,Independent,WY,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Mike Johanns,VT,1,Independent,NE,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Mitch McConnell,VT,1,Independent,KY,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Patrick Leahy,VT,1,Independent,VT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Patty Murray,VT,1,Independent,WA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Richard Blumenthal,VT,1,Independent,CT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Richard Durbin,VT,1,Independent,IL,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Robert “Bob” Casey,VT,1,Independent,PA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Robert “Bob” Menendez,VT,1,Independent,NJ,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Roger Wicker,VT,1,Independent,MS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Ron Wyden,VT,1,Independent,OR,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Roy Blunt,VT,1,Independent,MO,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Saxby Chambliss,VT,1,Independent,GA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Sheldon Whitehouse,VT,1,Independent,RI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Sherrod Brown,VT,1,Independent,OH,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Susan Collins,VT,1,Independent,ME,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Tammy Baldwin,VT,1,Independent,WI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Thad Cochran,VT,1,Independent,MS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Thomas “Tom” Harkin,VT,1,Independent,IA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Thomas Carper,VT,1,Independent,DE,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Tim Johnson,VT,1,Independent,SD,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Timothy “Tim” Kaine,VT,1,Independent,VA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Tom Udall,VT,1,Independent,NM,1,Democrat,0,0,1
+Bernard “Bernie” Sanders,Alan “Al” Franken,VT,1,Democrat,MN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Amy Klobuchar,VT,1,Democrat,MN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Angus King,VT,1,Democrat,ME,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Barbara Boxer,VT,1,Democrat,CA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Barbara Mikulski,VT,1,Democrat,MD,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Benjamin Cardin,VT,1,Democrat,MD,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Bill Nelson,VT,1,Democrat,FL,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Bob Corker,VT,1,Democrat,TN,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Carl Levin,VT,1,Democrat,MI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Charles “Chuck” Grassley,VT,1,Democrat,IA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Charles “Chuck” Schumer,VT,1,Democrat,NY,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Christopher Coons,VT,1,Democrat,DE,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Christopher Murphy,VT,1,Democrat,CT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Claire McCaskill,VT,1,Democrat,MO,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Cory Booker,VT,1,Democrat,NJ,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Daniel Coats,VT,1,Democrat,IN,1,Republican,0,0,1
+Bernard “Bernie” Sanders,David Vitter,VT,1,Democrat,LA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Dean Heller,VT,1,Democrat,NV,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Deb Fischer,VT,1,Democrat,NE,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Debbie Stabenow,VT,1,Democrat,MI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Dianne Feinstein,VT,1,Democrat,CA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Edward “Ed” Markey,VT,1,Democrat,MA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Elizabeth Warren,VT,1,Democrat,MA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Harry Reid,VT,1,Democrat,NV,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Heidi Heitkamp,VT,1,Democrat,ND,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,James “Jim” Inhofe,VT,1,Democrat,OK,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Jeanne Shaheen,VT,1,Democrat,NH,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Jeff Merkley,VT,1,Democrat,OR,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Jerry Moran,VT,1,Democrat,KS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Joe Donnelly,VT,1,Democrat,IN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Joe Manchin,VT,1,Democrat,WV,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,John “Jay” Rockefeller,VT,1,Democrat,WV,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,John “Johnny” Isakson,VT,1,Democrat,GA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Barrasso,VT,1,Democrat,WY,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Boozman,VT,1,Democrat,AR,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John F. “Jack” Reed,VT,1,Democrat,RI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,John Hoeven,VT,1,Democrat,ND,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Thune,VT,1,Democrat,SD,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Walsh,VT,1,Democrat,MT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Jon Tester,VT,1,Democrat,MT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Kay Hagan,VT,1,Democrat,NC,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Kelly Ayotte,VT,1,Democrat,NH,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Kirsten Gillibrand,VT,1,Democrat,NY,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Lindsey Graham,VT,1,Democrat,SC,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Lisa Murkowski,VT,1,Democrat,AK,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Maria Cantwell,VT,1,Democrat,WA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mark Begich,VT,1,Democrat,AK,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mark Kirk,VT,1,Democrat,IL,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Mark Pryor,VT,1,Democrat,AR,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mark Udall,VT,1,Democrat,CO,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mark Warner,VT,1,Democrat,VA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Martin Heinrich,VT,1,Democrat,NM,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mary Landrieu,VT,1,Democrat,LA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mazie Hirono,VT,1,Democrat,HI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Michael Bennet,VT,1,Democrat,CO,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Michael Enzi,VT,1,Democrat,WY,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Mike Johanns,VT,1,Democrat,NE,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Mitch McConnell,VT,1,Democrat,KY,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Patrick Leahy,VT,1,Democrat,VT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Patty Murray,VT,1,Democrat,WA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Richard Blumenthal,VT,1,Democrat,CT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Richard Durbin,VT,1,Democrat,IL,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Robert “Bob” Casey,VT,1,Democrat,PA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Robert “Bob” Menendez,VT,1,Democrat,NJ,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Roger Wicker,VT,1,Democrat,MS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Ron Wyden,VT,1,Democrat,OR,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Roy Blunt,VT,1,Democrat,MO,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Saxby Chambliss,VT,1,Democrat,GA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Sheldon Whitehouse,VT,1,Democrat,RI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Sherrod Brown,VT,1,Democrat,OH,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Susan Collins,VT,1,Democrat,ME,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Tammy Baldwin,VT,1,Democrat,WI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Thad Cochran,VT,1,Democrat,MS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Thomas “Tom” Harkin,VT,1,Democrat,IA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Thomas Carper,VT,1,Democrat,DE,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Tim Johnson,VT,1,Democrat,SD,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Timothy “Tim” Kaine,VT,1,Democrat,VA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Tom Udall,VT,1,Democrat,NM,1,Democrat,1,0,1
 Bill Nelson,Alan “Al” Franken,FL,1,Democrat,MN,1,Democrat,1,0,1
 Bill Nelson,Amy Klobuchar,FL,1,Democrat,MN,1,Democrat,1,0,1
-Bill Nelson,Angus King,FL,1,Democrat,ME,1,Independent,0,0,1
+Bill Nelson,Angus King,FL,1,Democrat,ME,1,Democrat,1,0,1
 Bill Nelson,Barbara Boxer,FL,1,Democrat,CA,1,Democrat,1,0,1
 Bill Nelson,Barbara Mikulski,FL,1,Democrat,MD,1,Democrat,1,0,1
 Bill Nelson,Benjamin Cardin,FL,1,Democrat,MD,1,Democrat,1,0,1
-Bill Nelson,Bernard “Bernie” Sanders,FL,1,Democrat,VT,1,Independent,0,0,1
+Bill Nelson,Bernard “Bernie” Sanders,FL,1,Democrat,VT,1,Democrat,1,0,1
 Bill Nelson,Bob Corker,FL,1,Democrat,TN,1,Republican,0,0,1
 Bill Nelson,Carl Levin,FL,1,Democrat,MI,1,Democrat,1,0,1
 Bill Nelson,Charles “Chuck” Grassley,FL,1,Democrat,IA,1,Republican,0,0,1
@@ -625,11 +625,11 @@ Bill Nelson,Timothy “Tim” Kaine,FL,1,Democrat,VA,1,Democrat,1,0,1
 Bill Nelson,Tom Udall,FL,1,Democrat,NM,1,Democrat,1,0,1
 Bob Corker,Alan “Al” Franken,TN,1,Republican,MN,1,Democrat,0,0,1
 Bob Corker,Amy Klobuchar,TN,1,Republican,MN,1,Democrat,0,0,1
-Bob Corker,Angus King,TN,1,Republican,ME,1,Independent,0,0,1
+Bob Corker,Angus King,TN,1,Republican,ME,1,Democrat,0,0,1
 Bob Corker,Barbara Boxer,TN,1,Republican,CA,1,Democrat,0,0,1
 Bob Corker,Barbara Mikulski,TN,1,Republican,MD,1,Democrat,0,0,1
 Bob Corker,Benjamin Cardin,TN,1,Republican,MD,1,Democrat,0,0,1
-Bob Corker,Bernard “Bernie” Sanders,TN,1,Republican,VT,1,Independent,0,0,1
+Bob Corker,Bernard “Bernie” Sanders,TN,1,Republican,VT,1,Democrat,0,0,1
 Bob Corker,Bill Nelson,TN,1,Republican,FL,1,Democrat,0,0,1
 Bob Corker,Carl Levin,TN,1,Republican,MI,1,Democrat,0,0,1
 Bob Corker,Charles “Chuck” Grassley,TN,1,Republican,IA,1,Republican,1,0,1
@@ -703,11 +703,11 @@ Bob Corker,Timothy “Tim” Kaine,TN,1,Republican,VA,1,Democrat,0,0,1
 Bob Corker,Tom Udall,TN,1,Republican,NM,1,Democrat,0,0,1
 Carl Levin,Alan “Al” Franken,MI,1,Democrat,MN,1,Democrat,1,0,1
 Carl Levin,Amy Klobuchar,MI,1,Democrat,MN,1,Democrat,1,0,1
-Carl Levin,Angus King,MI,1,Democrat,ME,1,Independent,0,0,1
+Carl Levin,Angus King,MI,1,Democrat,ME,1,Democrat,1,0,1
 Carl Levin,Barbara Boxer,MI,1,Democrat,CA,1,Democrat,1,0,1
 Carl Levin,Barbara Mikulski,MI,1,Democrat,MD,1,Democrat,1,0,1
 Carl Levin,Benjamin Cardin,MI,1,Democrat,MD,1,Democrat,1,0,1
-Carl Levin,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Independent,0,0,1
+Carl Levin,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Democrat,1,0,1
 Carl Levin,Bill Nelson,MI,1,Democrat,FL,1,Democrat,1,0,1
 Carl Levin,Bob Corker,MI,1,Democrat,TN,1,Republican,0,0,1
 Carl Levin,Charles “Chuck” Grassley,MI,1,Democrat,IA,1,Republican,0,0,1
@@ -781,11 +781,11 @@ Carl Levin,Timothy “Tim” Kaine,MI,1,Democrat,VA,1,Democrat,1,0,1
 Carl Levin,Tom Udall,MI,1,Democrat,NM,1,Democrat,1,0,1
 Charles “Chuck” Grassley,Alan “Al” Franken,IA,1,Republican,MN,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Amy Klobuchar,IA,1,Republican,MN,1,Democrat,0,0,1
-Charles “Chuck” Grassley,Angus King,IA,1,Republican,ME,1,Independent,0,0,1
+Charles “Chuck” Grassley,Angus King,IA,1,Republican,ME,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Barbara Boxer,IA,1,Republican,CA,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Barbara Mikulski,IA,1,Republican,MD,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Benjamin Cardin,IA,1,Republican,MD,1,Democrat,0,0,1
-Charles “Chuck” Grassley,Bernard “Bernie” Sanders,IA,1,Republican,VT,1,Independent,0,0,1
+Charles “Chuck” Grassley,Bernard “Bernie” Sanders,IA,1,Republican,VT,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Bill Nelson,IA,1,Republican,FL,1,Democrat,0,0,1
 Charles “Chuck” Grassley,Bob Corker,IA,1,Republican,TN,1,Republican,1,0,1
 Charles “Chuck” Grassley,Carl Levin,IA,1,Republican,MI,1,Democrat,0,0,1
@@ -859,11 +859,11 @@ Charles “Chuck” Grassley,Timothy “Tim” Kaine,IA,1,Republican,VA,1,Democr
 Charles “Chuck” Grassley,Tom Udall,IA,1,Republican,NM,1,Democrat,0,0,1
 Charles “Chuck” Schumer,Alan “Al” Franken,NY,1,Democrat,MN,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Amy Klobuchar,NY,1,Democrat,MN,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Angus King,NY,1,Democrat,ME,1,Independent,0,0,1
+Charles “Chuck” Schumer,Angus King,NY,1,Democrat,ME,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Barbara Boxer,NY,1,Democrat,CA,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Barbara Mikulski,NY,1,Democrat,MD,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Benjamin Cardin,NY,1,Democrat,MD,1,Democrat,1,1,1
-Charles “Chuck” Schumer,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Independent,0,0,1
+Charles “Chuck” Schumer,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Bill Nelson,NY,1,Democrat,FL,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Bob Corker,NY,1,Democrat,TN,1,Republican,0,0,1
 Charles “Chuck” Schumer,Carl Levin,NY,1,Democrat,MI,1,Democrat,1,0,1
@@ -902,12 +902,12 @@ Charles “Chuck” Schumer,Kelly Ayotte,NY,1,Democrat,NH,1,Republican,0,1,1
 Charles “Chuck” Schumer,Kirsten Gillibrand,NY,1,Democrat,NY,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Lindsey Graham,NY,1,Democrat,SC,1,Republican,0,0,1
 Charles “Chuck” Schumer,Lisa Murkowski,NY,1,Democrat,AK,1,Republican,0,0,1
-Charles “Chuck” Schumer,Maria Cantwell,NY,1,Democrat,WA,1,Democrat,1,1,1
+Charles “Chuck” Schumer,Maria Cantwell,NY,1,Democrat,WA,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Mark Begich,NY,1,Democrat,AK,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Mark Kirk,NY,1,Democrat,IL,1,Republican,0,0,1
 Charles “Chuck” Schumer,Mark Pryor,NY,1,Democrat,AR,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Mark Udall,NY,1,Democrat,CO,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Mark Warner,NY,1,Democrat,VA,1,Democrat,1,0,1
+Charles “Chuck” Schumer,Mark Warner,NY,1,Democrat,VA,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Martin Heinrich,NY,1,Democrat,NM,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Mary Landrieu,NY,1,Democrat,LA,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Mazie Hirono,NY,1,Democrat,HI,1,Democrat,1,0,1
@@ -916,7 +916,7 @@ Charles “Chuck” Schumer,Michael Enzi,NY,1,Democrat,WY,1,Republican,0,0,1
 Charles “Chuck” Schumer,Mike Johanns,NY,1,Democrat,NE,1,Republican,0,0,1
 Charles “Chuck” Schumer,Mitch McConnell,NY,1,Democrat,KY,1,Republican,0,0,1
 Charles “Chuck” Schumer,Patrick Leahy,NY,1,Democrat,VT,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Patty Murray,NY,1,Democrat,WA,1,Democrat,1,1,1
+Charles “Chuck” Schumer,Patty Murray,NY,1,Democrat,WA,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Richard Blumenthal,NY,1,Democrat,CT,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Richard Durbin,NY,1,Democrat,IL,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Robert “Bob” Casey,NY,1,Democrat,PA,1,Democrat,1,1,1
@@ -933,15 +933,15 @@ Charles “Chuck” Schumer,Thad Cochran,NY,1,Democrat,MS,1,Republican,0,0,1
 Charles “Chuck” Schumer,Thomas “Tom” Harkin,NY,1,Democrat,IA,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Thomas Carper,NY,1,Democrat,DE,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Tim Johnson,NY,1,Democrat,SD,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Timothy “Tim” Kaine,NY,1,Democrat,VA,1,Democrat,1,0,1
+Charles “Chuck” Schumer,Timothy “Tim” Kaine,NY,1,Democrat,VA,1,Democrat,1,1,1
 Charles “Chuck” Schumer,Tom Udall,NY,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Coons,Alan “Al” Franken,DE,1,Democrat,MN,1,Democrat,1,0,1
 Christopher Coons,Amy Klobuchar,DE,1,Democrat,MN,1,Democrat,1,0,1
-Christopher Coons,Angus King,DE,1,Democrat,ME,1,Independent,0,0,1
+Christopher Coons,Angus King,DE,1,Democrat,ME,1,Democrat,1,0,1
 Christopher Coons,Barbara Boxer,DE,1,Democrat,CA,1,Democrat,1,0,1
 Christopher Coons,Barbara Mikulski,DE,1,Democrat,MD,1,Democrat,1,1,1
 Christopher Coons,Benjamin Cardin,DE,1,Democrat,MD,1,Democrat,1,1,1
-Christopher Coons,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Independent,0,0,1
+Christopher Coons,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Democrat,1,0,1
 Christopher Coons,Bill Nelson,DE,1,Democrat,FL,1,Democrat,1,0,1
 Christopher Coons,Bob Corker,DE,1,Democrat,TN,1,Republican,0,0,1
 Christopher Coons,Carl Levin,DE,1,Democrat,MI,1,Democrat,1,0,1
@@ -980,12 +980,12 @@ Christopher Coons,Kelly Ayotte,DE,1,Democrat,NH,1,Republican,0,1,1
 Christopher Coons,Kirsten Gillibrand,DE,1,Democrat,NY,1,Democrat,1,1,1
 Christopher Coons,Lindsey Graham,DE,1,Democrat,SC,1,Republican,0,0,1
 Christopher Coons,Lisa Murkowski,DE,1,Democrat,AK,1,Republican,0,0,1
-Christopher Coons,Maria Cantwell,DE,1,Democrat,WA,1,Democrat,1,1,1
+Christopher Coons,Maria Cantwell,DE,1,Democrat,WA,1,Democrat,1,0,1
 Christopher Coons,Mark Begich,DE,1,Democrat,AK,1,Democrat,1,0,1
 Christopher Coons,Mark Kirk,DE,1,Democrat,IL,1,Republican,0,0,1
 Christopher Coons,Mark Pryor,DE,1,Democrat,AR,1,Democrat,1,0,1
 Christopher Coons,Mark Udall,DE,1,Democrat,CO,1,Democrat,1,0,1
-Christopher Coons,Mark Warner,DE,1,Democrat,VA,1,Democrat,1,0,1
+Christopher Coons,Mark Warner,DE,1,Democrat,VA,1,Democrat,1,1,1
 Christopher Coons,Martin Heinrich,DE,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Coons,Mary Landrieu,DE,1,Democrat,LA,1,Democrat,1,0,1
 Christopher Coons,Mazie Hirono,DE,1,Democrat,HI,1,Democrat,1,0,1
@@ -994,7 +994,7 @@ Christopher Coons,Michael Enzi,DE,1,Democrat,WY,1,Republican,0,0,1
 Christopher Coons,Mike Johanns,DE,1,Democrat,NE,1,Republican,0,0,1
 Christopher Coons,Mitch McConnell,DE,1,Democrat,KY,1,Republican,0,0,1
 Christopher Coons,Patrick Leahy,DE,1,Democrat,VT,1,Democrat,1,0,1
-Christopher Coons,Patty Murray,DE,1,Democrat,WA,1,Democrat,1,1,1
+Christopher Coons,Patty Murray,DE,1,Democrat,WA,1,Democrat,1,0,1
 Christopher Coons,Richard Blumenthal,DE,1,Democrat,CT,1,Democrat,1,1,1
 Christopher Coons,Richard Durbin,DE,1,Democrat,IL,1,Democrat,1,0,1
 Christopher Coons,Robert “Bob” Casey,DE,1,Democrat,PA,1,Democrat,1,1,1
@@ -1011,15 +1011,15 @@ Christopher Coons,Thad Cochran,DE,1,Democrat,MS,1,Republican,0,0,1
 Christopher Coons,Thomas “Tom” Harkin,DE,1,Democrat,IA,1,Democrat,1,0,1
 Christopher Coons,Thomas Carper,DE,1,Democrat,DE,1,Democrat,1,1,1
 Christopher Coons,Tim Johnson,DE,1,Democrat,SD,1,Democrat,1,0,1
-Christopher Coons,Timothy “Tim” Kaine,DE,1,Democrat,VA,1,Democrat,1,0,1
+Christopher Coons,Timothy “Tim” Kaine,DE,1,Democrat,VA,1,Democrat,1,1,1
 Christopher Coons,Tom Udall,DE,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Murphy,Alan “Al” Franken,CT,1,Democrat,MN,1,Democrat,1,0,1
 Christopher Murphy,Amy Klobuchar,CT,1,Democrat,MN,1,Democrat,1,0,1
-Christopher Murphy,Angus King,CT,1,Democrat,ME,1,Independent,0,0,1
+Christopher Murphy,Angus King,CT,1,Democrat,ME,1,Democrat,1,0,1
 Christopher Murphy,Barbara Boxer,CT,1,Democrat,CA,1,Democrat,1,0,1
 Christopher Murphy,Barbara Mikulski,CT,1,Democrat,MD,1,Democrat,1,1,1
 Christopher Murphy,Benjamin Cardin,CT,1,Democrat,MD,1,Democrat,1,1,1
-Christopher Murphy,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Independent,0,0,1
+Christopher Murphy,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Democrat,1,0,1
 Christopher Murphy,Bill Nelson,CT,1,Democrat,FL,1,Democrat,1,0,1
 Christopher Murphy,Bob Corker,CT,1,Democrat,TN,1,Republican,0,0,1
 Christopher Murphy,Carl Levin,CT,1,Democrat,MI,1,Democrat,1,0,1
@@ -1058,12 +1058,12 @@ Christopher Murphy,Kelly Ayotte,CT,1,Democrat,NH,1,Republican,0,1,1
 Christopher Murphy,Kirsten Gillibrand,CT,1,Democrat,NY,1,Democrat,1,1,1
 Christopher Murphy,Lindsey Graham,CT,1,Democrat,SC,1,Republican,0,0,1
 Christopher Murphy,Lisa Murkowski,CT,1,Democrat,AK,1,Republican,0,0,1
-Christopher Murphy,Maria Cantwell,CT,1,Democrat,WA,1,Democrat,1,1,1
+Christopher Murphy,Maria Cantwell,CT,1,Democrat,WA,1,Democrat,1,0,1
 Christopher Murphy,Mark Begich,CT,1,Democrat,AK,1,Democrat,1,0,1
 Christopher Murphy,Mark Kirk,CT,1,Democrat,IL,1,Republican,0,0,1
 Christopher Murphy,Mark Pryor,CT,1,Democrat,AR,1,Democrat,1,0,1
 Christopher Murphy,Mark Udall,CT,1,Democrat,CO,1,Democrat,1,0,1
-Christopher Murphy,Mark Warner,CT,1,Democrat,VA,1,Democrat,1,0,1
+Christopher Murphy,Mark Warner,CT,1,Democrat,VA,1,Democrat,1,1,1
 Christopher Murphy,Martin Heinrich,CT,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Murphy,Mary Landrieu,CT,1,Democrat,LA,1,Democrat,1,0,1
 Christopher Murphy,Mazie Hirono,CT,1,Democrat,HI,1,Democrat,1,0,1
@@ -1072,7 +1072,7 @@ Christopher Murphy,Michael Enzi,CT,1,Democrat,WY,1,Republican,0,0,1
 Christopher Murphy,Mike Johanns,CT,1,Democrat,NE,1,Republican,0,0,1
 Christopher Murphy,Mitch McConnell,CT,1,Democrat,KY,1,Republican,0,0,1
 Christopher Murphy,Patrick Leahy,CT,1,Democrat,VT,1,Democrat,1,0,1
-Christopher Murphy,Patty Murray,CT,1,Democrat,WA,1,Democrat,1,1,1
+Christopher Murphy,Patty Murray,CT,1,Democrat,WA,1,Democrat,1,0,1
 Christopher Murphy,Richard Blumenthal,CT,1,Democrat,CT,1,Democrat,1,1,1
 Christopher Murphy,Richard Durbin,CT,1,Democrat,IL,1,Democrat,1,0,1
 Christopher Murphy,Robert “Bob” Casey,CT,1,Democrat,PA,1,Democrat,1,1,1
@@ -1089,15 +1089,15 @@ Christopher Murphy,Thad Cochran,CT,1,Democrat,MS,1,Republican,0,0,1
 Christopher Murphy,Thomas “Tom” Harkin,CT,1,Democrat,IA,1,Democrat,1,0,1
 Christopher Murphy,Thomas Carper,CT,1,Democrat,DE,1,Democrat,1,1,1
 Christopher Murphy,Tim Johnson,CT,1,Democrat,SD,1,Democrat,1,0,1
-Christopher Murphy,Timothy “Tim” Kaine,CT,1,Democrat,VA,1,Democrat,1,0,1
+Christopher Murphy,Timothy “Tim” Kaine,CT,1,Democrat,VA,1,Democrat,1,1,1
 Christopher Murphy,Tom Udall,CT,1,Democrat,NM,1,Democrat,1,0,1
 Claire McCaskill,Alan “Al” Franken,MO,1,Democrat,MN,1,Democrat,1,0,1
 Claire McCaskill,Amy Klobuchar,MO,1,Democrat,MN,1,Democrat,1,0,1
-Claire McCaskill,Angus King,MO,1,Democrat,ME,1,Independent,0,0,1
+Claire McCaskill,Angus King,MO,1,Democrat,ME,1,Democrat,1,0,1
 Claire McCaskill,Barbara Boxer,MO,1,Democrat,CA,1,Democrat,1,0,1
 Claire McCaskill,Barbara Mikulski,MO,1,Democrat,MD,1,Democrat,1,0,1
 Claire McCaskill,Benjamin Cardin,MO,1,Democrat,MD,1,Democrat,1,0,1
-Claire McCaskill,Bernard “Bernie” Sanders,MO,1,Democrat,VT,1,Independent,0,0,1
+Claire McCaskill,Bernard “Bernie” Sanders,MO,1,Democrat,VT,1,Democrat,1,0,1
 Claire McCaskill,Bill Nelson,MO,1,Democrat,FL,1,Democrat,1,0,1
 Claire McCaskill,Bob Corker,MO,1,Democrat,TN,1,Republican,0,0,1
 Claire McCaskill,Carl Levin,MO,1,Democrat,MI,1,Democrat,1,0,1
@@ -1171,11 +1171,11 @@ Claire McCaskill,Timothy “Tim” Kaine,MO,1,Democrat,VA,1,Democrat,1,0,1
 Claire McCaskill,Tom Udall,MO,1,Democrat,NM,1,Democrat,1,0,1
 Cory Booker,Alan “Al” Franken,NJ,1,Democrat,MN,1,Democrat,1,0,1
 Cory Booker,Amy Klobuchar,NJ,1,Democrat,MN,1,Democrat,1,0,1
-Cory Booker,Angus King,NJ,1,Democrat,ME,1,Independent,0,0,1
+Cory Booker,Angus King,NJ,1,Democrat,ME,1,Democrat,1,0,1
 Cory Booker,Barbara Boxer,NJ,1,Democrat,CA,1,Democrat,1,0,1
 Cory Booker,Barbara Mikulski,NJ,1,Democrat,MD,1,Democrat,1,1,1
 Cory Booker,Benjamin Cardin,NJ,1,Democrat,MD,1,Democrat,1,1,1
-Cory Booker,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Independent,0,0,1
+Cory Booker,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Democrat,1,0,1
 Cory Booker,Bill Nelson,NJ,1,Democrat,FL,1,Democrat,1,0,1
 Cory Booker,Bob Corker,NJ,1,Democrat,TN,1,Republican,0,0,1
 Cory Booker,Carl Levin,NJ,1,Democrat,MI,1,Democrat,1,0,1
@@ -1214,12 +1214,12 @@ Cory Booker,Kelly Ayotte,NJ,1,Democrat,NH,1,Republican,0,1,1
 Cory Booker,Kirsten Gillibrand,NJ,1,Democrat,NY,1,Democrat,1,1,1
 Cory Booker,Lindsey Graham,NJ,1,Democrat,SC,1,Republican,0,0,1
 Cory Booker,Lisa Murkowski,NJ,1,Democrat,AK,1,Republican,0,0,1
-Cory Booker,Maria Cantwell,NJ,1,Democrat,WA,1,Democrat,1,1,1
+Cory Booker,Maria Cantwell,NJ,1,Democrat,WA,1,Democrat,1,0,1
 Cory Booker,Mark Begich,NJ,1,Democrat,AK,1,Democrat,1,0,1
 Cory Booker,Mark Kirk,NJ,1,Democrat,IL,1,Republican,0,0,1
 Cory Booker,Mark Pryor,NJ,1,Democrat,AR,1,Democrat,1,0,1
 Cory Booker,Mark Udall,NJ,1,Democrat,CO,1,Democrat,1,0,1
-Cory Booker,Mark Warner,NJ,1,Democrat,VA,1,Democrat,1,0,1
+Cory Booker,Mark Warner,NJ,1,Democrat,VA,1,Democrat,1,1,1
 Cory Booker,Martin Heinrich,NJ,1,Democrat,NM,1,Democrat,1,0,1
 Cory Booker,Mary Landrieu,NJ,1,Democrat,LA,1,Democrat,1,0,1
 Cory Booker,Mazie Hirono,NJ,1,Democrat,HI,1,Democrat,1,0,1
@@ -1228,7 +1228,7 @@ Cory Booker,Michael Enzi,NJ,1,Democrat,WY,1,Republican,0,0,1
 Cory Booker,Mike Johanns,NJ,1,Democrat,NE,1,Republican,0,0,1
 Cory Booker,Mitch McConnell,NJ,1,Democrat,KY,1,Republican,0,0,1
 Cory Booker,Patrick Leahy,NJ,1,Democrat,VT,1,Democrat,1,0,1
-Cory Booker,Patty Murray,NJ,1,Democrat,WA,1,Democrat,1,1,1
+Cory Booker,Patty Murray,NJ,1,Democrat,WA,1,Democrat,1,0,1
 Cory Booker,Richard Blumenthal,NJ,1,Democrat,CT,1,Democrat,1,1,1
 Cory Booker,Richard Durbin,NJ,1,Democrat,IL,1,Democrat,1,0,1
 Cory Booker,Robert “Bob” Casey,NJ,1,Democrat,PA,1,Democrat,1,1,1
@@ -1245,15 +1245,15 @@ Cory Booker,Thad Cochran,NJ,1,Democrat,MS,1,Republican,0,0,1
 Cory Booker,Thomas “Tom” Harkin,NJ,1,Democrat,IA,1,Democrat,1,0,1
 Cory Booker,Thomas Carper,NJ,1,Democrat,DE,1,Democrat,1,1,1
 Cory Booker,Tim Johnson,NJ,1,Democrat,SD,1,Democrat,1,0,1
-Cory Booker,Timothy “Tim” Kaine,NJ,1,Democrat,VA,1,Democrat,1,0,1
+Cory Booker,Timothy “Tim” Kaine,NJ,1,Democrat,VA,1,Democrat,1,1,1
 Cory Booker,Tom Udall,NJ,1,Democrat,NM,1,Democrat,1,0,1
 Daniel Coats,Alan “Al” Franken,IN,1,Republican,MN,1,Democrat,0,0,1
 Daniel Coats,Amy Klobuchar,IN,1,Republican,MN,1,Democrat,0,0,1
-Daniel Coats,Angus King,IN,1,Republican,ME,1,Independent,0,0,1
+Daniel Coats,Angus King,IN,1,Republican,ME,1,Democrat,0,0,1
 Daniel Coats,Barbara Boxer,IN,1,Republican,CA,1,Democrat,0,0,1
 Daniel Coats,Barbara Mikulski,IN,1,Republican,MD,1,Democrat,0,0,1
 Daniel Coats,Benjamin Cardin,IN,1,Republican,MD,1,Democrat,0,0,1
-Daniel Coats,Bernard “Bernie” Sanders,IN,1,Republican,VT,1,Independent,0,0,1
+Daniel Coats,Bernard “Bernie” Sanders,IN,1,Republican,VT,1,Democrat,0,0,1
 Daniel Coats,Bill Nelson,IN,1,Republican,FL,1,Democrat,0,0,1
 Daniel Coats,Bob Corker,IN,1,Republican,TN,1,Republican,1,0,1
 Daniel Coats,Carl Levin,IN,1,Republican,MI,1,Democrat,0,0,1
@@ -1327,11 +1327,11 @@ Daniel Coats,Timothy “Tim” Kaine,IN,1,Republican,VA,1,Democrat,0,0,1
 Daniel Coats,Tom Udall,IN,1,Republican,NM,1,Democrat,0,0,1
 David Vitter,Alan “Al” Franken,LA,1,Republican,MN,1,Democrat,0,0,1
 David Vitter,Amy Klobuchar,LA,1,Republican,MN,1,Democrat,0,0,1
-David Vitter,Angus King,LA,1,Republican,ME,1,Independent,0,0,1
+David Vitter,Angus King,LA,1,Republican,ME,1,Democrat,0,0,1
 David Vitter,Barbara Boxer,LA,1,Republican,CA,1,Democrat,0,0,1
 David Vitter,Barbara Mikulski,LA,1,Republican,MD,1,Democrat,0,0,1
 David Vitter,Benjamin Cardin,LA,1,Republican,MD,1,Democrat,0,0,1
-David Vitter,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Independent,0,0,1
+David Vitter,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Democrat,0,0,1
 David Vitter,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,0,1
 David Vitter,Bob Corker,LA,1,Republican,TN,1,Republican,1,0,1
 David Vitter,Carl Levin,LA,1,Republican,MI,1,Democrat,0,0,1
@@ -1405,11 +1405,11 @@ David Vitter,Timothy “Tim” Kaine,LA,1,Republican,VA,1,Democrat,0,0,1
 David Vitter,Tom Udall,LA,1,Republican,NM,1,Democrat,0,0,1
 Dean Heller,Alan “Al” Franken,NV,1,Republican,MN,1,Democrat,0,0,1
 Dean Heller,Amy Klobuchar,NV,1,Republican,MN,1,Democrat,0,0,1
-Dean Heller,Angus King,NV,1,Republican,ME,1,Independent,0,0,1
+Dean Heller,Angus King,NV,1,Republican,ME,1,Democrat,0,0,1
 Dean Heller,Barbara Boxer,NV,1,Republican,CA,1,Democrat,0,0,1
 Dean Heller,Barbara Mikulski,NV,1,Republican,MD,1,Democrat,0,0,1
 Dean Heller,Benjamin Cardin,NV,1,Republican,MD,1,Democrat,0,0,1
-Dean Heller,Bernard “Bernie” Sanders,NV,1,Republican,VT,1,Independent,0,0,1
+Dean Heller,Bernard “Bernie” Sanders,NV,1,Republican,VT,1,Democrat,0,0,1
 Dean Heller,Bill Nelson,NV,1,Republican,FL,1,Democrat,0,0,1
 Dean Heller,Bob Corker,NV,1,Republican,TN,1,Republican,1,0,1
 Dean Heller,Carl Levin,NV,1,Republican,MI,1,Democrat,0,0,1
@@ -1483,11 +1483,11 @@ Dean Heller,Timothy “Tim” Kaine,NV,1,Republican,VA,1,Democrat,0,0,1
 Dean Heller,Tom Udall,NV,1,Republican,NM,1,Democrat,0,0,1
 Deb Fischer,Alan “Al” Franken,NE,1,Republican,MN,1,Democrat,0,0,1
 Deb Fischer,Amy Klobuchar,NE,1,Republican,MN,1,Democrat,0,0,1
-Deb Fischer,Angus King,NE,1,Republican,ME,1,Independent,0,0,1
+Deb Fischer,Angus King,NE,1,Republican,ME,1,Democrat,0,0,1
 Deb Fischer,Barbara Boxer,NE,1,Republican,CA,1,Democrat,0,0,1
 Deb Fischer,Barbara Mikulski,NE,1,Republican,MD,1,Democrat,0,0,1
 Deb Fischer,Benjamin Cardin,NE,1,Republican,MD,1,Democrat,0,0,1
-Deb Fischer,Bernard “Bernie” Sanders,NE,1,Republican,VT,1,Independent,0,0,1
+Deb Fischer,Bernard “Bernie” Sanders,NE,1,Republican,VT,1,Democrat,0,0,1
 Deb Fischer,Bill Nelson,NE,1,Republican,FL,1,Democrat,0,0,1
 Deb Fischer,Bob Corker,NE,1,Republican,TN,1,Republican,1,0,1
 Deb Fischer,Carl Levin,NE,1,Republican,MI,1,Democrat,0,0,1
@@ -1561,11 +1561,11 @@ Deb Fischer,Timothy “Tim” Kaine,NE,1,Republican,VA,1,Democrat,0,0,1
 Deb Fischer,Tom Udall,NE,1,Republican,NM,1,Democrat,0,0,1
 Debbie Stabenow,Alan “Al” Franken,MI,1,Democrat,MN,1,Democrat,1,0,1
 Debbie Stabenow,Amy Klobuchar,MI,1,Democrat,MN,1,Democrat,1,0,1
-Debbie Stabenow,Angus King,MI,1,Democrat,ME,1,Independent,0,0,1
+Debbie Stabenow,Angus King,MI,1,Democrat,ME,1,Democrat,1,0,1
 Debbie Stabenow,Barbara Boxer,MI,1,Democrat,CA,1,Democrat,1,0,1
 Debbie Stabenow,Barbara Mikulski,MI,1,Democrat,MD,1,Democrat,1,0,1
 Debbie Stabenow,Benjamin Cardin,MI,1,Democrat,MD,1,Democrat,1,0,1
-Debbie Stabenow,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Independent,0,0,1
+Debbie Stabenow,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Democrat,1,0,1
 Debbie Stabenow,Bill Nelson,MI,1,Democrat,FL,1,Democrat,1,0,1
 Debbie Stabenow,Bob Corker,MI,1,Democrat,TN,1,Republican,0,0,1
 Debbie Stabenow,Carl Levin,MI,1,Democrat,MI,1,Democrat,1,0,1
@@ -1639,11 +1639,11 @@ Debbie Stabenow,Timothy “Tim” Kaine,MI,1,Democrat,VA,1,Democrat,1,0,1
 Debbie Stabenow,Tom Udall,MI,1,Democrat,NM,1,Democrat,1,0,1
 Dianne Feinstein,Alan “Al” Franken,CA,1,Democrat,MN,1,Democrat,1,0,1
 Dianne Feinstein,Amy Klobuchar,CA,1,Democrat,MN,1,Democrat,1,0,1
-Dianne Feinstein,Angus King,CA,1,Democrat,ME,1,Independent,0,0,1
+Dianne Feinstein,Angus King,CA,1,Democrat,ME,1,Democrat,1,0,1
 Dianne Feinstein,Barbara Boxer,CA,1,Democrat,CA,1,Democrat,1,0,1
 Dianne Feinstein,Barbara Mikulski,CA,1,Democrat,MD,1,Democrat,1,0,1
 Dianne Feinstein,Benjamin Cardin,CA,1,Democrat,MD,1,Democrat,1,0,1
-Dianne Feinstein,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Independent,0,0,1
+Dianne Feinstein,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Democrat,1,0,1
 Dianne Feinstein,Bill Nelson,CA,1,Democrat,FL,1,Democrat,1,0,1
 Dianne Feinstein,Bob Corker,CA,1,Democrat,TN,1,Republican,0,0,1
 Dianne Feinstein,Carl Levin,CA,1,Democrat,MI,1,Democrat,1,0,1
@@ -1717,11 +1717,11 @@ Dianne Feinstein,Timothy “Tim” Kaine,CA,1,Democrat,VA,1,Democrat,1,0,1
 Dianne Feinstein,Tom Udall,CA,1,Democrat,NM,1,Democrat,1,0,1
 Edward “Ed” Markey,Alan “Al” Franken,MA,1,Democrat,MN,1,Democrat,1,0,1
 Edward “Ed” Markey,Amy Klobuchar,MA,1,Democrat,MN,1,Democrat,1,0,1
-Edward “Ed” Markey,Angus King,MA,1,Democrat,ME,1,Independent,0,0,1
+Edward “Ed” Markey,Angus King,MA,1,Democrat,ME,1,Democrat,1,0,1
 Edward “Ed” Markey,Barbara Boxer,MA,1,Democrat,CA,1,Democrat,1,0,1
 Edward “Ed” Markey,Barbara Mikulski,MA,1,Democrat,MD,1,Democrat,1,1,1
 Edward “Ed” Markey,Benjamin Cardin,MA,1,Democrat,MD,1,Democrat,1,1,1
-Edward “Ed” Markey,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Independent,0,0,1
+Edward “Ed” Markey,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Democrat,1,0,1
 Edward “Ed” Markey,Bill Nelson,MA,1,Democrat,FL,1,Democrat,1,0,1
 Edward “Ed” Markey,Bob Corker,MA,1,Democrat,TN,1,Republican,0,0,1
 Edward “Ed” Markey,Carl Levin,MA,1,Democrat,MI,1,Democrat,1,0,1
@@ -1760,12 +1760,12 @@ Edward “Ed” Markey,Kelly Ayotte,MA,1,Democrat,NH,1,Republican,0,1,1
 Edward “Ed” Markey,Kirsten Gillibrand,MA,1,Democrat,NY,1,Democrat,1,1,1
 Edward “Ed” Markey,Lindsey Graham,MA,1,Democrat,SC,1,Republican,0,0,1
 Edward “Ed” Markey,Lisa Murkowski,MA,1,Democrat,AK,1,Republican,0,0,1
-Edward “Ed” Markey,Maria Cantwell,MA,1,Democrat,WA,1,Democrat,1,1,1
+Edward “Ed” Markey,Maria Cantwell,MA,1,Democrat,WA,1,Democrat,1,0,1
 Edward “Ed” Markey,Mark Begich,MA,1,Democrat,AK,1,Democrat,1,0,1
 Edward “Ed” Markey,Mark Kirk,MA,1,Democrat,IL,1,Republican,0,0,1
 Edward “Ed” Markey,Mark Pryor,MA,1,Democrat,AR,1,Democrat,1,0,1
 Edward “Ed” Markey,Mark Udall,MA,1,Democrat,CO,1,Democrat,1,0,1
-Edward “Ed” Markey,Mark Warner,MA,1,Democrat,VA,1,Democrat,1,0,1
+Edward “Ed” Markey,Mark Warner,MA,1,Democrat,VA,1,Democrat,1,1,1
 Edward “Ed” Markey,Martin Heinrich,MA,1,Democrat,NM,1,Democrat,1,0,1
 Edward “Ed” Markey,Mary Landrieu,MA,1,Democrat,LA,1,Democrat,1,0,1
 Edward “Ed” Markey,Mazie Hirono,MA,1,Democrat,HI,1,Democrat,1,0,1
@@ -1774,7 +1774,7 @@ Edward “Ed” Markey,Michael Enzi,MA,1,Democrat,WY,1,Republican,0,0,1
 Edward “Ed” Markey,Mike Johanns,MA,1,Democrat,NE,1,Republican,0,0,1
 Edward “Ed” Markey,Mitch McConnell,MA,1,Democrat,KY,1,Republican,0,0,1
 Edward “Ed” Markey,Patrick Leahy,MA,1,Democrat,VT,1,Democrat,1,0,1
-Edward “Ed” Markey,Patty Murray,MA,1,Democrat,WA,1,Democrat,1,1,1
+Edward “Ed” Markey,Patty Murray,MA,1,Democrat,WA,1,Democrat,1,0,1
 Edward “Ed” Markey,Richard Blumenthal,MA,1,Democrat,CT,1,Democrat,1,1,1
 Edward “Ed” Markey,Richard Durbin,MA,1,Democrat,IL,1,Democrat,1,0,1
 Edward “Ed” Markey,Robert “Bob” Casey,MA,1,Democrat,PA,1,Democrat,1,1,1
@@ -1791,15 +1791,15 @@ Edward “Ed” Markey,Thad Cochran,MA,1,Democrat,MS,1,Republican,0,0,1
 Edward “Ed” Markey,Thomas “Tom” Harkin,MA,1,Democrat,IA,1,Democrat,1,0,1
 Edward “Ed” Markey,Thomas Carper,MA,1,Democrat,DE,1,Democrat,1,1,1
 Edward “Ed” Markey,Tim Johnson,MA,1,Democrat,SD,1,Democrat,1,0,1
-Edward “Ed” Markey,Timothy “Tim” Kaine,MA,1,Democrat,VA,1,Democrat,1,0,1
+Edward “Ed” Markey,Timothy “Tim” Kaine,MA,1,Democrat,VA,1,Democrat,1,1,1
 Edward “Ed” Markey,Tom Udall,MA,1,Democrat,NM,1,Democrat,1,0,1
 Elizabeth Warren,Alan “Al” Franken,MA,1,Democrat,MN,1,Democrat,1,0,1
 Elizabeth Warren,Amy Klobuchar,MA,1,Democrat,MN,1,Democrat,1,0,1
-Elizabeth Warren,Angus King,MA,1,Democrat,ME,1,Independent,0,0,1
+Elizabeth Warren,Angus King,MA,1,Democrat,ME,1,Democrat,1,0,1
 Elizabeth Warren,Barbara Boxer,MA,1,Democrat,CA,1,Democrat,1,0,1
 Elizabeth Warren,Barbara Mikulski,MA,1,Democrat,MD,1,Democrat,1,1,1
 Elizabeth Warren,Benjamin Cardin,MA,1,Democrat,MD,1,Democrat,1,1,1
-Elizabeth Warren,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Independent,0,0,1
+Elizabeth Warren,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Democrat,1,0,1
 Elizabeth Warren,Bill Nelson,MA,1,Democrat,FL,1,Democrat,1,0,1
 Elizabeth Warren,Bob Corker,MA,1,Democrat,TN,1,Republican,0,0,1
 Elizabeth Warren,Carl Levin,MA,1,Democrat,MI,1,Democrat,1,0,1
@@ -1838,12 +1838,12 @@ Elizabeth Warren,Kelly Ayotte,MA,1,Democrat,NH,1,Republican,0,1,1
 Elizabeth Warren,Kirsten Gillibrand,MA,1,Democrat,NY,1,Democrat,1,1,1
 Elizabeth Warren,Lindsey Graham,MA,1,Democrat,SC,1,Republican,0,0,1
 Elizabeth Warren,Lisa Murkowski,MA,1,Democrat,AK,1,Republican,0,0,1
-Elizabeth Warren,Maria Cantwell,MA,1,Democrat,WA,1,Democrat,1,1,1
+Elizabeth Warren,Maria Cantwell,MA,1,Democrat,WA,1,Democrat,1,0,1
 Elizabeth Warren,Mark Begich,MA,1,Democrat,AK,1,Democrat,1,0,1
 Elizabeth Warren,Mark Kirk,MA,1,Democrat,IL,1,Republican,0,0,1
 Elizabeth Warren,Mark Pryor,MA,1,Democrat,AR,1,Democrat,1,0,1
 Elizabeth Warren,Mark Udall,MA,1,Democrat,CO,1,Democrat,1,0,1
-Elizabeth Warren,Mark Warner,MA,1,Democrat,VA,1,Democrat,1,0,1
+Elizabeth Warren,Mark Warner,MA,1,Democrat,VA,1,Democrat,1,1,1
 Elizabeth Warren,Martin Heinrich,MA,1,Democrat,NM,1,Democrat,1,0,1
 Elizabeth Warren,Mary Landrieu,MA,1,Democrat,LA,1,Democrat,1,0,1
 Elizabeth Warren,Mazie Hirono,MA,1,Democrat,HI,1,Democrat,1,0,1
@@ -1852,7 +1852,7 @@ Elizabeth Warren,Michael Enzi,MA,1,Democrat,WY,1,Republican,0,0,1
 Elizabeth Warren,Mike Johanns,MA,1,Democrat,NE,1,Republican,0,0,1
 Elizabeth Warren,Mitch McConnell,MA,1,Democrat,KY,1,Republican,0,0,1
 Elizabeth Warren,Patrick Leahy,MA,1,Democrat,VT,1,Democrat,1,0,1
-Elizabeth Warren,Patty Murray,MA,1,Democrat,WA,1,Democrat,1,1,1
+Elizabeth Warren,Patty Murray,MA,1,Democrat,WA,1,Democrat,1,0,1
 Elizabeth Warren,Richard Blumenthal,MA,1,Democrat,CT,1,Democrat,1,1,1
 Elizabeth Warren,Richard Durbin,MA,1,Democrat,IL,1,Democrat,1,0,1
 Elizabeth Warren,Robert “Bob” Casey,MA,1,Democrat,PA,1,Democrat,1,1,1
@@ -1869,15 +1869,15 @@ Elizabeth Warren,Thad Cochran,MA,1,Democrat,MS,1,Republican,0,0,1
 Elizabeth Warren,Thomas “Tom” Harkin,MA,1,Democrat,IA,1,Democrat,1,0,1
 Elizabeth Warren,Thomas Carper,MA,1,Democrat,DE,1,Democrat,1,1,1
 Elizabeth Warren,Tim Johnson,MA,1,Democrat,SD,1,Democrat,1,0,1
-Elizabeth Warren,Timothy “Tim” Kaine,MA,1,Democrat,VA,1,Democrat,1,0,1
+Elizabeth Warren,Timothy “Tim” Kaine,MA,1,Democrat,VA,1,Democrat,1,1,1
 Elizabeth Warren,Tom Udall,MA,1,Democrat,NM,1,Democrat,1,0,1
 Harry Reid,Alan “Al” Franken,NV,1,Democrat,MN,1,Democrat,1,0,1
 Harry Reid,Amy Klobuchar,NV,1,Democrat,MN,1,Democrat,1,0,1
-Harry Reid,Angus King,NV,1,Democrat,ME,1,Independent,0,0,1
+Harry Reid,Angus King,NV,1,Democrat,ME,1,Democrat,1,0,1
 Harry Reid,Barbara Boxer,NV,1,Democrat,CA,1,Democrat,1,0,1
 Harry Reid,Barbara Mikulski,NV,1,Democrat,MD,1,Democrat,1,0,1
 Harry Reid,Benjamin Cardin,NV,1,Democrat,MD,1,Democrat,1,0,1
-Harry Reid,Bernard “Bernie” Sanders,NV,1,Democrat,VT,1,Independent,0,0,1
+Harry Reid,Bernard “Bernie” Sanders,NV,1,Democrat,VT,1,Democrat,1,0,1
 Harry Reid,Bill Nelson,NV,1,Democrat,FL,1,Democrat,1,0,1
 Harry Reid,Bob Corker,NV,1,Democrat,TN,1,Republican,0,0,1
 Harry Reid,Carl Levin,NV,1,Democrat,MI,1,Democrat,1,0,1
@@ -1951,11 +1951,11 @@ Harry Reid,Timothy “Tim” Kaine,NV,1,Democrat,VA,1,Democrat,1,0,1
 Harry Reid,Tom Udall,NV,1,Democrat,NM,1,Democrat,1,0,1
 Heidi Heitkamp,Alan “Al” Franken,ND,1,Democrat,MN,1,Democrat,1,0,1
 Heidi Heitkamp,Amy Klobuchar,ND,1,Democrat,MN,1,Democrat,1,0,1
-Heidi Heitkamp,Angus King,ND,1,Democrat,ME,1,Independent,0,0,1
+Heidi Heitkamp,Angus King,ND,1,Democrat,ME,1,Democrat,1,0,1
 Heidi Heitkamp,Barbara Boxer,ND,1,Democrat,CA,1,Democrat,1,0,1
 Heidi Heitkamp,Barbara Mikulski,ND,1,Democrat,MD,1,Democrat,1,0,1
 Heidi Heitkamp,Benjamin Cardin,ND,1,Democrat,MD,1,Democrat,1,0,1
-Heidi Heitkamp,Bernard “Bernie” Sanders,ND,1,Democrat,VT,1,Independent,0,0,1
+Heidi Heitkamp,Bernard “Bernie” Sanders,ND,1,Democrat,VT,1,Democrat,1,0,1
 Heidi Heitkamp,Bill Nelson,ND,1,Democrat,FL,1,Democrat,1,0,1
 Heidi Heitkamp,Bob Corker,ND,1,Democrat,TN,1,Republican,0,0,1
 Heidi Heitkamp,Carl Levin,ND,1,Democrat,MI,1,Democrat,1,0,1
@@ -2029,11 +2029,11 @@ Heidi Heitkamp,Timothy “Tim” Kaine,ND,1,Democrat,VA,1,Democrat,1,0,1
 Heidi Heitkamp,Tom Udall,ND,1,Democrat,NM,1,Democrat,1,0,1
 James “Jim” Inhofe,Alan “Al” Franken,OK,1,Republican,MN,1,Democrat,0,0,1
 James “Jim” Inhofe,Amy Klobuchar,OK,1,Republican,MN,1,Democrat,0,0,1
-James “Jim” Inhofe,Angus King,OK,1,Republican,ME,1,Independent,0,0,1
+James “Jim” Inhofe,Angus King,OK,1,Republican,ME,1,Democrat,0,0,1
 James “Jim” Inhofe,Barbara Boxer,OK,1,Republican,CA,1,Democrat,0,0,1
 James “Jim” Inhofe,Barbara Mikulski,OK,1,Republican,MD,1,Democrat,0,0,1
 James “Jim” Inhofe,Benjamin Cardin,OK,1,Republican,MD,1,Democrat,0,0,1
-James “Jim” Inhofe,Bernard “Bernie” Sanders,OK,1,Republican,VT,1,Independent,0,0,1
+James “Jim” Inhofe,Bernard “Bernie” Sanders,OK,1,Republican,VT,1,Democrat,0,0,1
 James “Jim” Inhofe,Bill Nelson,OK,1,Republican,FL,1,Democrat,0,0,1
 James “Jim” Inhofe,Bob Corker,OK,1,Republican,TN,1,Republican,1,0,1
 James “Jim” Inhofe,Carl Levin,OK,1,Republican,MI,1,Democrat,0,0,1
@@ -2107,11 +2107,11 @@ James “Jim” Inhofe,Timothy “Tim” Kaine,OK,1,Republican,VA,1,Democrat,0,0
 James “Jim” Inhofe,Tom Udall,OK,1,Republican,NM,1,Democrat,0,0,1
 Jeanne Shaheen,Alan “Al” Franken,NH,1,Democrat,MN,1,Democrat,1,0,1
 Jeanne Shaheen,Amy Klobuchar,NH,1,Democrat,MN,1,Democrat,1,0,1
-Jeanne Shaheen,Angus King,NH,1,Democrat,ME,1,Independent,0,0,1
+Jeanne Shaheen,Angus King,NH,1,Democrat,ME,1,Democrat,1,0,1
 Jeanne Shaheen,Barbara Boxer,NH,1,Democrat,CA,1,Democrat,1,0,1
 Jeanne Shaheen,Barbara Mikulski,NH,1,Democrat,MD,1,Democrat,1,1,1
 Jeanne Shaheen,Benjamin Cardin,NH,1,Democrat,MD,1,Democrat,1,1,1
-Jeanne Shaheen,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Independent,0,0,1
+Jeanne Shaheen,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Democrat,1,0,1
 Jeanne Shaheen,Bill Nelson,NH,1,Democrat,FL,1,Democrat,1,0,1
 Jeanne Shaheen,Bob Corker,NH,1,Democrat,TN,1,Republican,0,0,1
 Jeanne Shaheen,Carl Levin,NH,1,Democrat,MI,1,Democrat,1,0,1
@@ -2150,12 +2150,12 @@ Jeanne Shaheen,Kelly Ayotte,NH,1,Democrat,NH,1,Republican,0,1,1
 Jeanne Shaheen,Kirsten Gillibrand,NH,1,Democrat,NY,1,Democrat,1,1,1
 Jeanne Shaheen,Lindsey Graham,NH,1,Democrat,SC,1,Republican,0,0,1
 Jeanne Shaheen,Lisa Murkowski,NH,1,Democrat,AK,1,Republican,0,0,1
-Jeanne Shaheen,Maria Cantwell,NH,1,Democrat,WA,1,Democrat,1,1,1
+Jeanne Shaheen,Maria Cantwell,NH,1,Democrat,WA,1,Democrat,1,0,1
 Jeanne Shaheen,Mark Begich,NH,1,Democrat,AK,1,Democrat,1,0,1
 Jeanne Shaheen,Mark Kirk,NH,1,Democrat,IL,1,Republican,0,0,1
 Jeanne Shaheen,Mark Pryor,NH,1,Democrat,AR,1,Democrat,1,0,1
 Jeanne Shaheen,Mark Udall,NH,1,Democrat,CO,1,Democrat,1,0,1
-Jeanne Shaheen,Mark Warner,NH,1,Democrat,VA,1,Democrat,1,0,1
+Jeanne Shaheen,Mark Warner,NH,1,Democrat,VA,1,Democrat,1,1,1
 Jeanne Shaheen,Martin Heinrich,NH,1,Democrat,NM,1,Democrat,1,0,1
 Jeanne Shaheen,Mary Landrieu,NH,1,Democrat,LA,1,Democrat,1,0,1
 Jeanne Shaheen,Mazie Hirono,NH,1,Democrat,HI,1,Democrat,1,0,1
@@ -2164,7 +2164,7 @@ Jeanne Shaheen,Michael Enzi,NH,1,Democrat,WY,1,Republican,0,0,1
 Jeanne Shaheen,Mike Johanns,NH,1,Democrat,NE,1,Republican,0,0,1
 Jeanne Shaheen,Mitch McConnell,NH,1,Democrat,KY,1,Republican,0,0,1
 Jeanne Shaheen,Patrick Leahy,NH,1,Democrat,VT,1,Democrat,1,0,1
-Jeanne Shaheen,Patty Murray,NH,1,Democrat,WA,1,Democrat,1,1,1
+Jeanne Shaheen,Patty Murray,NH,1,Democrat,WA,1,Democrat,1,0,1
 Jeanne Shaheen,Richard Blumenthal,NH,1,Democrat,CT,1,Democrat,1,1,1
 Jeanne Shaheen,Richard Durbin,NH,1,Democrat,IL,1,Democrat,1,0,1
 Jeanne Shaheen,Robert “Bob” Casey,NH,1,Democrat,PA,1,Democrat,1,1,1
@@ -2181,15 +2181,15 @@ Jeanne Shaheen,Thad Cochran,NH,1,Democrat,MS,1,Republican,0,0,1
 Jeanne Shaheen,Thomas “Tom” Harkin,NH,1,Democrat,IA,1,Democrat,1,0,1
 Jeanne Shaheen,Thomas Carper,NH,1,Democrat,DE,1,Democrat,1,1,1
 Jeanne Shaheen,Tim Johnson,NH,1,Democrat,SD,1,Democrat,1,0,1
-Jeanne Shaheen,Timothy “Tim” Kaine,NH,1,Democrat,VA,1,Democrat,1,0,1
+Jeanne Shaheen,Timothy “Tim” Kaine,NH,1,Democrat,VA,1,Democrat,1,1,1
 Jeanne Shaheen,Tom Udall,NH,1,Democrat,NM,1,Democrat,1,0,1
 Jeff Merkley,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Jeff Merkley,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
-Jeff Merkley,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
+Jeff Merkley,Angus King,OR,1,Democrat,ME,1,Democrat,1,0,1
 Jeff Merkley,Barbara Boxer,OR,1,Democrat,CA,1,Democrat,1,0,1
 Jeff Merkley,Barbara Mikulski,OR,1,Democrat,MD,1,Democrat,1,0,1
 Jeff Merkley,Benjamin Cardin,OR,1,Democrat,MD,1,Democrat,1,0,1
-Jeff Merkley,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Independent,0,0,1
+Jeff Merkley,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Democrat,1,0,1
 Jeff Merkley,Bill Nelson,OR,1,Democrat,FL,1,Democrat,1,0,1
 Jeff Merkley,Bob Corker,OR,1,Democrat,TN,1,Republican,0,0,1
 Jeff Merkley,Carl Levin,OR,1,Democrat,MI,1,Democrat,1,0,1
@@ -2263,11 +2263,11 @@ Jeff Merkley,Timothy “Tim” Kaine,OR,1,Democrat,VA,1,Democrat,1,0,1
 Jeff Merkley,Tom Udall,OR,1,Democrat,NM,1,Democrat,1,0,1
 Jerry Moran,Alan “Al” Franken,KS,1,Republican,MN,1,Democrat,0,0,1
 Jerry Moran,Amy Klobuchar,KS,1,Republican,MN,1,Democrat,0,0,1
-Jerry Moran,Angus King,KS,1,Republican,ME,1,Independent,0,0,1
+Jerry Moran,Angus King,KS,1,Republican,ME,1,Democrat,0,0,1
 Jerry Moran,Barbara Boxer,KS,1,Republican,CA,1,Democrat,0,0,1
 Jerry Moran,Barbara Mikulski,KS,1,Republican,MD,1,Democrat,0,0,1
 Jerry Moran,Benjamin Cardin,KS,1,Republican,MD,1,Democrat,0,0,1
-Jerry Moran,Bernard “Bernie” Sanders,KS,1,Republican,VT,1,Independent,0,0,1
+Jerry Moran,Bernard “Bernie” Sanders,KS,1,Republican,VT,1,Democrat,0,0,1
 Jerry Moran,Bill Nelson,KS,1,Republican,FL,1,Democrat,0,0,1
 Jerry Moran,Bob Corker,KS,1,Republican,TN,1,Republican,1,0,1
 Jerry Moran,Carl Levin,KS,1,Republican,MI,1,Democrat,0,0,1
@@ -2341,11 +2341,11 @@ Jerry Moran,Timothy “Tim” Kaine,KS,1,Republican,VA,1,Democrat,0,0,1
 Jerry Moran,Tom Udall,KS,1,Republican,NM,1,Democrat,0,0,1
 Joe Donnelly,Alan “Al” Franken,IN,1,Democrat,MN,1,Democrat,1,0,1
 Joe Donnelly,Amy Klobuchar,IN,1,Democrat,MN,1,Democrat,1,0,1
-Joe Donnelly,Angus King,IN,1,Democrat,ME,1,Independent,0,0,1
+Joe Donnelly,Angus King,IN,1,Democrat,ME,1,Democrat,1,0,1
 Joe Donnelly,Barbara Boxer,IN,1,Democrat,CA,1,Democrat,1,0,1
 Joe Donnelly,Barbara Mikulski,IN,1,Democrat,MD,1,Democrat,1,0,1
 Joe Donnelly,Benjamin Cardin,IN,1,Democrat,MD,1,Democrat,1,0,1
-Joe Donnelly,Bernard “Bernie” Sanders,IN,1,Democrat,VT,1,Independent,0,0,1
+Joe Donnelly,Bernard “Bernie” Sanders,IN,1,Democrat,VT,1,Democrat,1,0,1
 Joe Donnelly,Bill Nelson,IN,1,Democrat,FL,1,Democrat,1,0,1
 Joe Donnelly,Bob Corker,IN,1,Democrat,TN,1,Republican,0,0,1
 Joe Donnelly,Carl Levin,IN,1,Democrat,MI,1,Democrat,1,0,1
@@ -2419,11 +2419,11 @@ Joe Donnelly,Timothy “Tim” Kaine,IN,1,Democrat,VA,1,Democrat,1,0,1
 Joe Donnelly,Tom Udall,IN,1,Democrat,NM,1,Democrat,1,0,1
 Joe Manchin,Alan “Al” Franken,WV,1,Democrat,MN,1,Democrat,1,0,1
 Joe Manchin,Amy Klobuchar,WV,1,Democrat,MN,1,Democrat,1,0,1
-Joe Manchin,Angus King,WV,1,Democrat,ME,1,Independent,0,0,1
+Joe Manchin,Angus King,WV,1,Democrat,ME,1,Democrat,1,0,1
 Joe Manchin,Barbara Boxer,WV,1,Democrat,CA,1,Democrat,1,0,1
 Joe Manchin,Barbara Mikulski,WV,1,Democrat,MD,1,Democrat,1,1,1
 Joe Manchin,Benjamin Cardin,WV,1,Democrat,MD,1,Democrat,1,1,1
-Joe Manchin,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Independent,0,0,1
+Joe Manchin,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Democrat,1,0,1
 Joe Manchin,Bill Nelson,WV,1,Democrat,FL,1,Democrat,1,0,1
 Joe Manchin,Bob Corker,WV,1,Democrat,TN,1,Republican,0,0,1
 Joe Manchin,Carl Levin,WV,1,Democrat,MI,1,Democrat,1,0,1
@@ -2462,12 +2462,12 @@ Joe Manchin,Kelly Ayotte,WV,1,Democrat,NH,1,Republican,0,1,1
 Joe Manchin,Kirsten Gillibrand,WV,1,Democrat,NY,1,Democrat,1,1,1
 Joe Manchin,Lindsey Graham,WV,1,Democrat,SC,1,Republican,0,0,1
 Joe Manchin,Lisa Murkowski,WV,1,Democrat,AK,1,Republican,0,0,1
-Joe Manchin,Maria Cantwell,WV,1,Democrat,WA,1,Democrat,1,1,1
+Joe Manchin,Maria Cantwell,WV,1,Democrat,WA,1,Democrat,1,0,1
 Joe Manchin,Mark Begich,WV,1,Democrat,AK,1,Democrat,1,0,1
 Joe Manchin,Mark Kirk,WV,1,Democrat,IL,1,Republican,0,0,1
 Joe Manchin,Mark Pryor,WV,1,Democrat,AR,1,Democrat,1,0,1
 Joe Manchin,Mark Udall,WV,1,Democrat,CO,1,Democrat,1,0,1
-Joe Manchin,Mark Warner,WV,1,Democrat,VA,1,Democrat,1,0,1
+Joe Manchin,Mark Warner,WV,1,Democrat,VA,1,Democrat,1,1,1
 Joe Manchin,Martin Heinrich,WV,1,Democrat,NM,1,Democrat,1,0,1
 Joe Manchin,Mary Landrieu,WV,1,Democrat,LA,1,Democrat,1,0,1
 Joe Manchin,Mazie Hirono,WV,1,Democrat,HI,1,Democrat,1,0,1
@@ -2476,7 +2476,7 @@ Joe Manchin,Michael Enzi,WV,1,Democrat,WY,1,Republican,0,0,1
 Joe Manchin,Mike Johanns,WV,1,Democrat,NE,1,Republican,0,0,1
 Joe Manchin,Mitch McConnell,WV,1,Democrat,KY,1,Republican,0,0,1
 Joe Manchin,Patrick Leahy,WV,1,Democrat,VT,1,Democrat,1,0,1
-Joe Manchin,Patty Murray,WV,1,Democrat,WA,1,Democrat,1,1,1
+Joe Manchin,Patty Murray,WV,1,Democrat,WA,1,Democrat,1,0,1
 Joe Manchin,Richard Blumenthal,WV,1,Democrat,CT,1,Democrat,1,1,1
 Joe Manchin,Richard Durbin,WV,1,Democrat,IL,1,Democrat,1,0,1
 Joe Manchin,Robert “Bob” Casey,WV,1,Democrat,PA,1,Democrat,1,1,1
@@ -2493,15 +2493,15 @@ Joe Manchin,Thad Cochran,WV,1,Democrat,MS,1,Republican,0,0,1
 Joe Manchin,Thomas “Tom” Harkin,WV,1,Democrat,IA,1,Democrat,1,0,1
 Joe Manchin,Thomas Carper,WV,1,Democrat,DE,1,Democrat,1,1,1
 Joe Manchin,Tim Johnson,WV,1,Democrat,SD,1,Democrat,1,0,1
-Joe Manchin,Timothy “Tim” Kaine,WV,1,Democrat,VA,1,Democrat,1,0,1
+Joe Manchin,Timothy “Tim” Kaine,WV,1,Democrat,VA,1,Democrat,1,1,1
 Joe Manchin,Tom Udall,WV,1,Democrat,NM,1,Democrat,1,0,1
 John “Jay” Rockefeller,Alan “Al” Franken,WV,1,Democrat,MN,1,Democrat,1,0,1
 John “Jay” Rockefeller,Amy Klobuchar,WV,1,Democrat,MN,1,Democrat,1,0,1
-John “Jay” Rockefeller,Angus King,WV,1,Democrat,ME,1,Independent,0,0,1
+John “Jay” Rockefeller,Angus King,WV,1,Democrat,ME,1,Democrat,1,0,1
 John “Jay” Rockefeller,Barbara Boxer,WV,1,Democrat,CA,1,Democrat,1,0,1
 John “Jay” Rockefeller,Barbara Mikulski,WV,1,Democrat,MD,1,Democrat,1,1,1
 John “Jay” Rockefeller,Benjamin Cardin,WV,1,Democrat,MD,1,Democrat,1,1,1
-John “Jay” Rockefeller,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Independent,0,0,1
+John “Jay” Rockefeller,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Democrat,1,0,1
 John “Jay” Rockefeller,Bill Nelson,WV,1,Democrat,FL,1,Democrat,1,0,1
 John “Jay” Rockefeller,Bob Corker,WV,1,Democrat,TN,1,Republican,0,0,1
 John “Jay” Rockefeller,Carl Levin,WV,1,Democrat,MI,1,Democrat,1,0,1
@@ -2540,12 +2540,12 @@ John “Jay” Rockefeller,Kelly Ayotte,WV,1,Democrat,NH,1,Republican,0,1,1
 John “Jay” Rockefeller,Kirsten Gillibrand,WV,1,Democrat,NY,1,Democrat,1,1,1
 John “Jay” Rockefeller,Lindsey Graham,WV,1,Democrat,SC,1,Republican,0,0,1
 John “Jay” Rockefeller,Lisa Murkowski,WV,1,Democrat,AK,1,Republican,0,0,1
-John “Jay” Rockefeller,Maria Cantwell,WV,1,Democrat,WA,1,Democrat,1,1,1
+John “Jay” Rockefeller,Maria Cantwell,WV,1,Democrat,WA,1,Democrat,1,0,1
 John “Jay” Rockefeller,Mark Begich,WV,1,Democrat,AK,1,Democrat,1,0,1
 John “Jay” Rockefeller,Mark Kirk,WV,1,Democrat,IL,1,Republican,0,0,1
 John “Jay” Rockefeller,Mark Pryor,WV,1,Democrat,AR,1,Democrat,1,0,1
 John “Jay” Rockefeller,Mark Udall,WV,1,Democrat,CO,1,Democrat,1,0,1
-John “Jay” Rockefeller,Mark Warner,WV,1,Democrat,VA,1,Democrat,1,0,1
+John “Jay” Rockefeller,Mark Warner,WV,1,Democrat,VA,1,Democrat,1,1,1
 John “Jay” Rockefeller,Martin Heinrich,WV,1,Democrat,NM,1,Democrat,1,0,1
 John “Jay” Rockefeller,Mary Landrieu,WV,1,Democrat,LA,1,Democrat,1,0,1
 John “Jay” Rockefeller,Mazie Hirono,WV,1,Democrat,HI,1,Democrat,1,0,1
@@ -2554,7 +2554,7 @@ John “Jay” Rockefeller,Michael Enzi,WV,1,Democrat,WY,1,Republican,0,0,1
 John “Jay” Rockefeller,Mike Johanns,WV,1,Democrat,NE,1,Republican,0,0,1
 John “Jay” Rockefeller,Mitch McConnell,WV,1,Democrat,KY,1,Republican,0,0,1
 John “Jay” Rockefeller,Patrick Leahy,WV,1,Democrat,VT,1,Democrat,1,0,1
-John “Jay” Rockefeller,Patty Murray,WV,1,Democrat,WA,1,Democrat,1,1,1
+John “Jay” Rockefeller,Patty Murray,WV,1,Democrat,WA,1,Democrat,1,0,1
 John “Jay” Rockefeller,Richard Blumenthal,WV,1,Democrat,CT,1,Democrat,1,1,1
 John “Jay” Rockefeller,Richard Durbin,WV,1,Democrat,IL,1,Democrat,1,0,1
 John “Jay” Rockefeller,Robert “Bob” Casey,WV,1,Democrat,PA,1,Democrat,1,1,1
@@ -2571,15 +2571,15 @@ John “Jay” Rockefeller,Thad Cochran,WV,1,Democrat,MS,1,Republican,0,0,1
 John “Jay” Rockefeller,Thomas “Tom” Harkin,WV,1,Democrat,IA,1,Democrat,1,0,1
 John “Jay” Rockefeller,Thomas Carper,WV,1,Democrat,DE,1,Democrat,1,1,1
 John “Jay” Rockefeller,Tim Johnson,WV,1,Democrat,SD,1,Democrat,1,0,1
-John “Jay” Rockefeller,Timothy “Tim” Kaine,WV,1,Democrat,VA,1,Democrat,1,0,1
+John “Jay” Rockefeller,Timothy “Tim” Kaine,WV,1,Democrat,VA,1,Democrat,1,1,1
 John “Jay” Rockefeller,Tom Udall,WV,1,Democrat,NM,1,Democrat,1,0,1
 John “Johnny” Isakson,Alan “Al” Franken,GA,1,Republican,MN,1,Democrat,0,0,1
 John “Johnny” Isakson,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
-John “Johnny” Isakson,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
+John “Johnny” Isakson,Angus King,GA,1,Republican,ME,1,Democrat,0,0,1
 John “Johnny” Isakson,Barbara Boxer,GA,1,Republican,CA,1,Democrat,0,0,1
 John “Johnny” Isakson,Barbara Mikulski,GA,1,Republican,MD,1,Democrat,0,0,1
 John “Johnny” Isakson,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
-John “Johnny” Isakson,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
+John “Johnny” Isakson,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Democrat,0,0,1
 John “Johnny” Isakson,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,0,1
 John “Johnny” Isakson,Bob Corker,GA,1,Republican,TN,1,Republican,1,0,1
 John “Johnny” Isakson,Carl Levin,GA,1,Republican,MI,1,Democrat,0,0,1
@@ -2653,11 +2653,11 @@ John “Johnny” Isakson,Timothy “Tim” Kaine,GA,1,Republican,VA,1,Democrat,
 John “Johnny” Isakson,Tom Udall,GA,1,Republican,NM,1,Democrat,0,0,1
 John Barrasso,Alan “Al” Franken,WY,1,Republican,MN,1,Democrat,0,0,1
 John Barrasso,Amy Klobuchar,WY,1,Republican,MN,1,Democrat,0,0,1
-John Barrasso,Angus King,WY,1,Republican,ME,1,Independent,0,0,1
+John Barrasso,Angus King,WY,1,Republican,ME,1,Democrat,0,0,1
 John Barrasso,Barbara Boxer,WY,1,Republican,CA,1,Democrat,0,0,1
 John Barrasso,Barbara Mikulski,WY,1,Republican,MD,1,Democrat,0,0,1
 John Barrasso,Benjamin Cardin,WY,1,Republican,MD,1,Democrat,0,0,1
-John Barrasso,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Independent,0,0,1
+John Barrasso,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Democrat,0,0,1
 John Barrasso,Bill Nelson,WY,1,Republican,FL,1,Democrat,0,0,1
 John Barrasso,Bob Corker,WY,1,Republican,TN,1,Republican,1,0,1
 John Barrasso,Carl Levin,WY,1,Republican,MI,1,Democrat,0,0,1
@@ -2731,11 +2731,11 @@ John Barrasso,Timothy “Tim” Kaine,WY,1,Republican,VA,1,Democrat,0,0,1
 John Barrasso,Tom Udall,WY,1,Republican,NM,1,Democrat,0,0,1
 John Boozman,Alan “Al” Franken,AR,1,Republican,MN,1,Democrat,0,0,1
 John Boozman,Amy Klobuchar,AR,1,Republican,MN,1,Democrat,0,0,1
-John Boozman,Angus King,AR,1,Republican,ME,1,Independent,0,0,1
+John Boozman,Angus King,AR,1,Republican,ME,1,Democrat,0,0,1
 John Boozman,Barbara Boxer,AR,1,Republican,CA,1,Democrat,0,0,1
 John Boozman,Barbara Mikulski,AR,1,Republican,MD,1,Democrat,0,0,1
 John Boozman,Benjamin Cardin,AR,1,Republican,MD,1,Democrat,0,0,1
-John Boozman,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Independent,0,0,1
+John Boozman,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Democrat,0,0,1
 John Boozman,Bill Nelson,AR,1,Republican,FL,1,Democrat,0,0,1
 John Boozman,Bob Corker,AR,1,Republican,TN,1,Republican,1,0,1
 John Boozman,Carl Levin,AR,1,Republican,MI,1,Democrat,0,0,1
@@ -2809,11 +2809,11 @@ John Boozman,Timothy “Tim” Kaine,AR,1,Republican,VA,1,Democrat,0,0,1
 John Boozman,Tom Udall,AR,1,Republican,NM,1,Democrat,0,0,1
 John F. “Jack” Reed,Alan “Al” Franken,RI,1,Democrat,MN,1,Democrat,1,0,1
 John F. “Jack” Reed,Amy Klobuchar,RI,1,Democrat,MN,1,Democrat,1,0,1
-John F. “Jack” Reed,Angus King,RI,1,Democrat,ME,1,Independent,0,0,1
+John F. “Jack” Reed,Angus King,RI,1,Democrat,ME,1,Democrat,1,0,1
 John F. “Jack” Reed,Barbara Boxer,RI,1,Democrat,CA,1,Democrat,1,0,1
 John F. “Jack” Reed,Barbara Mikulski,RI,1,Democrat,MD,1,Democrat,1,1,1
 John F. “Jack” Reed,Benjamin Cardin,RI,1,Democrat,MD,1,Democrat,1,1,1
-John F. “Jack” Reed,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Independent,0,0,1
+John F. “Jack” Reed,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Democrat,1,0,1
 John F. “Jack” Reed,Bill Nelson,RI,1,Democrat,FL,1,Democrat,1,0,1
 John F. “Jack” Reed,Bob Corker,RI,1,Democrat,TN,1,Republican,0,0,1
 John F. “Jack” Reed,Carl Levin,RI,1,Democrat,MI,1,Democrat,1,0,1
@@ -2852,12 +2852,12 @@ John F. “Jack” Reed,Kelly Ayotte,RI,1,Democrat,NH,1,Republican,0,1,1
 John F. “Jack” Reed,Kirsten Gillibrand,RI,1,Democrat,NY,1,Democrat,1,1,1
 John F. “Jack” Reed,Lindsey Graham,RI,1,Democrat,SC,1,Republican,0,0,1
 John F. “Jack” Reed,Lisa Murkowski,RI,1,Democrat,AK,1,Republican,0,0,1
-John F. “Jack” Reed,Maria Cantwell,RI,1,Democrat,WA,1,Democrat,1,1,1
+John F. “Jack” Reed,Maria Cantwell,RI,1,Democrat,WA,1,Democrat,1,0,1
 John F. “Jack” Reed,Mark Begich,RI,1,Democrat,AK,1,Democrat,1,0,1
 John F. “Jack” Reed,Mark Kirk,RI,1,Democrat,IL,1,Republican,0,0,1
 John F. “Jack” Reed,Mark Pryor,RI,1,Democrat,AR,1,Democrat,1,0,1
 John F. “Jack” Reed,Mark Udall,RI,1,Democrat,CO,1,Democrat,1,0,1
-John F. “Jack” Reed,Mark Warner,RI,1,Democrat,VA,1,Democrat,1,0,1
+John F. “Jack” Reed,Mark Warner,RI,1,Democrat,VA,1,Democrat,1,1,1
 John F. “Jack” Reed,Martin Heinrich,RI,1,Democrat,NM,1,Democrat,1,0,1
 John F. “Jack” Reed,Mary Landrieu,RI,1,Democrat,LA,1,Democrat,1,0,1
 John F. “Jack” Reed,Mazie Hirono,RI,1,Democrat,HI,1,Democrat,1,0,1
@@ -2866,7 +2866,7 @@ John F. “Jack” Reed,Michael Enzi,RI,1,Democrat,WY,1,Republican,0,0,1
 John F. “Jack” Reed,Mike Johanns,RI,1,Democrat,NE,1,Republican,0,0,1
 John F. “Jack” Reed,Mitch McConnell,RI,1,Democrat,KY,1,Republican,0,0,1
 John F. “Jack” Reed,Patrick Leahy,RI,1,Democrat,VT,1,Democrat,1,0,1
-John F. “Jack” Reed,Patty Murray,RI,1,Democrat,WA,1,Democrat,1,1,1
+John F. “Jack” Reed,Patty Murray,RI,1,Democrat,WA,1,Democrat,1,0,1
 John F. “Jack” Reed,Richard Blumenthal,RI,1,Democrat,CT,1,Democrat,1,1,1
 John F. “Jack” Reed,Richard Durbin,RI,1,Democrat,IL,1,Democrat,1,0,1
 John F. “Jack” Reed,Robert “Bob” Casey,RI,1,Democrat,PA,1,Democrat,1,1,1
@@ -2883,15 +2883,15 @@ John F. “Jack” Reed,Thad Cochran,RI,1,Democrat,MS,1,Republican,0,0,1
 John F. “Jack” Reed,Thomas “Tom” Harkin,RI,1,Democrat,IA,1,Democrat,1,0,1
 John F. “Jack” Reed,Thomas Carper,RI,1,Democrat,DE,1,Democrat,1,1,1
 John F. “Jack” Reed,Tim Johnson,RI,1,Democrat,SD,1,Democrat,1,0,1
-John F. “Jack” Reed,Timothy “Tim” Kaine,RI,1,Democrat,VA,1,Democrat,1,0,1
+John F. “Jack” Reed,Timothy “Tim” Kaine,RI,1,Democrat,VA,1,Democrat,1,1,1
 John F. “Jack” Reed,Tom Udall,RI,1,Democrat,NM,1,Democrat,1,0,1
 John Hoeven,Alan “Al” Franken,ND,1,Republican,MN,1,Democrat,0,0,1
 John Hoeven,Amy Klobuchar,ND,1,Republican,MN,1,Democrat,0,0,1
-John Hoeven,Angus King,ND,1,Republican,ME,1,Independent,0,0,1
+John Hoeven,Angus King,ND,1,Republican,ME,1,Democrat,0,0,1
 John Hoeven,Barbara Boxer,ND,1,Republican,CA,1,Democrat,0,0,1
 John Hoeven,Barbara Mikulski,ND,1,Republican,MD,1,Democrat,0,0,1
 John Hoeven,Benjamin Cardin,ND,1,Republican,MD,1,Democrat,0,0,1
-John Hoeven,Bernard “Bernie” Sanders,ND,1,Republican,VT,1,Independent,0,0,1
+John Hoeven,Bernard “Bernie” Sanders,ND,1,Republican,VT,1,Democrat,0,0,1
 John Hoeven,Bill Nelson,ND,1,Republican,FL,1,Democrat,0,0,1
 John Hoeven,Bob Corker,ND,1,Republican,TN,1,Republican,1,0,1
 John Hoeven,Carl Levin,ND,1,Republican,MI,1,Democrat,0,0,1
@@ -2965,11 +2965,11 @@ John Hoeven,Timothy “Tim” Kaine,ND,1,Republican,VA,1,Democrat,0,0,1
 John Hoeven,Tom Udall,ND,1,Republican,NM,1,Democrat,0,0,1
 John Thune,Alan “Al” Franken,SD,1,Republican,MN,1,Democrat,0,0,1
 John Thune,Amy Klobuchar,SD,1,Republican,MN,1,Democrat,0,0,1
-John Thune,Angus King,SD,1,Republican,ME,1,Independent,0,0,1
+John Thune,Angus King,SD,1,Republican,ME,1,Democrat,0,0,1
 John Thune,Barbara Boxer,SD,1,Republican,CA,1,Democrat,0,0,1
 John Thune,Barbara Mikulski,SD,1,Republican,MD,1,Democrat,0,0,1
 John Thune,Benjamin Cardin,SD,1,Republican,MD,1,Democrat,0,0,1
-John Thune,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Independent,0,0,1
+John Thune,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Democrat,0,0,1
 John Thune,Bill Nelson,SD,1,Republican,FL,1,Democrat,0,0,1
 John Thune,Bob Corker,SD,1,Republican,TN,1,Republican,1,0,1
 John Thune,Carl Levin,SD,1,Republican,MI,1,Democrat,0,0,1
@@ -3043,11 +3043,11 @@ John Thune,Timothy “Tim” Kaine,SD,1,Republican,VA,1,Democrat,0,0,1
 John Thune,Tom Udall,SD,1,Republican,NM,1,Democrat,0,0,1
 John Walsh,Alan “Al” Franken,MT,1,Democrat,MN,1,Democrat,1,0,1
 John Walsh,Amy Klobuchar,MT,1,Democrat,MN,1,Democrat,1,0,1
-John Walsh,Angus King,MT,1,Democrat,ME,1,Independent,0,0,1
+John Walsh,Angus King,MT,1,Democrat,ME,1,Democrat,1,0,1
 John Walsh,Barbara Boxer,MT,1,Democrat,CA,1,Democrat,1,0,1
 John Walsh,Barbara Mikulski,MT,1,Democrat,MD,1,Democrat,1,0,1
 John Walsh,Benjamin Cardin,MT,1,Democrat,MD,1,Democrat,1,0,1
-John Walsh,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Independent,0,0,1
+John Walsh,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Democrat,1,0,1
 John Walsh,Bill Nelson,MT,1,Democrat,FL,1,Democrat,1,0,1
 John Walsh,Bob Corker,MT,1,Democrat,TN,1,Republican,0,0,1
 John Walsh,Carl Levin,MT,1,Democrat,MI,1,Democrat,1,0,1
@@ -3121,11 +3121,11 @@ John Walsh,Timothy “Tim” Kaine,MT,1,Democrat,VA,1,Democrat,1,0,1
 John Walsh,Tom Udall,MT,1,Democrat,NM,1,Democrat,1,0,1
 Jon Tester,Alan “Al” Franken,MT,1,Democrat,MN,1,Democrat,1,0,1
 Jon Tester,Amy Klobuchar,MT,1,Democrat,MN,1,Democrat,1,0,1
-Jon Tester,Angus King,MT,1,Democrat,ME,1,Independent,0,0,1
+Jon Tester,Angus King,MT,1,Democrat,ME,1,Democrat,1,0,1
 Jon Tester,Barbara Boxer,MT,1,Democrat,CA,1,Democrat,1,0,1
 Jon Tester,Barbara Mikulski,MT,1,Democrat,MD,1,Democrat,1,0,1
 Jon Tester,Benjamin Cardin,MT,1,Democrat,MD,1,Democrat,1,0,1
-Jon Tester,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Independent,0,0,1
+Jon Tester,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Democrat,1,0,1
 Jon Tester,Bill Nelson,MT,1,Democrat,FL,1,Democrat,1,0,1
 Jon Tester,Bob Corker,MT,1,Democrat,TN,1,Republican,0,0,1
 Jon Tester,Carl Levin,MT,1,Democrat,MI,1,Democrat,1,0,1
@@ -3199,11 +3199,11 @@ Jon Tester,Timothy “Tim” Kaine,MT,1,Democrat,VA,1,Democrat,1,0,1
 Jon Tester,Tom Udall,MT,1,Democrat,NM,1,Democrat,1,0,1
 Kay Hagan,Alan “Al” Franken,NC,1,Democrat,MN,1,Democrat,1,0,1
 Kay Hagan,Amy Klobuchar,NC,1,Democrat,MN,1,Democrat,1,0,1
-Kay Hagan,Angus King,NC,1,Democrat,ME,1,Independent,0,0,1
+Kay Hagan,Angus King,NC,1,Democrat,ME,1,Democrat,1,0,1
 Kay Hagan,Barbara Boxer,NC,1,Democrat,CA,1,Democrat,1,0,1
 Kay Hagan,Barbara Mikulski,NC,1,Democrat,MD,1,Democrat,1,0,1
 Kay Hagan,Benjamin Cardin,NC,1,Democrat,MD,1,Democrat,1,0,1
-Kay Hagan,Bernard “Bernie” Sanders,NC,1,Democrat,VT,1,Independent,0,0,1
+Kay Hagan,Bernard “Bernie” Sanders,NC,1,Democrat,VT,1,Democrat,1,0,1
 Kay Hagan,Bill Nelson,NC,1,Democrat,FL,1,Democrat,1,0,1
 Kay Hagan,Bob Corker,NC,1,Democrat,TN,1,Republican,0,0,1
 Kay Hagan,Carl Levin,NC,1,Democrat,MI,1,Democrat,1,0,1
@@ -3277,11 +3277,11 @@ Kay Hagan,Timothy “Tim” Kaine,NC,1,Democrat,VA,1,Democrat,1,0,1
 Kay Hagan,Tom Udall,NC,1,Democrat,NM,1,Democrat,1,0,1
 Kelly Ayotte,Alan “Al” Franken,NH,1,Republican,MN,1,Democrat,0,0,1
 Kelly Ayotte,Amy Klobuchar,NH,1,Republican,MN,1,Democrat,0,0,1
-Kelly Ayotte,Angus King,NH,1,Republican,ME,1,Independent,0,0,1
+Kelly Ayotte,Angus King,NH,1,Republican,ME,1,Democrat,0,0,1
 Kelly Ayotte,Barbara Boxer,NH,1,Republican,CA,1,Democrat,0,0,1
 Kelly Ayotte,Barbara Mikulski,NH,1,Republican,MD,1,Democrat,0,1,1
 Kelly Ayotte,Benjamin Cardin,NH,1,Republican,MD,1,Democrat,0,1,1
-Kelly Ayotte,Bernard “Bernie” Sanders,NH,1,Republican,VT,1,Independent,0,0,1
+Kelly Ayotte,Bernard “Bernie” Sanders,NH,1,Republican,VT,1,Democrat,0,0,1
 Kelly Ayotte,Bill Nelson,NH,1,Republican,FL,1,Democrat,0,0,1
 Kelly Ayotte,Bob Corker,NH,1,Republican,TN,1,Republican,1,0,1
 Kelly Ayotte,Carl Levin,NH,1,Republican,MI,1,Democrat,0,0,1
@@ -3320,12 +3320,12 @@ Kelly Ayotte,Kay Hagan,NH,1,Republican,NC,1,Democrat,0,0,1
 Kelly Ayotte,Kirsten Gillibrand,NH,1,Republican,NY,1,Democrat,0,1,1
 Kelly Ayotte,Lindsey Graham,NH,1,Republican,SC,1,Republican,1,0,1
 Kelly Ayotte,Lisa Murkowski,NH,1,Republican,AK,1,Republican,1,0,1
-Kelly Ayotte,Maria Cantwell,NH,1,Republican,WA,1,Democrat,0,1,1
+Kelly Ayotte,Maria Cantwell,NH,1,Republican,WA,1,Democrat,0,0,1
 Kelly Ayotte,Mark Begich,NH,1,Republican,AK,1,Democrat,0,0,1
 Kelly Ayotte,Mark Kirk,NH,1,Republican,IL,1,Republican,1,0,1
 Kelly Ayotte,Mark Pryor,NH,1,Republican,AR,1,Democrat,0,0,1
 Kelly Ayotte,Mark Udall,NH,1,Republican,CO,1,Democrat,0,0,1
-Kelly Ayotte,Mark Warner,NH,1,Republican,VA,1,Democrat,0,0,1
+Kelly Ayotte,Mark Warner,NH,1,Republican,VA,1,Democrat,0,1,1
 Kelly Ayotte,Martin Heinrich,NH,1,Republican,NM,1,Democrat,0,0,1
 Kelly Ayotte,Mary Landrieu,NH,1,Republican,LA,1,Democrat,0,0,1
 Kelly Ayotte,Mazie Hirono,NH,1,Republican,HI,1,Democrat,0,0,1
@@ -3334,7 +3334,7 @@ Kelly Ayotte,Michael Enzi,NH,1,Republican,WY,1,Republican,1,0,1
 Kelly Ayotte,Mike Johanns,NH,1,Republican,NE,1,Republican,1,0,1
 Kelly Ayotte,Mitch McConnell,NH,1,Republican,KY,1,Republican,1,0,1
 Kelly Ayotte,Patrick Leahy,NH,1,Republican,VT,1,Democrat,0,0,1
-Kelly Ayotte,Patty Murray,NH,1,Republican,WA,1,Democrat,0,1,1
+Kelly Ayotte,Patty Murray,NH,1,Republican,WA,1,Democrat,0,0,1
 Kelly Ayotte,Richard Blumenthal,NH,1,Republican,CT,1,Democrat,0,1,1
 Kelly Ayotte,Richard Durbin,NH,1,Republican,IL,1,Democrat,0,0,1
 Kelly Ayotte,Robert “Bob” Casey,NH,1,Republican,PA,1,Democrat,0,1,1
@@ -3351,15 +3351,15 @@ Kelly Ayotte,Thad Cochran,NH,1,Republican,MS,1,Republican,1,0,1
 Kelly Ayotte,Thomas “Tom” Harkin,NH,1,Republican,IA,1,Democrat,0,0,1
 Kelly Ayotte,Thomas Carper,NH,1,Republican,DE,1,Democrat,0,1,1
 Kelly Ayotte,Tim Johnson,NH,1,Republican,SD,1,Democrat,0,0,1
-Kelly Ayotte,Timothy “Tim” Kaine,NH,1,Republican,VA,1,Democrat,0,0,1
+Kelly Ayotte,Timothy “Tim” Kaine,NH,1,Republican,VA,1,Democrat,0,1,1
 Kelly Ayotte,Tom Udall,NH,1,Republican,NM,1,Democrat,0,0,1
 Kirsten Gillibrand,Alan “Al” Franken,NY,1,Democrat,MN,1,Democrat,1,0,1
 Kirsten Gillibrand,Amy Klobuchar,NY,1,Democrat,MN,1,Democrat,1,0,1
-Kirsten Gillibrand,Angus King,NY,1,Democrat,ME,1,Independent,0,0,1
+Kirsten Gillibrand,Angus King,NY,1,Democrat,ME,1,Democrat,1,0,1
 Kirsten Gillibrand,Barbara Boxer,NY,1,Democrat,CA,1,Democrat,1,0,1
 Kirsten Gillibrand,Barbara Mikulski,NY,1,Democrat,MD,1,Democrat,1,1,1
 Kirsten Gillibrand,Benjamin Cardin,NY,1,Democrat,MD,1,Democrat,1,1,1
-Kirsten Gillibrand,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Independent,0,0,1
+Kirsten Gillibrand,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Democrat,1,0,1
 Kirsten Gillibrand,Bill Nelson,NY,1,Democrat,FL,1,Democrat,1,0,1
 Kirsten Gillibrand,Bob Corker,NY,1,Democrat,TN,1,Republican,0,0,1
 Kirsten Gillibrand,Carl Levin,NY,1,Democrat,MI,1,Democrat,1,0,1
@@ -3398,12 +3398,12 @@ Kirsten Gillibrand,Kay Hagan,NY,1,Democrat,NC,1,Democrat,1,0,1
 Kirsten Gillibrand,Kelly Ayotte,NY,1,Democrat,NH,1,Republican,0,1,1
 Kirsten Gillibrand,Lindsey Graham,NY,1,Democrat,SC,1,Republican,0,0,1
 Kirsten Gillibrand,Lisa Murkowski,NY,1,Democrat,AK,1,Republican,0,0,1
-Kirsten Gillibrand,Maria Cantwell,NY,1,Democrat,WA,1,Democrat,1,1,1
+Kirsten Gillibrand,Maria Cantwell,NY,1,Democrat,WA,1,Democrat,1,0,1
 Kirsten Gillibrand,Mark Begich,NY,1,Democrat,AK,1,Democrat,1,0,1
 Kirsten Gillibrand,Mark Kirk,NY,1,Democrat,IL,1,Republican,0,0,1
 Kirsten Gillibrand,Mark Pryor,NY,1,Democrat,AR,1,Democrat,1,0,1
 Kirsten Gillibrand,Mark Udall,NY,1,Democrat,CO,1,Democrat,1,0,1
-Kirsten Gillibrand,Mark Warner,NY,1,Democrat,VA,1,Democrat,1,0,1
+Kirsten Gillibrand,Mark Warner,NY,1,Democrat,VA,1,Democrat,1,1,1
 Kirsten Gillibrand,Martin Heinrich,NY,1,Democrat,NM,1,Democrat,1,0,1
 Kirsten Gillibrand,Mary Landrieu,NY,1,Democrat,LA,1,Democrat,1,0,1
 Kirsten Gillibrand,Mazie Hirono,NY,1,Democrat,HI,1,Democrat,1,0,1
@@ -3412,7 +3412,7 @@ Kirsten Gillibrand,Michael Enzi,NY,1,Democrat,WY,1,Republican,0,0,1
 Kirsten Gillibrand,Mike Johanns,NY,1,Democrat,NE,1,Republican,0,0,1
 Kirsten Gillibrand,Mitch McConnell,NY,1,Democrat,KY,1,Republican,0,0,1
 Kirsten Gillibrand,Patrick Leahy,NY,1,Democrat,VT,1,Democrat,1,0,1
-Kirsten Gillibrand,Patty Murray,NY,1,Democrat,WA,1,Democrat,1,1,1
+Kirsten Gillibrand,Patty Murray,NY,1,Democrat,WA,1,Democrat,1,0,1
 Kirsten Gillibrand,Richard Blumenthal,NY,1,Democrat,CT,1,Democrat,1,1,1
 Kirsten Gillibrand,Richard Durbin,NY,1,Democrat,IL,1,Democrat,1,0,1
 Kirsten Gillibrand,Robert “Bob” Casey,NY,1,Democrat,PA,1,Democrat,1,1,1
@@ -3429,15 +3429,15 @@ Kirsten Gillibrand,Thad Cochran,NY,1,Democrat,MS,1,Republican,0,0,1
 Kirsten Gillibrand,Thomas “Tom” Harkin,NY,1,Democrat,IA,1,Democrat,1,0,1
 Kirsten Gillibrand,Thomas Carper,NY,1,Democrat,DE,1,Democrat,1,1,1
 Kirsten Gillibrand,Tim Johnson,NY,1,Democrat,SD,1,Democrat,1,0,1
-Kirsten Gillibrand,Timothy “Tim” Kaine,NY,1,Democrat,VA,1,Democrat,1,0,1
+Kirsten Gillibrand,Timothy “Tim” Kaine,NY,1,Democrat,VA,1,Democrat,1,1,1
 Kirsten Gillibrand,Tom Udall,NY,1,Democrat,NM,1,Democrat,1,0,1
 Lindsey Graham,Alan “Al” Franken,SC,1,Republican,MN,1,Democrat,0,0,1
 Lindsey Graham,Amy Klobuchar,SC,1,Republican,MN,1,Democrat,0,0,1
-Lindsey Graham,Angus King,SC,1,Republican,ME,1,Independent,0,0,1
+Lindsey Graham,Angus King,SC,1,Republican,ME,1,Democrat,0,0,1
 Lindsey Graham,Barbara Boxer,SC,1,Republican,CA,1,Democrat,0,0,1
 Lindsey Graham,Barbara Mikulski,SC,1,Republican,MD,1,Democrat,0,0,1
 Lindsey Graham,Benjamin Cardin,SC,1,Republican,MD,1,Democrat,0,0,1
-Lindsey Graham,Bernard “Bernie” Sanders,SC,1,Republican,VT,1,Independent,0,0,1
+Lindsey Graham,Bernard “Bernie” Sanders,SC,1,Republican,VT,1,Democrat,0,0,1
 Lindsey Graham,Bill Nelson,SC,1,Republican,FL,1,Democrat,0,0,1
 Lindsey Graham,Bob Corker,SC,1,Republican,TN,1,Republican,1,0,1
 Lindsey Graham,Carl Levin,SC,1,Republican,MI,1,Democrat,0,0,1
@@ -3511,11 +3511,11 @@ Lindsey Graham,Timothy “Tim” Kaine,SC,1,Republican,VA,1,Democrat,0,0,1
 Lindsey Graham,Tom Udall,SC,1,Republican,NM,1,Democrat,0,0,1
 Lisa Murkowski,Alan “Al” Franken,AK,1,Republican,MN,1,Democrat,0,0,1
 Lisa Murkowski,Amy Klobuchar,AK,1,Republican,MN,1,Democrat,0,0,1
-Lisa Murkowski,Angus King,AK,1,Republican,ME,1,Independent,0,0,1
+Lisa Murkowski,Angus King,AK,1,Republican,ME,1,Democrat,0,0,1
 Lisa Murkowski,Barbara Boxer,AK,1,Republican,CA,1,Democrat,0,0,1
 Lisa Murkowski,Barbara Mikulski,AK,1,Republican,MD,1,Democrat,0,0,1
 Lisa Murkowski,Benjamin Cardin,AK,1,Republican,MD,1,Democrat,0,0,1
-Lisa Murkowski,Bernard “Bernie” Sanders,AK,1,Republican,VT,1,Independent,0,0,1
+Lisa Murkowski,Bernard “Bernie” Sanders,AK,1,Republican,VT,1,Democrat,0,0,1
 Lisa Murkowski,Bill Nelson,AK,1,Republican,FL,1,Democrat,0,0,1
 Lisa Murkowski,Bob Corker,AK,1,Republican,TN,1,Republican,1,0,1
 Lisa Murkowski,Carl Levin,AK,1,Republican,MI,1,Democrat,0,0,1
@@ -3589,48 +3589,48 @@ Lisa Murkowski,Timothy “Tim” Kaine,AK,1,Republican,VA,1,Democrat,0,0,1
 Lisa Murkowski,Tom Udall,AK,1,Republican,NM,1,Democrat,0,0,1
 Maria Cantwell,Alan “Al” Franken,WA,1,Democrat,MN,1,Democrat,1,0,1
 Maria Cantwell,Amy Klobuchar,WA,1,Democrat,MN,1,Democrat,1,0,1
-Maria Cantwell,Angus King,WA,1,Democrat,ME,1,Independent,0,0,1
+Maria Cantwell,Angus King,WA,1,Democrat,ME,1,Democrat,1,0,1
 Maria Cantwell,Barbara Boxer,WA,1,Democrat,CA,1,Democrat,1,0,1
-Maria Cantwell,Barbara Mikulski,WA,1,Democrat,MD,1,Democrat,1,1,1
-Maria Cantwell,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,1,1
-Maria Cantwell,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Independent,0,0,1
+Maria Cantwell,Barbara Mikulski,WA,1,Democrat,MD,1,Democrat,1,0,1
+Maria Cantwell,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,0,1
+Maria Cantwell,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Democrat,1,0,1
 Maria Cantwell,Bill Nelson,WA,1,Democrat,FL,1,Democrat,1,0,1
 Maria Cantwell,Bob Corker,WA,1,Democrat,TN,1,Republican,0,0,1
 Maria Cantwell,Carl Levin,WA,1,Democrat,MI,1,Democrat,1,0,1
 Maria Cantwell,Charles “Chuck” Grassley,WA,1,Democrat,IA,1,Republican,0,0,1
-Maria Cantwell,Charles “Chuck” Schumer,WA,1,Democrat,NY,1,Democrat,1,1,1
-Maria Cantwell,Christopher Coons,WA,1,Democrat,DE,1,Democrat,1,1,1
-Maria Cantwell,Christopher Murphy,WA,1,Democrat,CT,1,Democrat,1,1,1
+Maria Cantwell,Charles “Chuck” Schumer,WA,1,Democrat,NY,1,Democrat,1,0,1
+Maria Cantwell,Christopher Coons,WA,1,Democrat,DE,1,Democrat,1,0,1
+Maria Cantwell,Christopher Murphy,WA,1,Democrat,CT,1,Democrat,1,0,1
 Maria Cantwell,Claire McCaskill,WA,1,Democrat,MO,1,Democrat,1,0,1
-Maria Cantwell,Cory Booker,WA,1,Democrat,NJ,1,Democrat,1,1,1
+Maria Cantwell,Cory Booker,WA,1,Democrat,NJ,1,Democrat,1,0,1
 Maria Cantwell,Daniel Coats,WA,1,Democrat,IN,1,Republican,0,0,1
 Maria Cantwell,David Vitter,WA,1,Democrat,LA,1,Republican,0,0,1
 Maria Cantwell,Dean Heller,WA,1,Democrat,NV,1,Republican,0,0,1
 Maria Cantwell,Deb Fischer,WA,1,Democrat,NE,1,Republican,0,0,1
 Maria Cantwell,Debbie Stabenow,WA,1,Democrat,MI,1,Democrat,1,0,1
 Maria Cantwell,Dianne Feinstein,WA,1,Democrat,CA,1,Democrat,1,0,1
-Maria Cantwell,Edward “Ed” Markey,WA,1,Democrat,MA,1,Democrat,1,1,1
-Maria Cantwell,Elizabeth Warren,WA,1,Democrat,MA,1,Democrat,1,1,1
+Maria Cantwell,Edward “Ed” Markey,WA,1,Democrat,MA,1,Democrat,1,0,1
+Maria Cantwell,Elizabeth Warren,WA,1,Democrat,MA,1,Democrat,1,0,1
 Maria Cantwell,Harry Reid,WA,1,Democrat,NV,1,Democrat,1,0,1
 Maria Cantwell,Heidi Heitkamp,WA,1,Democrat,ND,1,Democrat,1,0,1
 Maria Cantwell,James “Jim” Inhofe,WA,1,Democrat,OK,1,Republican,0,0,1
-Maria Cantwell,Jeanne Shaheen,WA,1,Democrat,NH,1,Democrat,1,1,1
+Maria Cantwell,Jeanne Shaheen,WA,1,Democrat,NH,1,Democrat,1,0,1
 Maria Cantwell,Jeff Merkley,WA,1,Democrat,OR,1,Democrat,1,0,1
 Maria Cantwell,Jerry Moran,WA,1,Democrat,KS,1,Republican,0,0,1
 Maria Cantwell,Joe Donnelly,WA,1,Democrat,IN,1,Democrat,1,0,1
-Maria Cantwell,Joe Manchin,WA,1,Democrat,WV,1,Democrat,1,1,1
-Maria Cantwell,John “Jay” Rockefeller,WA,1,Democrat,WV,1,Democrat,1,1,1
+Maria Cantwell,Joe Manchin,WA,1,Democrat,WV,1,Democrat,1,0,1
+Maria Cantwell,John “Jay” Rockefeller,WA,1,Democrat,WV,1,Democrat,1,0,1
 Maria Cantwell,John “Johnny” Isakson,WA,1,Democrat,GA,1,Republican,0,0,1
 Maria Cantwell,John Barrasso,WA,1,Democrat,WY,1,Republican,0,0,1
 Maria Cantwell,John Boozman,WA,1,Democrat,AR,1,Republican,0,0,1
-Maria Cantwell,John F. “Jack” Reed,WA,1,Democrat,RI,1,Democrat,1,1,1
+Maria Cantwell,John F. “Jack” Reed,WA,1,Democrat,RI,1,Democrat,1,0,1
 Maria Cantwell,John Hoeven,WA,1,Democrat,ND,1,Republican,0,0,1
 Maria Cantwell,John Thune,WA,1,Democrat,SD,1,Republican,0,0,1
 Maria Cantwell,John Walsh,WA,1,Democrat,MT,1,Democrat,1,0,1
 Maria Cantwell,Jon Tester,WA,1,Democrat,MT,1,Democrat,1,0,1
 Maria Cantwell,Kay Hagan,WA,1,Democrat,NC,1,Democrat,1,0,1
-Maria Cantwell,Kelly Ayotte,WA,1,Democrat,NH,1,Republican,0,1,1
-Maria Cantwell,Kirsten Gillibrand,WA,1,Democrat,NY,1,Democrat,1,1,1
+Maria Cantwell,Kelly Ayotte,WA,1,Democrat,NH,1,Republican,0,0,1
+Maria Cantwell,Kirsten Gillibrand,WA,1,Democrat,NY,1,Democrat,1,0,1
 Maria Cantwell,Lindsey Graham,WA,1,Democrat,SC,1,Republican,0,0,1
 Maria Cantwell,Lisa Murkowski,WA,1,Democrat,AK,1,Republican,0,0,1
 Maria Cantwell,Mark Begich,WA,1,Democrat,AK,1,Democrat,1,0,1
@@ -3646,32 +3646,32 @@ Maria Cantwell,Michael Enzi,WA,1,Democrat,WY,1,Republican,0,0,1
 Maria Cantwell,Mike Johanns,WA,1,Democrat,NE,1,Republican,0,0,1
 Maria Cantwell,Mitch McConnell,WA,1,Democrat,KY,1,Republican,0,0,1
 Maria Cantwell,Patrick Leahy,WA,1,Democrat,VT,1,Democrat,1,0,1
-Maria Cantwell,Patty Murray,WA,1,Democrat,WA,1,Democrat,1,1,1
-Maria Cantwell,Richard Blumenthal,WA,1,Democrat,CT,1,Democrat,1,1,1
+Maria Cantwell,Patty Murray,WA,1,Democrat,WA,1,Democrat,1,0,1
+Maria Cantwell,Richard Blumenthal,WA,1,Democrat,CT,1,Democrat,1,0,1
 Maria Cantwell,Richard Durbin,WA,1,Democrat,IL,1,Democrat,1,0,1
-Maria Cantwell,Robert “Bob” Casey,WA,1,Democrat,PA,1,Democrat,1,1,1
-Maria Cantwell,Robert “Bob” Menendez,WA,1,Democrat,NJ,1,Democrat,1,1,1
+Maria Cantwell,Robert “Bob” Casey,WA,1,Democrat,PA,1,Democrat,1,0,1
+Maria Cantwell,Robert “Bob” Menendez,WA,1,Democrat,NJ,1,Democrat,1,0,1
 Maria Cantwell,Roger Wicker,WA,1,Democrat,MS,1,Republican,0,0,1
 Maria Cantwell,Ron Wyden,WA,1,Democrat,OR,1,Democrat,1,0,1
 Maria Cantwell,Roy Blunt,WA,1,Democrat,MO,1,Republican,0,0,1
 Maria Cantwell,Saxby Chambliss,WA,1,Democrat,GA,1,Republican,0,0,1
-Maria Cantwell,Sheldon Whitehouse,WA,1,Democrat,RI,1,Democrat,1,1,1
+Maria Cantwell,Sheldon Whitehouse,WA,1,Democrat,RI,1,Democrat,1,0,1
 Maria Cantwell,Sherrod Brown,WA,1,Democrat,OH,1,Democrat,1,0,1
 Maria Cantwell,Susan Collins,WA,1,Democrat,ME,1,Republican,0,0,1
 Maria Cantwell,Tammy Baldwin,WA,1,Democrat,WI,1,Democrat,1,0,1
 Maria Cantwell,Thad Cochran,WA,1,Democrat,MS,1,Republican,0,0,1
 Maria Cantwell,Thomas “Tom” Harkin,WA,1,Democrat,IA,1,Democrat,1,0,1
-Maria Cantwell,Thomas Carper,WA,1,Democrat,DE,1,Democrat,1,1,1
+Maria Cantwell,Thomas Carper,WA,1,Democrat,DE,1,Democrat,1,0,1
 Maria Cantwell,Tim Johnson,WA,1,Democrat,SD,1,Democrat,1,0,1
 Maria Cantwell,Timothy “Tim” Kaine,WA,1,Democrat,VA,1,Democrat,1,0,1
 Maria Cantwell,Tom Udall,WA,1,Democrat,NM,1,Democrat,1,0,1
 Mark Begich,Alan “Al” Franken,AK,1,Democrat,MN,1,Democrat,1,0,1
 Mark Begich,Amy Klobuchar,AK,1,Democrat,MN,1,Democrat,1,0,1
-Mark Begich,Angus King,AK,1,Democrat,ME,1,Independent,0,0,1
+Mark Begich,Angus King,AK,1,Democrat,ME,1,Democrat,1,0,1
 Mark Begich,Barbara Boxer,AK,1,Democrat,CA,1,Democrat,1,0,1
 Mark Begich,Barbara Mikulski,AK,1,Democrat,MD,1,Democrat,1,0,1
 Mark Begich,Benjamin Cardin,AK,1,Democrat,MD,1,Democrat,1,0,1
-Mark Begich,Bernard “Bernie” Sanders,AK,1,Democrat,VT,1,Independent,0,0,1
+Mark Begich,Bernard “Bernie” Sanders,AK,1,Democrat,VT,1,Democrat,1,0,1
 Mark Begich,Bill Nelson,AK,1,Democrat,FL,1,Democrat,1,0,1
 Mark Begich,Bob Corker,AK,1,Democrat,TN,1,Republican,0,0,1
 Mark Begich,Carl Levin,AK,1,Democrat,MI,1,Democrat,1,0,1
@@ -3745,11 +3745,11 @@ Mark Begich,Timothy “Tim” Kaine,AK,1,Democrat,VA,1,Democrat,1,0,1
 Mark Begich,Tom Udall,AK,1,Democrat,NM,1,Democrat,1,0,1
 Mark Kirk,Alan “Al” Franken,IL,1,Republican,MN,1,Democrat,0,0,1
 Mark Kirk,Amy Klobuchar,IL,1,Republican,MN,1,Democrat,0,0,1
-Mark Kirk,Angus King,IL,1,Republican,ME,1,Independent,0,0,1
+Mark Kirk,Angus King,IL,1,Republican,ME,1,Democrat,0,0,1
 Mark Kirk,Barbara Boxer,IL,1,Republican,CA,1,Democrat,0,0,1
 Mark Kirk,Barbara Mikulski,IL,1,Republican,MD,1,Democrat,0,0,1
 Mark Kirk,Benjamin Cardin,IL,1,Republican,MD,1,Democrat,0,0,1
-Mark Kirk,Bernard “Bernie” Sanders,IL,1,Republican,VT,1,Independent,0,0,1
+Mark Kirk,Bernard “Bernie” Sanders,IL,1,Republican,VT,1,Democrat,0,0,1
 Mark Kirk,Bill Nelson,IL,1,Republican,FL,1,Democrat,0,0,1
 Mark Kirk,Bob Corker,IL,1,Republican,TN,1,Republican,1,0,1
 Mark Kirk,Carl Levin,IL,1,Republican,MI,1,Democrat,0,0,1
@@ -3823,11 +3823,11 @@ Mark Kirk,Timothy “Tim” Kaine,IL,1,Republican,VA,1,Democrat,0,0,1
 Mark Kirk,Tom Udall,IL,1,Republican,NM,1,Democrat,0,0,1
 Mark Pryor,Alan “Al” Franken,AR,1,Democrat,MN,1,Democrat,1,0,1
 Mark Pryor,Amy Klobuchar,AR,1,Democrat,MN,1,Democrat,1,0,1
-Mark Pryor,Angus King,AR,1,Democrat,ME,1,Independent,0,0,1
+Mark Pryor,Angus King,AR,1,Democrat,ME,1,Democrat,1,0,1
 Mark Pryor,Barbara Boxer,AR,1,Democrat,CA,1,Democrat,1,0,1
 Mark Pryor,Barbara Mikulski,AR,1,Democrat,MD,1,Democrat,1,0,1
 Mark Pryor,Benjamin Cardin,AR,1,Democrat,MD,1,Democrat,1,0,1
-Mark Pryor,Bernard “Bernie” Sanders,AR,1,Democrat,VT,1,Independent,0,0,1
+Mark Pryor,Bernard “Bernie” Sanders,AR,1,Democrat,VT,1,Democrat,1,0,1
 Mark Pryor,Bill Nelson,AR,1,Democrat,FL,1,Democrat,1,0,1
 Mark Pryor,Bob Corker,AR,1,Democrat,TN,1,Republican,0,0,1
 Mark Pryor,Carl Levin,AR,1,Democrat,MI,1,Democrat,1,0,1
@@ -3901,11 +3901,11 @@ Mark Pryor,Timothy “Tim” Kaine,AR,1,Democrat,VA,1,Democrat,1,0,1
 Mark Pryor,Tom Udall,AR,1,Democrat,NM,1,Democrat,1,0,1
 Mark Udall,Alan “Al” Franken,CO,1,Democrat,MN,1,Democrat,1,0,1
 Mark Udall,Amy Klobuchar,CO,1,Democrat,MN,1,Democrat,1,0,1
-Mark Udall,Angus King,CO,1,Democrat,ME,1,Independent,0,0,1
+Mark Udall,Angus King,CO,1,Democrat,ME,1,Democrat,1,0,1
 Mark Udall,Barbara Boxer,CO,1,Democrat,CA,1,Democrat,1,0,1
 Mark Udall,Barbara Mikulski,CO,1,Democrat,MD,1,Democrat,1,0,1
 Mark Udall,Benjamin Cardin,CO,1,Democrat,MD,1,Democrat,1,0,1
-Mark Udall,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Independent,0,0,1
+Mark Udall,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Democrat,1,0,1
 Mark Udall,Bill Nelson,CO,1,Democrat,FL,1,Democrat,1,0,1
 Mark Udall,Bob Corker,CO,1,Democrat,TN,1,Republican,0,0,1
 Mark Udall,Carl Levin,CO,1,Democrat,MI,1,Democrat,1,0,1
@@ -3979,48 +3979,48 @@ Mark Udall,Timothy “Tim” Kaine,CO,1,Democrat,VA,1,Democrat,1,0,1
 Mark Udall,Tom Udall,CO,1,Democrat,NM,1,Democrat,1,0,1
 Mark Warner,Alan “Al” Franken,VA,1,Democrat,MN,1,Democrat,1,0,1
 Mark Warner,Amy Klobuchar,VA,1,Democrat,MN,1,Democrat,1,0,1
-Mark Warner,Angus King,VA,1,Democrat,ME,1,Independent,0,0,1
+Mark Warner,Angus King,VA,1,Democrat,ME,1,Democrat,1,0,1
 Mark Warner,Barbara Boxer,VA,1,Democrat,CA,1,Democrat,1,0,1
-Mark Warner,Barbara Mikulski,VA,1,Democrat,MD,1,Democrat,1,0,1
-Mark Warner,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,0,1
-Mark Warner,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Independent,0,0,1
+Mark Warner,Barbara Mikulski,VA,1,Democrat,MD,1,Democrat,1,1,1
+Mark Warner,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,1,1
+Mark Warner,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Democrat,1,0,1
 Mark Warner,Bill Nelson,VA,1,Democrat,FL,1,Democrat,1,0,1
 Mark Warner,Bob Corker,VA,1,Democrat,TN,1,Republican,0,0,1
 Mark Warner,Carl Levin,VA,1,Democrat,MI,1,Democrat,1,0,1
 Mark Warner,Charles “Chuck” Grassley,VA,1,Democrat,IA,1,Republican,0,0,1
-Mark Warner,Charles “Chuck” Schumer,VA,1,Democrat,NY,1,Democrat,1,0,1
-Mark Warner,Christopher Coons,VA,1,Democrat,DE,1,Democrat,1,0,1
-Mark Warner,Christopher Murphy,VA,1,Democrat,CT,1,Democrat,1,0,1
+Mark Warner,Charles “Chuck” Schumer,VA,1,Democrat,NY,1,Democrat,1,1,1
+Mark Warner,Christopher Coons,VA,1,Democrat,DE,1,Democrat,1,1,1
+Mark Warner,Christopher Murphy,VA,1,Democrat,CT,1,Democrat,1,1,1
 Mark Warner,Claire McCaskill,VA,1,Democrat,MO,1,Democrat,1,0,1
-Mark Warner,Cory Booker,VA,1,Democrat,NJ,1,Democrat,1,0,1
+Mark Warner,Cory Booker,VA,1,Democrat,NJ,1,Democrat,1,1,1
 Mark Warner,Daniel Coats,VA,1,Democrat,IN,1,Republican,0,0,1
 Mark Warner,David Vitter,VA,1,Democrat,LA,1,Republican,0,0,1
 Mark Warner,Dean Heller,VA,1,Democrat,NV,1,Republican,0,0,1
 Mark Warner,Deb Fischer,VA,1,Democrat,NE,1,Republican,0,0,1
 Mark Warner,Debbie Stabenow,VA,1,Democrat,MI,1,Democrat,1,0,1
 Mark Warner,Dianne Feinstein,VA,1,Democrat,CA,1,Democrat,1,0,1
-Mark Warner,Edward “Ed” Markey,VA,1,Democrat,MA,1,Democrat,1,0,1
-Mark Warner,Elizabeth Warren,VA,1,Democrat,MA,1,Democrat,1,0,1
+Mark Warner,Edward “Ed” Markey,VA,1,Democrat,MA,1,Democrat,1,1,1
+Mark Warner,Elizabeth Warren,VA,1,Democrat,MA,1,Democrat,1,1,1
 Mark Warner,Harry Reid,VA,1,Democrat,NV,1,Democrat,1,0,1
 Mark Warner,Heidi Heitkamp,VA,1,Democrat,ND,1,Democrat,1,0,1
 Mark Warner,James “Jim” Inhofe,VA,1,Democrat,OK,1,Republican,0,0,1
-Mark Warner,Jeanne Shaheen,VA,1,Democrat,NH,1,Democrat,1,0,1
+Mark Warner,Jeanne Shaheen,VA,1,Democrat,NH,1,Democrat,1,1,1
 Mark Warner,Jeff Merkley,VA,1,Democrat,OR,1,Democrat,1,0,1
 Mark Warner,Jerry Moran,VA,1,Democrat,KS,1,Republican,0,0,1
 Mark Warner,Joe Donnelly,VA,1,Democrat,IN,1,Democrat,1,0,1
-Mark Warner,Joe Manchin,VA,1,Democrat,WV,1,Democrat,1,0,1
-Mark Warner,John “Jay” Rockefeller,VA,1,Democrat,WV,1,Democrat,1,0,1
+Mark Warner,Joe Manchin,VA,1,Democrat,WV,1,Democrat,1,1,1
+Mark Warner,John “Jay” Rockefeller,VA,1,Democrat,WV,1,Democrat,1,1,1
 Mark Warner,John “Johnny” Isakson,VA,1,Democrat,GA,1,Republican,0,0,1
 Mark Warner,John Barrasso,VA,1,Democrat,WY,1,Republican,0,0,1
 Mark Warner,John Boozman,VA,1,Democrat,AR,1,Republican,0,0,1
-Mark Warner,John F. “Jack” Reed,VA,1,Democrat,RI,1,Democrat,1,0,1
+Mark Warner,John F. “Jack” Reed,VA,1,Democrat,RI,1,Democrat,1,1,1
 Mark Warner,John Hoeven,VA,1,Democrat,ND,1,Republican,0,0,1
 Mark Warner,John Thune,VA,1,Democrat,SD,1,Republican,0,0,1
 Mark Warner,John Walsh,VA,1,Democrat,MT,1,Democrat,1,0,1
 Mark Warner,Jon Tester,VA,1,Democrat,MT,1,Democrat,1,0,1
 Mark Warner,Kay Hagan,VA,1,Democrat,NC,1,Democrat,1,0,1
-Mark Warner,Kelly Ayotte,VA,1,Democrat,NH,1,Republican,0,0,1
-Mark Warner,Kirsten Gillibrand,VA,1,Democrat,NY,1,Democrat,1,0,1
+Mark Warner,Kelly Ayotte,VA,1,Democrat,NH,1,Republican,0,1,1
+Mark Warner,Kirsten Gillibrand,VA,1,Democrat,NY,1,Democrat,1,1,1
 Mark Warner,Lindsey Graham,VA,1,Democrat,SC,1,Republican,0,0,1
 Mark Warner,Lisa Murkowski,VA,1,Democrat,AK,1,Republican,0,0,1
 Mark Warner,Maria Cantwell,VA,1,Democrat,WA,1,Democrat,1,0,1
@@ -4037,31 +4037,31 @@ Mark Warner,Mike Johanns,VA,1,Democrat,NE,1,Republican,0,0,1
 Mark Warner,Mitch McConnell,VA,1,Democrat,KY,1,Republican,0,0,1
 Mark Warner,Patrick Leahy,VA,1,Democrat,VT,1,Democrat,1,0,1
 Mark Warner,Patty Murray,VA,1,Democrat,WA,1,Democrat,1,0,1
-Mark Warner,Richard Blumenthal,VA,1,Democrat,CT,1,Democrat,1,0,1
+Mark Warner,Richard Blumenthal,VA,1,Democrat,CT,1,Democrat,1,1,1
 Mark Warner,Richard Durbin,VA,1,Democrat,IL,1,Democrat,1,0,1
-Mark Warner,Robert “Bob” Casey,VA,1,Democrat,PA,1,Democrat,1,0,1
-Mark Warner,Robert “Bob” Menendez,VA,1,Democrat,NJ,1,Democrat,1,0,1
+Mark Warner,Robert “Bob” Casey,VA,1,Democrat,PA,1,Democrat,1,1,1
+Mark Warner,Robert “Bob” Menendez,VA,1,Democrat,NJ,1,Democrat,1,1,1
 Mark Warner,Roger Wicker,VA,1,Democrat,MS,1,Republican,0,0,1
 Mark Warner,Ron Wyden,VA,1,Democrat,OR,1,Democrat,1,0,1
 Mark Warner,Roy Blunt,VA,1,Democrat,MO,1,Republican,0,0,1
 Mark Warner,Saxby Chambliss,VA,1,Democrat,GA,1,Republican,0,0,1
-Mark Warner,Sheldon Whitehouse,VA,1,Democrat,RI,1,Democrat,1,0,1
+Mark Warner,Sheldon Whitehouse,VA,1,Democrat,RI,1,Democrat,1,1,1
 Mark Warner,Sherrod Brown,VA,1,Democrat,OH,1,Democrat,1,0,1
 Mark Warner,Susan Collins,VA,1,Democrat,ME,1,Republican,0,0,1
 Mark Warner,Tammy Baldwin,VA,1,Democrat,WI,1,Democrat,1,0,1
 Mark Warner,Thad Cochran,VA,1,Democrat,MS,1,Republican,0,0,1
 Mark Warner,Thomas “Tom” Harkin,VA,1,Democrat,IA,1,Democrat,1,0,1
-Mark Warner,Thomas Carper,VA,1,Democrat,DE,1,Democrat,1,0,1
+Mark Warner,Thomas Carper,VA,1,Democrat,DE,1,Democrat,1,1,1
 Mark Warner,Tim Johnson,VA,1,Democrat,SD,1,Democrat,1,0,1
-Mark Warner,Timothy “Tim” Kaine,VA,1,Democrat,VA,1,Democrat,1,0,1
+Mark Warner,Timothy “Tim” Kaine,VA,1,Democrat,VA,1,Democrat,1,1,1
 Mark Warner,Tom Udall,VA,1,Democrat,NM,1,Democrat,1,0,1
 Martin Heinrich,Alan “Al” Franken,NM,1,Democrat,MN,1,Democrat,1,0,1
 Martin Heinrich,Amy Klobuchar,NM,1,Democrat,MN,1,Democrat,1,0,1
-Martin Heinrich,Angus King,NM,1,Democrat,ME,1,Independent,0,0,1
+Martin Heinrich,Angus King,NM,1,Democrat,ME,1,Democrat,1,0,1
 Martin Heinrich,Barbara Boxer,NM,1,Democrat,CA,1,Democrat,1,0,1
 Martin Heinrich,Barbara Mikulski,NM,1,Democrat,MD,1,Democrat,1,0,1
 Martin Heinrich,Benjamin Cardin,NM,1,Democrat,MD,1,Democrat,1,0,1
-Martin Heinrich,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Independent,0,0,1
+Martin Heinrich,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Democrat,1,0,1
 Martin Heinrich,Bill Nelson,NM,1,Democrat,FL,1,Democrat,1,0,1
 Martin Heinrich,Bob Corker,NM,1,Democrat,TN,1,Republican,0,0,1
 Martin Heinrich,Carl Levin,NM,1,Democrat,MI,1,Democrat,1,0,1
@@ -4135,11 +4135,11 @@ Martin Heinrich,Timothy “Tim” Kaine,NM,1,Democrat,VA,1,Democrat,1,0,1
 Martin Heinrich,Tom Udall,NM,1,Democrat,NM,1,Democrat,1,0,1
 Mary Landrieu,Alan “Al” Franken,LA,1,Democrat,MN,1,Democrat,1,0,1
 Mary Landrieu,Amy Klobuchar,LA,1,Democrat,MN,1,Democrat,1,0,1
-Mary Landrieu,Angus King,LA,1,Democrat,ME,1,Independent,0,0,1
+Mary Landrieu,Angus King,LA,1,Democrat,ME,1,Democrat,1,0,1
 Mary Landrieu,Barbara Boxer,LA,1,Democrat,CA,1,Democrat,1,0,1
 Mary Landrieu,Barbara Mikulski,LA,1,Democrat,MD,1,Democrat,1,0,1
 Mary Landrieu,Benjamin Cardin,LA,1,Democrat,MD,1,Democrat,1,0,1
-Mary Landrieu,Bernard “Bernie” Sanders,LA,1,Democrat,VT,1,Independent,0,0,1
+Mary Landrieu,Bernard “Bernie” Sanders,LA,1,Democrat,VT,1,Democrat,1,0,1
 Mary Landrieu,Bill Nelson,LA,1,Democrat,FL,1,Democrat,1,0,1
 Mary Landrieu,Bob Corker,LA,1,Democrat,TN,1,Republican,0,0,1
 Mary Landrieu,Carl Levin,LA,1,Democrat,MI,1,Democrat,1,0,1
@@ -4213,11 +4213,11 @@ Mary Landrieu,Timothy “Tim” Kaine,LA,1,Democrat,VA,1,Democrat,1,0,1
 Mary Landrieu,Tom Udall,LA,1,Democrat,NM,1,Democrat,1,0,1
 Mazie Hirono,Alan “Al” Franken,HI,1,Democrat,MN,1,Democrat,1,0,1
 Mazie Hirono,Amy Klobuchar,HI,1,Democrat,MN,1,Democrat,1,0,1
-Mazie Hirono,Angus King,HI,1,Democrat,ME,1,Independent,0,0,1
+Mazie Hirono,Angus King,HI,1,Democrat,ME,1,Democrat,1,0,1
 Mazie Hirono,Barbara Boxer,HI,1,Democrat,CA,1,Democrat,1,0,1
 Mazie Hirono,Barbara Mikulski,HI,1,Democrat,MD,1,Democrat,1,0,1
 Mazie Hirono,Benjamin Cardin,HI,1,Democrat,MD,1,Democrat,1,0,1
-Mazie Hirono,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Independent,0,0,1
+Mazie Hirono,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Democrat,1,0,1
 Mazie Hirono,Bill Nelson,HI,1,Democrat,FL,1,Democrat,1,0,1
 Mazie Hirono,Bob Corker,HI,1,Democrat,TN,1,Republican,0,0,1
 Mazie Hirono,Carl Levin,HI,1,Democrat,MI,1,Democrat,1,0,1
@@ -4291,11 +4291,11 @@ Mazie Hirono,Timothy “Tim” Kaine,HI,1,Democrat,VA,1,Democrat,1,0,1
 Mazie Hirono,Tom Udall,HI,1,Democrat,NM,1,Democrat,1,0,1
 Michael Bennet,Alan “Al” Franken,CO,1,Democrat,MN,1,Democrat,1,0,1
 Michael Bennet,Amy Klobuchar,CO,1,Democrat,MN,1,Democrat,1,0,1
-Michael Bennet,Angus King,CO,1,Democrat,ME,1,Independent,0,0,1
+Michael Bennet,Angus King,CO,1,Democrat,ME,1,Democrat,1,0,1
 Michael Bennet,Barbara Boxer,CO,1,Democrat,CA,1,Democrat,1,0,1
 Michael Bennet,Barbara Mikulski,CO,1,Democrat,MD,1,Democrat,1,0,1
 Michael Bennet,Benjamin Cardin,CO,1,Democrat,MD,1,Democrat,1,0,1
-Michael Bennet,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Independent,0,0,1
+Michael Bennet,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Democrat,1,0,1
 Michael Bennet,Bill Nelson,CO,1,Democrat,FL,1,Democrat,1,0,1
 Michael Bennet,Bob Corker,CO,1,Democrat,TN,1,Republican,0,0,1
 Michael Bennet,Carl Levin,CO,1,Democrat,MI,1,Democrat,1,0,1
@@ -4369,11 +4369,11 @@ Michael Bennet,Timothy “Tim” Kaine,CO,1,Democrat,VA,1,Democrat,1,0,1
 Michael Bennet,Tom Udall,CO,1,Democrat,NM,1,Democrat,1,0,1
 Michael Enzi,Alan “Al” Franken,WY,1,Republican,MN,1,Democrat,0,0,1
 Michael Enzi,Amy Klobuchar,WY,1,Republican,MN,1,Democrat,0,0,1
-Michael Enzi,Angus King,WY,1,Republican,ME,1,Independent,0,0,1
+Michael Enzi,Angus King,WY,1,Republican,ME,1,Democrat,0,0,1
 Michael Enzi,Barbara Boxer,WY,1,Republican,CA,1,Democrat,0,0,1
 Michael Enzi,Barbara Mikulski,WY,1,Republican,MD,1,Democrat,0,0,1
 Michael Enzi,Benjamin Cardin,WY,1,Republican,MD,1,Democrat,0,0,1
-Michael Enzi,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Independent,0,0,1
+Michael Enzi,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Democrat,0,0,1
 Michael Enzi,Bill Nelson,WY,1,Republican,FL,1,Democrat,0,0,1
 Michael Enzi,Bob Corker,WY,1,Republican,TN,1,Republican,1,0,1
 Michael Enzi,Carl Levin,WY,1,Republican,MI,1,Democrat,0,0,1
@@ -4447,11 +4447,11 @@ Michael Enzi,Timothy “Tim” Kaine,WY,1,Republican,VA,1,Democrat,0,0,1
 Michael Enzi,Tom Udall,WY,1,Republican,NM,1,Democrat,0,0,1
 Mike Johanns,Alan “Al” Franken,NE,1,Republican,MN,1,Democrat,0,0,1
 Mike Johanns,Amy Klobuchar,NE,1,Republican,MN,1,Democrat,0,0,1
-Mike Johanns,Angus King,NE,1,Republican,ME,1,Independent,0,0,1
+Mike Johanns,Angus King,NE,1,Republican,ME,1,Democrat,0,0,1
 Mike Johanns,Barbara Boxer,NE,1,Republican,CA,1,Democrat,0,0,1
 Mike Johanns,Barbara Mikulski,NE,1,Republican,MD,1,Democrat,0,0,1
 Mike Johanns,Benjamin Cardin,NE,1,Republican,MD,1,Democrat,0,0,1
-Mike Johanns,Bernard “Bernie” Sanders,NE,1,Republican,VT,1,Independent,0,0,1
+Mike Johanns,Bernard “Bernie” Sanders,NE,1,Republican,VT,1,Democrat,0,0,1
 Mike Johanns,Bill Nelson,NE,1,Republican,FL,1,Democrat,0,0,1
 Mike Johanns,Bob Corker,NE,1,Republican,TN,1,Republican,1,0,1
 Mike Johanns,Carl Levin,NE,1,Republican,MI,1,Democrat,0,0,1
@@ -4525,11 +4525,11 @@ Mike Johanns,Timothy “Tim” Kaine,NE,1,Republican,VA,1,Democrat,0,0,1
 Mike Johanns,Tom Udall,NE,1,Republican,NM,1,Democrat,0,0,1
 Mitch McConnell,Alan “Al” Franken,KY,1,Republican,MN,1,Democrat,0,0,1
 Mitch McConnell,Amy Klobuchar,KY,1,Republican,MN,1,Democrat,0,0,1
-Mitch McConnell,Angus King,KY,1,Republican,ME,1,Independent,0,0,1
+Mitch McConnell,Angus King,KY,1,Republican,ME,1,Democrat,0,0,1
 Mitch McConnell,Barbara Boxer,KY,1,Republican,CA,1,Democrat,0,0,1
 Mitch McConnell,Barbara Mikulski,KY,1,Republican,MD,1,Democrat,0,0,1
 Mitch McConnell,Benjamin Cardin,KY,1,Republican,MD,1,Democrat,0,0,1
-Mitch McConnell,Bernard “Bernie” Sanders,KY,1,Republican,VT,1,Independent,0,0,1
+Mitch McConnell,Bernard “Bernie” Sanders,KY,1,Republican,VT,1,Democrat,0,0,1
 Mitch McConnell,Bill Nelson,KY,1,Republican,FL,1,Democrat,0,0,1
 Mitch McConnell,Bob Corker,KY,1,Republican,TN,1,Republican,1,0,1
 Mitch McConnell,Carl Levin,KY,1,Republican,MI,1,Democrat,0,0,1
@@ -4603,11 +4603,11 @@ Mitch McConnell,Timothy “Tim” Kaine,KY,1,Republican,VA,1,Democrat,0,0,1
 Mitch McConnell,Tom Udall,KY,1,Republican,NM,1,Democrat,0,0,1
 Patrick Leahy,Alan “Al” Franken,VT,1,Democrat,MN,1,Democrat,1,0,1
 Patrick Leahy,Amy Klobuchar,VT,1,Democrat,MN,1,Democrat,1,0,1
-Patrick Leahy,Angus King,VT,1,Democrat,ME,1,Independent,0,0,1
+Patrick Leahy,Angus King,VT,1,Democrat,ME,1,Democrat,1,0,1
 Patrick Leahy,Barbara Boxer,VT,1,Democrat,CA,1,Democrat,1,0,1
 Patrick Leahy,Barbara Mikulski,VT,1,Democrat,MD,1,Democrat,1,0,1
 Patrick Leahy,Benjamin Cardin,VT,1,Democrat,MD,1,Democrat,1,0,1
-Patrick Leahy,Bernard “Bernie” Sanders,VT,1,Democrat,VT,1,Independent,0,0,1
+Patrick Leahy,Bernard “Bernie” Sanders,VT,1,Democrat,VT,1,Democrat,1,0,1
 Patrick Leahy,Bill Nelson,VT,1,Democrat,FL,1,Democrat,1,0,1
 Patrick Leahy,Bob Corker,VT,1,Democrat,TN,1,Republican,0,0,1
 Patrick Leahy,Carl Levin,VT,1,Democrat,MI,1,Democrat,1,0,1
@@ -4681,51 +4681,51 @@ Patrick Leahy,Timothy “Tim” Kaine,VT,1,Democrat,VA,1,Democrat,1,0,1
 Patrick Leahy,Tom Udall,VT,1,Democrat,NM,1,Democrat,1,0,1
 Patty Murray,Alan “Al” Franken,WA,1,Democrat,MN,1,Democrat,1,0,1
 Patty Murray,Amy Klobuchar,WA,1,Democrat,MN,1,Democrat,1,0,1
-Patty Murray,Angus King,WA,1,Democrat,ME,1,Independent,0,0,1
+Patty Murray,Angus King,WA,1,Democrat,ME,1,Democrat,1,0,1
 Patty Murray,Barbara Boxer,WA,1,Democrat,CA,1,Democrat,1,0,1
-Patty Murray,Barbara Mikulski,WA,1,Democrat,MD,1,Democrat,1,1,1
-Patty Murray,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,1,1
-Patty Murray,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Independent,0,0,1
+Patty Murray,Barbara Mikulski,WA,1,Democrat,MD,1,Democrat,1,0,1
+Patty Murray,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,0,1
+Patty Murray,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Democrat,1,0,1
 Patty Murray,Bill Nelson,WA,1,Democrat,FL,1,Democrat,1,0,1
 Patty Murray,Bob Corker,WA,1,Democrat,TN,1,Republican,0,0,1
 Patty Murray,Carl Levin,WA,1,Democrat,MI,1,Democrat,1,0,1
 Patty Murray,Charles “Chuck” Grassley,WA,1,Democrat,IA,1,Republican,0,0,1
-Patty Murray,Charles “Chuck” Schumer,WA,1,Democrat,NY,1,Democrat,1,1,1
-Patty Murray,Christopher Coons,WA,1,Democrat,DE,1,Democrat,1,1,1
-Patty Murray,Christopher Murphy,WA,1,Democrat,CT,1,Democrat,1,1,1
+Patty Murray,Charles “Chuck” Schumer,WA,1,Democrat,NY,1,Democrat,1,0,1
+Patty Murray,Christopher Coons,WA,1,Democrat,DE,1,Democrat,1,0,1
+Patty Murray,Christopher Murphy,WA,1,Democrat,CT,1,Democrat,1,0,1
 Patty Murray,Claire McCaskill,WA,1,Democrat,MO,1,Democrat,1,0,1
-Patty Murray,Cory Booker,WA,1,Democrat,NJ,1,Democrat,1,1,1
+Patty Murray,Cory Booker,WA,1,Democrat,NJ,1,Democrat,1,0,1
 Patty Murray,Daniel Coats,WA,1,Democrat,IN,1,Republican,0,0,1
 Patty Murray,David Vitter,WA,1,Democrat,LA,1,Republican,0,0,1
 Patty Murray,Dean Heller,WA,1,Democrat,NV,1,Republican,0,0,1
 Patty Murray,Deb Fischer,WA,1,Democrat,NE,1,Republican,0,0,1
 Patty Murray,Debbie Stabenow,WA,1,Democrat,MI,1,Democrat,1,0,1
 Patty Murray,Dianne Feinstein,WA,1,Democrat,CA,1,Democrat,1,0,1
-Patty Murray,Edward “Ed” Markey,WA,1,Democrat,MA,1,Democrat,1,1,1
-Patty Murray,Elizabeth Warren,WA,1,Democrat,MA,1,Democrat,1,1,1
+Patty Murray,Edward “Ed” Markey,WA,1,Democrat,MA,1,Democrat,1,0,1
+Patty Murray,Elizabeth Warren,WA,1,Democrat,MA,1,Democrat,1,0,1
 Patty Murray,Harry Reid,WA,1,Democrat,NV,1,Democrat,1,0,1
 Patty Murray,Heidi Heitkamp,WA,1,Democrat,ND,1,Democrat,1,0,1
 Patty Murray,James “Jim” Inhofe,WA,1,Democrat,OK,1,Republican,0,0,1
-Patty Murray,Jeanne Shaheen,WA,1,Democrat,NH,1,Democrat,1,1,1
+Patty Murray,Jeanne Shaheen,WA,1,Democrat,NH,1,Democrat,1,0,1
 Patty Murray,Jeff Merkley,WA,1,Democrat,OR,1,Democrat,1,0,1
 Patty Murray,Jerry Moran,WA,1,Democrat,KS,1,Republican,0,0,1
 Patty Murray,Joe Donnelly,WA,1,Democrat,IN,1,Democrat,1,0,1
-Patty Murray,Joe Manchin,WA,1,Democrat,WV,1,Democrat,1,1,1
-Patty Murray,John “Jay” Rockefeller,WA,1,Democrat,WV,1,Democrat,1,1,1
+Patty Murray,Joe Manchin,WA,1,Democrat,WV,1,Democrat,1,0,1
+Patty Murray,John “Jay” Rockefeller,WA,1,Democrat,WV,1,Democrat,1,0,1
 Patty Murray,John “Johnny” Isakson,WA,1,Democrat,GA,1,Republican,0,0,1
 Patty Murray,John Barrasso,WA,1,Democrat,WY,1,Republican,0,0,1
 Patty Murray,John Boozman,WA,1,Democrat,AR,1,Republican,0,0,1
-Patty Murray,John F. “Jack” Reed,WA,1,Democrat,RI,1,Democrat,1,1,1
+Patty Murray,John F. “Jack” Reed,WA,1,Democrat,RI,1,Democrat,1,0,1
 Patty Murray,John Hoeven,WA,1,Democrat,ND,1,Republican,0,0,1
 Patty Murray,John Thune,WA,1,Democrat,SD,1,Republican,0,0,1
 Patty Murray,John Walsh,WA,1,Democrat,MT,1,Democrat,1,0,1
 Patty Murray,Jon Tester,WA,1,Democrat,MT,1,Democrat,1,0,1
 Patty Murray,Kay Hagan,WA,1,Democrat,NC,1,Democrat,1,0,1
-Patty Murray,Kelly Ayotte,WA,1,Democrat,NH,1,Republican,0,1,1
-Patty Murray,Kirsten Gillibrand,WA,1,Democrat,NY,1,Democrat,1,1,1
+Patty Murray,Kelly Ayotte,WA,1,Democrat,NH,1,Republican,0,0,1
+Patty Murray,Kirsten Gillibrand,WA,1,Democrat,NY,1,Democrat,1,0,1
 Patty Murray,Lindsey Graham,WA,1,Democrat,SC,1,Republican,0,0,1
 Patty Murray,Lisa Murkowski,WA,1,Democrat,AK,1,Republican,0,0,1
-Patty Murray,Maria Cantwell,WA,1,Democrat,WA,1,Democrat,1,1,1
+Patty Murray,Maria Cantwell,WA,1,Democrat,WA,1,Democrat,1,0,1
 Patty Murray,Mark Begich,WA,1,Democrat,AK,1,Democrat,1,0,1
 Patty Murray,Mark Kirk,WA,1,Democrat,IL,1,Republican,0,0,1
 Patty Murray,Mark Pryor,WA,1,Democrat,AR,1,Democrat,1,0,1
@@ -4739,31 +4739,31 @@ Patty Murray,Michael Enzi,WA,1,Democrat,WY,1,Republican,0,0,1
 Patty Murray,Mike Johanns,WA,1,Democrat,NE,1,Republican,0,0,1
 Patty Murray,Mitch McConnell,WA,1,Democrat,KY,1,Republican,0,0,1
 Patty Murray,Patrick Leahy,WA,1,Democrat,VT,1,Democrat,1,0,1
-Patty Murray,Richard Blumenthal,WA,1,Democrat,CT,1,Democrat,1,1,1
+Patty Murray,Richard Blumenthal,WA,1,Democrat,CT,1,Democrat,1,0,1
 Patty Murray,Richard Durbin,WA,1,Democrat,IL,1,Democrat,1,0,1
-Patty Murray,Robert “Bob” Casey,WA,1,Democrat,PA,1,Democrat,1,1,1
-Patty Murray,Robert “Bob” Menendez,WA,1,Democrat,NJ,1,Democrat,1,1,1
+Patty Murray,Robert “Bob” Casey,WA,1,Democrat,PA,1,Democrat,1,0,1
+Patty Murray,Robert “Bob” Menendez,WA,1,Democrat,NJ,1,Democrat,1,0,1
 Patty Murray,Roger Wicker,WA,1,Democrat,MS,1,Republican,0,0,1
 Patty Murray,Ron Wyden,WA,1,Democrat,OR,1,Democrat,1,0,1
 Patty Murray,Roy Blunt,WA,1,Democrat,MO,1,Republican,0,0,1
 Patty Murray,Saxby Chambliss,WA,1,Democrat,GA,1,Republican,0,0,1
-Patty Murray,Sheldon Whitehouse,WA,1,Democrat,RI,1,Democrat,1,1,1
+Patty Murray,Sheldon Whitehouse,WA,1,Democrat,RI,1,Democrat,1,0,1
 Patty Murray,Sherrod Brown,WA,1,Democrat,OH,1,Democrat,1,0,1
 Patty Murray,Susan Collins,WA,1,Democrat,ME,1,Republican,0,0,1
 Patty Murray,Tammy Baldwin,WA,1,Democrat,WI,1,Democrat,1,0,1
 Patty Murray,Thad Cochran,WA,1,Democrat,MS,1,Republican,0,0,1
 Patty Murray,Thomas “Tom” Harkin,WA,1,Democrat,IA,1,Democrat,1,0,1
-Patty Murray,Thomas Carper,WA,1,Democrat,DE,1,Democrat,1,1,1
+Patty Murray,Thomas Carper,WA,1,Democrat,DE,1,Democrat,1,0,1
 Patty Murray,Tim Johnson,WA,1,Democrat,SD,1,Democrat,1,0,1
 Patty Murray,Timothy “Tim” Kaine,WA,1,Democrat,VA,1,Democrat,1,0,1
 Patty Murray,Tom Udall,WA,1,Democrat,NM,1,Democrat,1,0,1
 Richard Blumenthal,Alan “Al” Franken,CT,1,Democrat,MN,1,Democrat,1,0,1
 Richard Blumenthal,Amy Klobuchar,CT,1,Democrat,MN,1,Democrat,1,0,1
-Richard Blumenthal,Angus King,CT,1,Democrat,ME,1,Independent,0,0,1
+Richard Blumenthal,Angus King,CT,1,Democrat,ME,1,Democrat,1,0,1
 Richard Blumenthal,Barbara Boxer,CT,1,Democrat,CA,1,Democrat,1,0,1
 Richard Blumenthal,Barbara Mikulski,CT,1,Democrat,MD,1,Democrat,1,1,1
 Richard Blumenthal,Benjamin Cardin,CT,1,Democrat,MD,1,Democrat,1,1,1
-Richard Blumenthal,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Independent,0,0,1
+Richard Blumenthal,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Democrat,1,0,1
 Richard Blumenthal,Bill Nelson,CT,1,Democrat,FL,1,Democrat,1,0,1
 Richard Blumenthal,Bob Corker,CT,1,Democrat,TN,1,Republican,0,0,1
 Richard Blumenthal,Carl Levin,CT,1,Democrat,MI,1,Democrat,1,0,1
@@ -4803,12 +4803,12 @@ Richard Blumenthal,Kelly Ayotte,CT,1,Democrat,NH,1,Republican,0,1,1
 Richard Blumenthal,Kirsten Gillibrand,CT,1,Democrat,NY,1,Democrat,1,1,1
 Richard Blumenthal,Lindsey Graham,CT,1,Democrat,SC,1,Republican,0,0,1
 Richard Blumenthal,Lisa Murkowski,CT,1,Democrat,AK,1,Republican,0,0,1
-Richard Blumenthal,Maria Cantwell,CT,1,Democrat,WA,1,Democrat,1,1,1
+Richard Blumenthal,Maria Cantwell,CT,1,Democrat,WA,1,Democrat,1,0,1
 Richard Blumenthal,Mark Begich,CT,1,Democrat,AK,1,Democrat,1,0,1
 Richard Blumenthal,Mark Kirk,CT,1,Democrat,IL,1,Republican,0,0,1
 Richard Blumenthal,Mark Pryor,CT,1,Democrat,AR,1,Democrat,1,0,1
 Richard Blumenthal,Mark Udall,CT,1,Democrat,CO,1,Democrat,1,0,1
-Richard Blumenthal,Mark Warner,CT,1,Democrat,VA,1,Democrat,1,0,1
+Richard Blumenthal,Mark Warner,CT,1,Democrat,VA,1,Democrat,1,1,1
 Richard Blumenthal,Martin Heinrich,CT,1,Democrat,NM,1,Democrat,1,0,1
 Richard Blumenthal,Mary Landrieu,CT,1,Democrat,LA,1,Democrat,1,0,1
 Richard Blumenthal,Mazie Hirono,CT,1,Democrat,HI,1,Democrat,1,0,1
@@ -4817,7 +4817,7 @@ Richard Blumenthal,Michael Enzi,CT,1,Democrat,WY,1,Republican,0,0,1
 Richard Blumenthal,Mike Johanns,CT,1,Democrat,NE,1,Republican,0,0,1
 Richard Blumenthal,Mitch McConnell,CT,1,Democrat,KY,1,Republican,0,0,1
 Richard Blumenthal,Patrick Leahy,CT,1,Democrat,VT,1,Democrat,1,0,1
-Richard Blumenthal,Patty Murray,CT,1,Democrat,WA,1,Democrat,1,1,1
+Richard Blumenthal,Patty Murray,CT,1,Democrat,WA,1,Democrat,1,0,1
 Richard Blumenthal,Richard Durbin,CT,1,Democrat,IL,1,Democrat,1,0,1
 Richard Blumenthal,Robert “Bob” Casey,CT,1,Democrat,PA,1,Democrat,1,1,1
 Richard Blumenthal,Robert “Bob” Menendez,CT,1,Democrat,NJ,1,Democrat,1,1,1
@@ -4833,15 +4833,15 @@ Richard Blumenthal,Thad Cochran,CT,1,Democrat,MS,1,Republican,0,0,1
 Richard Blumenthal,Thomas “Tom” Harkin,CT,1,Democrat,IA,1,Democrat,1,0,1
 Richard Blumenthal,Thomas Carper,CT,1,Democrat,DE,1,Democrat,1,1,1
 Richard Blumenthal,Tim Johnson,CT,1,Democrat,SD,1,Democrat,1,0,1
-Richard Blumenthal,Timothy “Tim” Kaine,CT,1,Democrat,VA,1,Democrat,1,0,1
+Richard Blumenthal,Timothy “Tim” Kaine,CT,1,Democrat,VA,1,Democrat,1,1,1
 Richard Blumenthal,Tom Udall,CT,1,Democrat,NM,1,Democrat,1,0,1
 Richard Durbin,Alan “Al” Franken,IL,1,Democrat,MN,1,Democrat,1,0,1
 Richard Durbin,Amy Klobuchar,IL,1,Democrat,MN,1,Democrat,1,0,1
-Richard Durbin,Angus King,IL,1,Democrat,ME,1,Independent,0,0,1
+Richard Durbin,Angus King,IL,1,Democrat,ME,1,Democrat,1,0,1
 Richard Durbin,Barbara Boxer,IL,1,Democrat,CA,1,Democrat,1,0,1
 Richard Durbin,Barbara Mikulski,IL,1,Democrat,MD,1,Democrat,1,0,1
 Richard Durbin,Benjamin Cardin,IL,1,Democrat,MD,1,Democrat,1,0,1
-Richard Durbin,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Independent,0,0,1
+Richard Durbin,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Democrat,1,0,1
 Richard Durbin,Bill Nelson,IL,1,Democrat,FL,1,Democrat,1,0,1
 Richard Durbin,Bob Corker,IL,1,Democrat,TN,1,Republican,0,0,1
 Richard Durbin,Carl Levin,IL,1,Democrat,MI,1,Democrat,1,0,1
@@ -4915,11 +4915,11 @@ Richard Durbin,Timothy “Tim” Kaine,IL,1,Democrat,VA,1,Democrat,1,0,1
 Richard Durbin,Tom Udall,IL,1,Democrat,NM,1,Democrat,1,0,1
 Robert “Bob” Casey,Alan “Al” Franken,PA,1,Democrat,MN,1,Democrat,1,0,1
 Robert “Bob” Casey,Amy Klobuchar,PA,1,Democrat,MN,1,Democrat,1,0,1
-Robert “Bob” Casey,Angus King,PA,1,Democrat,ME,1,Independent,0,0,1
+Robert “Bob” Casey,Angus King,PA,1,Democrat,ME,1,Democrat,1,0,1
 Robert “Bob” Casey,Barbara Boxer,PA,1,Democrat,CA,1,Democrat,1,0,1
 Robert “Bob” Casey,Barbara Mikulski,PA,1,Democrat,MD,1,Democrat,1,1,1
 Robert “Bob” Casey,Benjamin Cardin,PA,1,Democrat,MD,1,Democrat,1,1,1
-Robert “Bob” Casey,Bernard “Bernie” Sanders,PA,1,Democrat,VT,1,Independent,0,0,1
+Robert “Bob” Casey,Bernard “Bernie” Sanders,PA,1,Democrat,VT,1,Democrat,1,0,1
 Robert “Bob” Casey,Bill Nelson,PA,1,Democrat,FL,1,Democrat,1,0,1
 Robert “Bob” Casey,Bob Corker,PA,1,Democrat,TN,1,Republican,0,0,1
 Robert “Bob” Casey,Carl Levin,PA,1,Democrat,MI,1,Democrat,1,0,1
@@ -4959,12 +4959,12 @@ Robert “Bob” Casey,Kelly Ayotte,PA,1,Democrat,NH,1,Republican,0,1,1
 Robert “Bob” Casey,Kirsten Gillibrand,PA,1,Democrat,NY,1,Democrat,1,1,1
 Robert “Bob” Casey,Lindsey Graham,PA,1,Democrat,SC,1,Republican,0,0,1
 Robert “Bob” Casey,Lisa Murkowski,PA,1,Democrat,AK,1,Republican,0,0,1
-Robert “Bob” Casey,Maria Cantwell,PA,1,Democrat,WA,1,Democrat,1,1,1
+Robert “Bob” Casey,Maria Cantwell,PA,1,Democrat,WA,1,Democrat,1,0,1
 Robert “Bob” Casey,Mark Begich,PA,1,Democrat,AK,1,Democrat,1,0,1
 Robert “Bob” Casey,Mark Kirk,PA,1,Democrat,IL,1,Republican,0,0,1
 Robert “Bob” Casey,Mark Pryor,PA,1,Democrat,AR,1,Democrat,1,0,1
 Robert “Bob” Casey,Mark Udall,PA,1,Democrat,CO,1,Democrat,1,0,1
-Robert “Bob” Casey,Mark Warner,PA,1,Democrat,VA,1,Democrat,1,0,1
+Robert “Bob” Casey,Mark Warner,PA,1,Democrat,VA,1,Democrat,1,1,1
 Robert “Bob” Casey,Martin Heinrich,PA,1,Democrat,NM,1,Democrat,1,0,1
 Robert “Bob” Casey,Mary Landrieu,PA,1,Democrat,LA,1,Democrat,1,0,1
 Robert “Bob” Casey,Mazie Hirono,PA,1,Democrat,HI,1,Democrat,1,0,1
@@ -4973,7 +4973,7 @@ Robert “Bob” Casey,Michael Enzi,PA,1,Democrat,WY,1,Republican,0,0,1
 Robert “Bob” Casey,Mike Johanns,PA,1,Democrat,NE,1,Republican,0,0,1
 Robert “Bob” Casey,Mitch McConnell,PA,1,Democrat,KY,1,Republican,0,0,1
 Robert “Bob” Casey,Patrick Leahy,PA,1,Democrat,VT,1,Democrat,1,0,1
-Robert “Bob” Casey,Patty Murray,PA,1,Democrat,WA,1,Democrat,1,1,1
+Robert “Bob” Casey,Patty Murray,PA,1,Democrat,WA,1,Democrat,1,0,1
 Robert “Bob” Casey,Richard Blumenthal,PA,1,Democrat,CT,1,Democrat,1,1,1
 Robert “Bob” Casey,Richard Durbin,PA,1,Democrat,IL,1,Democrat,1,0,1
 Robert “Bob” Casey,Robert “Bob” Menendez,PA,1,Democrat,NJ,1,Democrat,1,1,1
@@ -4989,15 +4989,15 @@ Robert “Bob” Casey,Thad Cochran,PA,1,Democrat,MS,1,Republican,0,0,1
 Robert “Bob” Casey,Thomas “Tom” Harkin,PA,1,Democrat,IA,1,Democrat,1,0,1
 Robert “Bob” Casey,Thomas Carper,PA,1,Democrat,DE,1,Democrat,1,1,1
 Robert “Bob” Casey,Tim Johnson,PA,1,Democrat,SD,1,Democrat,1,0,1
-Robert “Bob” Casey,Timothy “Tim” Kaine,PA,1,Democrat,VA,1,Democrat,1,0,1
+Robert “Bob” Casey,Timothy “Tim” Kaine,PA,1,Democrat,VA,1,Democrat,1,1,1
 Robert “Bob” Casey,Tom Udall,PA,1,Democrat,NM,1,Democrat,1,0,1
 Robert “Bob” Menendez,Alan “Al” Franken,NJ,1,Democrat,MN,1,Democrat,1,0,1
 Robert “Bob” Menendez,Amy Klobuchar,NJ,1,Democrat,MN,1,Democrat,1,0,1
-Robert “Bob” Menendez,Angus King,NJ,1,Democrat,ME,1,Independent,0,0,1
+Robert “Bob” Menendez,Angus King,NJ,1,Democrat,ME,1,Democrat,1,0,1
 Robert “Bob” Menendez,Barbara Boxer,NJ,1,Democrat,CA,1,Democrat,1,0,1
 Robert “Bob” Menendez,Barbara Mikulski,NJ,1,Democrat,MD,1,Democrat,1,1,1
 Robert “Bob” Menendez,Benjamin Cardin,NJ,1,Democrat,MD,1,Democrat,1,1,1
-Robert “Bob” Menendez,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Independent,0,0,1
+Robert “Bob” Menendez,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Democrat,1,0,1
 Robert “Bob” Menendez,Bill Nelson,NJ,1,Democrat,FL,1,Democrat,1,0,1
 Robert “Bob” Menendez,Bob Corker,NJ,1,Democrat,TN,1,Republican,0,0,1
 Robert “Bob” Menendez,Carl Levin,NJ,1,Democrat,MI,1,Democrat,1,0,1
@@ -5037,12 +5037,12 @@ Robert “Bob” Menendez,Kelly Ayotte,NJ,1,Democrat,NH,1,Republican,0,1,1
 Robert “Bob” Menendez,Kirsten Gillibrand,NJ,1,Democrat,NY,1,Democrat,1,1,1
 Robert “Bob” Menendez,Lindsey Graham,NJ,1,Democrat,SC,1,Republican,0,0,1
 Robert “Bob” Menendez,Lisa Murkowski,NJ,1,Democrat,AK,1,Republican,0,0,1
-Robert “Bob” Menendez,Maria Cantwell,NJ,1,Democrat,WA,1,Democrat,1,1,1
+Robert “Bob” Menendez,Maria Cantwell,NJ,1,Democrat,WA,1,Democrat,1,0,1
 Robert “Bob” Menendez,Mark Begich,NJ,1,Democrat,AK,1,Democrat,1,0,1
 Robert “Bob” Menendez,Mark Kirk,NJ,1,Democrat,IL,1,Republican,0,0,1
 Robert “Bob” Menendez,Mark Pryor,NJ,1,Democrat,AR,1,Democrat,1,0,1
 Robert “Bob” Menendez,Mark Udall,NJ,1,Democrat,CO,1,Democrat,1,0,1
-Robert “Bob” Menendez,Mark Warner,NJ,1,Democrat,VA,1,Democrat,1,0,1
+Robert “Bob” Menendez,Mark Warner,NJ,1,Democrat,VA,1,Democrat,1,1,1
 Robert “Bob” Menendez,Martin Heinrich,NJ,1,Democrat,NM,1,Democrat,1,0,1
 Robert “Bob” Menendez,Mary Landrieu,NJ,1,Democrat,LA,1,Democrat,1,0,1
 Robert “Bob” Menendez,Mazie Hirono,NJ,1,Democrat,HI,1,Democrat,1,0,1
@@ -5051,7 +5051,7 @@ Robert “Bob” Menendez,Michael Enzi,NJ,1,Democrat,WY,1,Republican,0,0,1
 Robert “Bob” Menendez,Mike Johanns,NJ,1,Democrat,NE,1,Republican,0,0,1
 Robert “Bob” Menendez,Mitch McConnell,NJ,1,Democrat,KY,1,Republican,0,0,1
 Robert “Bob” Menendez,Patrick Leahy,NJ,1,Democrat,VT,1,Democrat,1,0,1
-Robert “Bob” Menendez,Patty Murray,NJ,1,Democrat,WA,1,Democrat,1,1,1
+Robert “Bob” Menendez,Patty Murray,NJ,1,Democrat,WA,1,Democrat,1,0,1
 Robert “Bob” Menendez,Richard Blumenthal,NJ,1,Democrat,CT,1,Democrat,1,1,1
 Robert “Bob” Menendez,Richard Durbin,NJ,1,Democrat,IL,1,Democrat,1,0,1
 Robert “Bob” Menendez,Robert “Bob” Casey,NJ,1,Democrat,PA,1,Democrat,1,1,1
@@ -5067,15 +5067,15 @@ Robert “Bob” Menendez,Thad Cochran,NJ,1,Democrat,MS,1,Republican,0,0,1
 Robert “Bob” Menendez,Thomas “Tom” Harkin,NJ,1,Democrat,IA,1,Democrat,1,0,1
 Robert “Bob” Menendez,Thomas Carper,NJ,1,Democrat,DE,1,Democrat,1,1,1
 Robert “Bob” Menendez,Tim Johnson,NJ,1,Democrat,SD,1,Democrat,1,0,1
-Robert “Bob” Menendez,Timothy “Tim” Kaine,NJ,1,Democrat,VA,1,Democrat,1,0,1
+Robert “Bob” Menendez,Timothy “Tim” Kaine,NJ,1,Democrat,VA,1,Democrat,1,1,1
 Robert “Bob” Menendez,Tom Udall,NJ,1,Democrat,NM,1,Democrat,1,0,1
 Roger Wicker,Alan “Al” Franken,MS,1,Republican,MN,1,Democrat,0,0,1
 Roger Wicker,Amy Klobuchar,MS,1,Republican,MN,1,Democrat,0,0,1
-Roger Wicker,Angus King,MS,1,Republican,ME,1,Independent,0,0,1
+Roger Wicker,Angus King,MS,1,Republican,ME,1,Democrat,0,0,1
 Roger Wicker,Barbara Boxer,MS,1,Republican,CA,1,Democrat,0,0,1
 Roger Wicker,Barbara Mikulski,MS,1,Republican,MD,1,Democrat,0,0,1
 Roger Wicker,Benjamin Cardin,MS,1,Republican,MD,1,Democrat,0,0,1
-Roger Wicker,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Independent,0,0,1
+Roger Wicker,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Democrat,0,0,1
 Roger Wicker,Bill Nelson,MS,1,Republican,FL,1,Democrat,0,0,1
 Roger Wicker,Bob Corker,MS,1,Republican,TN,1,Republican,1,0,1
 Roger Wicker,Carl Levin,MS,1,Republican,MI,1,Democrat,0,0,1
@@ -5149,11 +5149,11 @@ Roger Wicker,Timothy “Tim” Kaine,MS,1,Republican,VA,1,Democrat,0,0,1
 Roger Wicker,Tom Udall,MS,1,Republican,NM,1,Democrat,0,0,1
 Ron Wyden,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Ron Wyden,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
-Ron Wyden,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
+Ron Wyden,Angus King,OR,1,Democrat,ME,1,Democrat,1,0,1
 Ron Wyden,Barbara Boxer,OR,1,Democrat,CA,1,Democrat,1,0,1
 Ron Wyden,Barbara Mikulski,OR,1,Democrat,MD,1,Democrat,1,0,1
 Ron Wyden,Benjamin Cardin,OR,1,Democrat,MD,1,Democrat,1,0,1
-Ron Wyden,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Independent,0,0,1
+Ron Wyden,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Democrat,1,0,1
 Ron Wyden,Bill Nelson,OR,1,Democrat,FL,1,Democrat,1,0,1
 Ron Wyden,Bob Corker,OR,1,Democrat,TN,1,Republican,0,0,1
 Ron Wyden,Carl Levin,OR,1,Democrat,MI,1,Democrat,1,0,1
@@ -5227,11 +5227,11 @@ Ron Wyden,Timothy “Tim” Kaine,OR,1,Democrat,VA,1,Democrat,1,0,1
 Ron Wyden,Tom Udall,OR,1,Democrat,NM,1,Democrat,1,0,1
 Roy Blunt,Alan “Al” Franken,MO,1,Republican,MN,1,Democrat,0,0,1
 Roy Blunt,Amy Klobuchar,MO,1,Republican,MN,1,Democrat,0,0,1
-Roy Blunt,Angus King,MO,1,Republican,ME,1,Independent,0,0,1
+Roy Blunt,Angus King,MO,1,Republican,ME,1,Democrat,0,0,1
 Roy Blunt,Barbara Boxer,MO,1,Republican,CA,1,Democrat,0,0,1
 Roy Blunt,Barbara Mikulski,MO,1,Republican,MD,1,Democrat,0,0,1
 Roy Blunt,Benjamin Cardin,MO,1,Republican,MD,1,Democrat,0,0,1
-Roy Blunt,Bernard “Bernie” Sanders,MO,1,Republican,VT,1,Independent,0,0,1
+Roy Blunt,Bernard “Bernie” Sanders,MO,1,Republican,VT,1,Democrat,0,0,1
 Roy Blunt,Bill Nelson,MO,1,Republican,FL,1,Democrat,0,0,1
 Roy Blunt,Bob Corker,MO,1,Republican,TN,1,Republican,1,0,1
 Roy Blunt,Carl Levin,MO,1,Republican,MI,1,Democrat,0,0,1
@@ -5305,11 +5305,11 @@ Roy Blunt,Timothy “Tim” Kaine,MO,1,Republican,VA,1,Democrat,0,0,1
 Roy Blunt,Tom Udall,MO,1,Republican,NM,1,Democrat,0,0,1
 Saxby Chambliss,Alan “Al” Franken,GA,1,Republican,MN,1,Democrat,0,0,1
 Saxby Chambliss,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
-Saxby Chambliss,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
+Saxby Chambliss,Angus King,GA,1,Republican,ME,1,Democrat,0,0,1
 Saxby Chambliss,Barbara Boxer,GA,1,Republican,CA,1,Democrat,0,0,1
 Saxby Chambliss,Barbara Mikulski,GA,1,Republican,MD,1,Democrat,0,0,1
 Saxby Chambliss,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
-Saxby Chambliss,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
+Saxby Chambliss,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Democrat,0,0,1
 Saxby Chambliss,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,0,1
 Saxby Chambliss,Bob Corker,GA,1,Republican,TN,1,Republican,1,0,1
 Saxby Chambliss,Carl Levin,GA,1,Republican,MI,1,Democrat,0,0,1
@@ -5383,11 +5383,11 @@ Saxby Chambliss,Timothy “Tim” Kaine,GA,1,Republican,VA,1,Democrat,0,0,1
 Saxby Chambliss,Tom Udall,GA,1,Republican,NM,1,Democrat,0,0,1
 Sheldon Whitehouse,Alan “Al” Franken,RI,1,Democrat,MN,1,Democrat,1,0,1
 Sheldon Whitehouse,Amy Klobuchar,RI,1,Democrat,MN,1,Democrat,1,0,1
-Sheldon Whitehouse,Angus King,RI,1,Democrat,ME,1,Independent,0,0,1
+Sheldon Whitehouse,Angus King,RI,1,Democrat,ME,1,Democrat,1,0,1
 Sheldon Whitehouse,Barbara Boxer,RI,1,Democrat,CA,1,Democrat,1,0,1
 Sheldon Whitehouse,Barbara Mikulski,RI,1,Democrat,MD,1,Democrat,1,1,1
 Sheldon Whitehouse,Benjamin Cardin,RI,1,Democrat,MD,1,Democrat,1,1,1
-Sheldon Whitehouse,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Independent,0,0,1
+Sheldon Whitehouse,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Democrat,1,0,1
 Sheldon Whitehouse,Bill Nelson,RI,1,Democrat,FL,1,Democrat,1,0,1
 Sheldon Whitehouse,Bob Corker,RI,1,Democrat,TN,1,Republican,0,0,1
 Sheldon Whitehouse,Carl Levin,RI,1,Democrat,MI,1,Democrat,1,0,1
@@ -5427,12 +5427,12 @@ Sheldon Whitehouse,Kelly Ayotte,RI,1,Democrat,NH,1,Republican,0,1,1
 Sheldon Whitehouse,Kirsten Gillibrand,RI,1,Democrat,NY,1,Democrat,1,1,1
 Sheldon Whitehouse,Lindsey Graham,RI,1,Democrat,SC,1,Republican,0,0,1
 Sheldon Whitehouse,Lisa Murkowski,RI,1,Democrat,AK,1,Republican,0,0,1
-Sheldon Whitehouse,Maria Cantwell,RI,1,Democrat,WA,1,Democrat,1,1,1
+Sheldon Whitehouse,Maria Cantwell,RI,1,Democrat,WA,1,Democrat,1,0,1
 Sheldon Whitehouse,Mark Begich,RI,1,Democrat,AK,1,Democrat,1,0,1
 Sheldon Whitehouse,Mark Kirk,RI,1,Democrat,IL,1,Republican,0,0,1
 Sheldon Whitehouse,Mark Pryor,RI,1,Democrat,AR,1,Democrat,1,0,1
 Sheldon Whitehouse,Mark Udall,RI,1,Democrat,CO,1,Democrat,1,0,1
-Sheldon Whitehouse,Mark Warner,RI,1,Democrat,VA,1,Democrat,1,0,1
+Sheldon Whitehouse,Mark Warner,RI,1,Democrat,VA,1,Democrat,1,1,1
 Sheldon Whitehouse,Martin Heinrich,RI,1,Democrat,NM,1,Democrat,1,0,1
 Sheldon Whitehouse,Mary Landrieu,RI,1,Democrat,LA,1,Democrat,1,0,1
 Sheldon Whitehouse,Mazie Hirono,RI,1,Democrat,HI,1,Democrat,1,0,1
@@ -5441,7 +5441,7 @@ Sheldon Whitehouse,Michael Enzi,RI,1,Democrat,WY,1,Republican,0,0,1
 Sheldon Whitehouse,Mike Johanns,RI,1,Democrat,NE,1,Republican,0,0,1
 Sheldon Whitehouse,Mitch McConnell,RI,1,Democrat,KY,1,Republican,0,0,1
 Sheldon Whitehouse,Patrick Leahy,RI,1,Democrat,VT,1,Democrat,1,0,1
-Sheldon Whitehouse,Patty Murray,RI,1,Democrat,WA,1,Democrat,1,1,1
+Sheldon Whitehouse,Patty Murray,RI,1,Democrat,WA,1,Democrat,1,0,1
 Sheldon Whitehouse,Richard Blumenthal,RI,1,Democrat,CT,1,Democrat,1,1,1
 Sheldon Whitehouse,Richard Durbin,RI,1,Democrat,IL,1,Democrat,1,0,1
 Sheldon Whitehouse,Robert “Bob” Casey,RI,1,Democrat,PA,1,Democrat,1,1,1
@@ -5457,15 +5457,15 @@ Sheldon Whitehouse,Thad Cochran,RI,1,Democrat,MS,1,Republican,0,0,1
 Sheldon Whitehouse,Thomas “Tom” Harkin,RI,1,Democrat,IA,1,Democrat,1,0,1
 Sheldon Whitehouse,Thomas Carper,RI,1,Democrat,DE,1,Democrat,1,1,1
 Sheldon Whitehouse,Tim Johnson,RI,1,Democrat,SD,1,Democrat,1,0,1
-Sheldon Whitehouse,Timothy “Tim” Kaine,RI,1,Democrat,VA,1,Democrat,1,0,1
+Sheldon Whitehouse,Timothy “Tim” Kaine,RI,1,Democrat,VA,1,Democrat,1,1,1
 Sheldon Whitehouse,Tom Udall,RI,1,Democrat,NM,1,Democrat,1,0,1
 Sherrod Brown,Alan “Al” Franken,OH,1,Democrat,MN,1,Democrat,1,0,1
 Sherrod Brown,Amy Klobuchar,OH,1,Democrat,MN,1,Democrat,1,0,1
-Sherrod Brown,Angus King,OH,1,Democrat,ME,1,Independent,0,0,1
+Sherrod Brown,Angus King,OH,1,Democrat,ME,1,Democrat,1,0,1
 Sherrod Brown,Barbara Boxer,OH,1,Democrat,CA,1,Democrat,1,0,1
 Sherrod Brown,Barbara Mikulski,OH,1,Democrat,MD,1,Democrat,1,0,1
 Sherrod Brown,Benjamin Cardin,OH,1,Democrat,MD,1,Democrat,1,0,1
-Sherrod Brown,Bernard “Bernie” Sanders,OH,1,Democrat,VT,1,Independent,0,0,1
+Sherrod Brown,Bernard “Bernie” Sanders,OH,1,Democrat,VT,1,Democrat,1,0,1
 Sherrod Brown,Bill Nelson,OH,1,Democrat,FL,1,Democrat,1,0,1
 Sherrod Brown,Bob Corker,OH,1,Democrat,TN,1,Republican,0,0,1
 Sherrod Brown,Carl Levin,OH,1,Democrat,MI,1,Democrat,1,0,1
@@ -5539,11 +5539,11 @@ Sherrod Brown,Timothy “Tim” Kaine,OH,1,Democrat,VA,1,Democrat,1,0,1
 Sherrod Brown,Tom Udall,OH,1,Democrat,NM,1,Democrat,1,0,1
 Susan Collins,Alan “Al” Franken,ME,1,Republican,MN,1,Democrat,0,0,1
 Susan Collins,Amy Klobuchar,ME,1,Republican,MN,1,Democrat,0,0,1
-Susan Collins,Angus King,ME,1,Republican,ME,1,Independent,0,0,1
+Susan Collins,Angus King,ME,1,Republican,ME,1,Democrat,0,0,1
 Susan Collins,Barbara Boxer,ME,1,Republican,CA,1,Democrat,0,0,1
 Susan Collins,Barbara Mikulski,ME,1,Republican,MD,1,Democrat,0,0,1
 Susan Collins,Benjamin Cardin,ME,1,Republican,MD,1,Democrat,0,0,1
-Susan Collins,Bernard “Bernie” Sanders,ME,1,Republican,VT,1,Independent,0,0,1
+Susan Collins,Bernard “Bernie” Sanders,ME,1,Republican,VT,1,Democrat,0,0,1
 Susan Collins,Bill Nelson,ME,1,Republican,FL,1,Democrat,0,0,1
 Susan Collins,Bob Corker,ME,1,Republican,TN,1,Republican,1,0,1
 Susan Collins,Carl Levin,ME,1,Republican,MI,1,Democrat,0,0,1
@@ -5617,11 +5617,11 @@ Susan Collins,Timothy “Tim” Kaine,ME,1,Republican,VA,1,Democrat,0,0,1
 Susan Collins,Tom Udall,ME,1,Republican,NM,1,Democrat,0,0,1
 Tammy Baldwin,Alan “Al” Franken,WI,1,Democrat,MN,1,Democrat,1,0,1
 Tammy Baldwin,Amy Klobuchar,WI,1,Democrat,MN,1,Democrat,1,0,1
-Tammy Baldwin,Angus King,WI,1,Democrat,ME,1,Independent,0,0,1
+Tammy Baldwin,Angus King,WI,1,Democrat,ME,1,Democrat,1,0,1
 Tammy Baldwin,Barbara Boxer,WI,1,Democrat,CA,1,Democrat,1,0,1
 Tammy Baldwin,Barbara Mikulski,WI,1,Democrat,MD,1,Democrat,1,0,1
 Tammy Baldwin,Benjamin Cardin,WI,1,Democrat,MD,1,Democrat,1,0,1
-Tammy Baldwin,Bernard “Bernie” Sanders,WI,1,Democrat,VT,1,Independent,0,0,1
+Tammy Baldwin,Bernard “Bernie” Sanders,WI,1,Democrat,VT,1,Democrat,1,0,1
 Tammy Baldwin,Bill Nelson,WI,1,Democrat,FL,1,Democrat,1,0,1
 Tammy Baldwin,Bob Corker,WI,1,Democrat,TN,1,Republican,0,0,1
 Tammy Baldwin,Carl Levin,WI,1,Democrat,MI,1,Democrat,1,0,1
@@ -5695,11 +5695,11 @@ Tammy Baldwin,Timothy “Tim” Kaine,WI,1,Democrat,VA,1,Democrat,1,0,1
 Tammy Baldwin,Tom Udall,WI,1,Democrat,NM,1,Democrat,1,0,1
 Thad Cochran,Alan “Al” Franken,MS,1,Republican,MN,1,Democrat,0,0,1
 Thad Cochran,Amy Klobuchar,MS,1,Republican,MN,1,Democrat,0,0,1
-Thad Cochran,Angus King,MS,1,Republican,ME,1,Independent,0,0,1
+Thad Cochran,Angus King,MS,1,Republican,ME,1,Democrat,0,0,1
 Thad Cochran,Barbara Boxer,MS,1,Republican,CA,1,Democrat,0,0,1
 Thad Cochran,Barbara Mikulski,MS,1,Republican,MD,1,Democrat,0,0,1
 Thad Cochran,Benjamin Cardin,MS,1,Republican,MD,1,Democrat,0,0,1
-Thad Cochran,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Independent,0,0,1
+Thad Cochran,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Democrat,0,0,1
 Thad Cochran,Bill Nelson,MS,1,Republican,FL,1,Democrat,0,0,1
 Thad Cochran,Bob Corker,MS,1,Republican,TN,1,Republican,1,0,1
 Thad Cochran,Carl Levin,MS,1,Republican,MI,1,Democrat,0,0,1
@@ -5773,11 +5773,11 @@ Thad Cochran,Timothy “Tim” Kaine,MS,1,Republican,VA,1,Democrat,0,0,1
 Thad Cochran,Tom Udall,MS,1,Republican,NM,1,Democrat,0,0,1
 Thomas “Tom” Harkin,Alan “Al” Franken,IA,1,Democrat,MN,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Amy Klobuchar,IA,1,Democrat,MN,1,Democrat,1,0,1
-Thomas “Tom” Harkin,Angus King,IA,1,Democrat,ME,1,Independent,0,0,1
+Thomas “Tom” Harkin,Angus King,IA,1,Democrat,ME,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Barbara Boxer,IA,1,Democrat,CA,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Barbara Mikulski,IA,1,Democrat,MD,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Benjamin Cardin,IA,1,Democrat,MD,1,Democrat,1,0,1
-Thomas “Tom” Harkin,Bernard “Bernie” Sanders,IA,1,Democrat,VT,1,Independent,0,0,1
+Thomas “Tom” Harkin,Bernard “Bernie” Sanders,IA,1,Democrat,VT,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Bill Nelson,IA,1,Democrat,FL,1,Democrat,1,0,1
 Thomas “Tom” Harkin,Bob Corker,IA,1,Democrat,TN,1,Republican,0,0,1
 Thomas “Tom” Harkin,Carl Levin,IA,1,Democrat,MI,1,Democrat,1,0,1
@@ -5851,11 +5851,11 @@ Thomas “Tom” Harkin,Timothy “Tim” Kaine,IA,1,Democrat,VA,1,Democrat,1,0,
 Thomas “Tom” Harkin,Tom Udall,IA,1,Democrat,NM,1,Democrat,1,0,1
 Thomas Carper,Alan “Al” Franken,DE,1,Democrat,MN,1,Democrat,1,0,1
 Thomas Carper,Amy Klobuchar,DE,1,Democrat,MN,1,Democrat,1,0,1
-Thomas Carper,Angus King,DE,1,Democrat,ME,1,Independent,0,0,1
+Thomas Carper,Angus King,DE,1,Democrat,ME,1,Democrat,1,0,1
 Thomas Carper,Barbara Boxer,DE,1,Democrat,CA,1,Democrat,1,0,1
 Thomas Carper,Barbara Mikulski,DE,1,Democrat,MD,1,Democrat,1,1,1
 Thomas Carper,Benjamin Cardin,DE,1,Democrat,MD,1,Democrat,1,1,1
-Thomas Carper,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Independent,0,0,1
+Thomas Carper,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Democrat,1,0,1
 Thomas Carper,Bill Nelson,DE,1,Democrat,FL,1,Democrat,1,0,1
 Thomas Carper,Bob Corker,DE,1,Democrat,TN,1,Republican,0,0,1
 Thomas Carper,Carl Levin,DE,1,Democrat,MI,1,Democrat,1,0,1
@@ -5895,12 +5895,12 @@ Thomas Carper,Kelly Ayotte,DE,1,Democrat,NH,1,Republican,0,1,1
 Thomas Carper,Kirsten Gillibrand,DE,1,Democrat,NY,1,Democrat,1,1,1
 Thomas Carper,Lindsey Graham,DE,1,Democrat,SC,1,Republican,0,0,1
 Thomas Carper,Lisa Murkowski,DE,1,Democrat,AK,1,Republican,0,0,1
-Thomas Carper,Maria Cantwell,DE,1,Democrat,WA,1,Democrat,1,1,1
+Thomas Carper,Maria Cantwell,DE,1,Democrat,WA,1,Democrat,1,0,1
 Thomas Carper,Mark Begich,DE,1,Democrat,AK,1,Democrat,1,0,1
 Thomas Carper,Mark Kirk,DE,1,Democrat,IL,1,Republican,0,0,1
 Thomas Carper,Mark Pryor,DE,1,Democrat,AR,1,Democrat,1,0,1
 Thomas Carper,Mark Udall,DE,1,Democrat,CO,1,Democrat,1,0,1
-Thomas Carper,Mark Warner,DE,1,Democrat,VA,1,Democrat,1,0,1
+Thomas Carper,Mark Warner,DE,1,Democrat,VA,1,Democrat,1,1,1
 Thomas Carper,Martin Heinrich,DE,1,Democrat,NM,1,Democrat,1,0,1
 Thomas Carper,Mary Landrieu,DE,1,Democrat,LA,1,Democrat,1,0,1
 Thomas Carper,Mazie Hirono,DE,1,Democrat,HI,1,Democrat,1,0,1
@@ -5909,7 +5909,7 @@ Thomas Carper,Michael Enzi,DE,1,Democrat,WY,1,Republican,0,0,1
 Thomas Carper,Mike Johanns,DE,1,Democrat,NE,1,Republican,0,0,1
 Thomas Carper,Mitch McConnell,DE,1,Democrat,KY,1,Republican,0,0,1
 Thomas Carper,Patrick Leahy,DE,1,Democrat,VT,1,Democrat,1,0,1
-Thomas Carper,Patty Murray,DE,1,Democrat,WA,1,Democrat,1,1,1
+Thomas Carper,Patty Murray,DE,1,Democrat,WA,1,Democrat,1,0,1
 Thomas Carper,Richard Blumenthal,DE,1,Democrat,CT,1,Democrat,1,1,1
 Thomas Carper,Richard Durbin,DE,1,Democrat,IL,1,Democrat,1,0,1
 Thomas Carper,Robert “Bob” Casey,DE,1,Democrat,PA,1,Democrat,1,1,1
@@ -5925,15 +5925,15 @@ Thomas Carper,Tammy Baldwin,DE,1,Democrat,WI,1,Democrat,1,0,1
 Thomas Carper,Thad Cochran,DE,1,Democrat,MS,1,Republican,0,0,1
 Thomas Carper,Thomas “Tom” Harkin,DE,1,Democrat,IA,1,Democrat,1,0,1
 Thomas Carper,Tim Johnson,DE,1,Democrat,SD,1,Democrat,1,0,1
-Thomas Carper,Timothy “Tim” Kaine,DE,1,Democrat,VA,1,Democrat,1,0,1
+Thomas Carper,Timothy “Tim” Kaine,DE,1,Democrat,VA,1,Democrat,1,1,1
 Thomas Carper,Tom Udall,DE,1,Democrat,NM,1,Democrat,1,0,1
 Tim Johnson,Alan “Al” Franken,SD,1,Democrat,MN,1,Democrat,1,0,1
 Tim Johnson,Amy Klobuchar,SD,1,Democrat,MN,1,Democrat,1,0,1
-Tim Johnson,Angus King,SD,1,Democrat,ME,1,Independent,0,0,1
+Tim Johnson,Angus King,SD,1,Democrat,ME,1,Democrat,1,0,1
 Tim Johnson,Barbara Boxer,SD,1,Democrat,CA,1,Democrat,1,0,1
 Tim Johnson,Barbara Mikulski,SD,1,Democrat,MD,1,Democrat,1,0,1
 Tim Johnson,Benjamin Cardin,SD,1,Democrat,MD,1,Democrat,1,0,1
-Tim Johnson,Bernard “Bernie” Sanders,SD,1,Democrat,VT,1,Independent,0,0,1
+Tim Johnson,Bernard “Bernie” Sanders,SD,1,Democrat,VT,1,Democrat,1,0,1
 Tim Johnson,Bill Nelson,SD,1,Democrat,FL,1,Democrat,1,0,1
 Tim Johnson,Bob Corker,SD,1,Democrat,TN,1,Republican,0,0,1
 Tim Johnson,Carl Levin,SD,1,Democrat,MI,1,Democrat,1,0,1
@@ -6007,48 +6007,48 @@ Tim Johnson,Timothy “Tim” Kaine,SD,1,Democrat,VA,1,Democrat,1,0,1
 Tim Johnson,Tom Udall,SD,1,Democrat,NM,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Alan “Al” Franken,VA,1,Democrat,MN,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Amy Klobuchar,VA,1,Democrat,MN,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Angus King,VA,1,Democrat,ME,1,Independent,0,0,1
+Timothy “Tim” Kaine,Angus King,VA,1,Democrat,ME,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Barbara Boxer,VA,1,Democrat,CA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Barbara Mikulski,VA,1,Democrat,MD,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Independent,0,0,1
+Timothy “Tim” Kaine,Barbara Mikulski,VA,1,Democrat,MD,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Bill Nelson,VA,1,Democrat,FL,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Bob Corker,VA,1,Democrat,TN,1,Republican,0,0,1
 Timothy “Tim” Kaine,Carl Levin,VA,1,Democrat,MI,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Charles “Chuck” Grassley,VA,1,Democrat,IA,1,Republican,0,0,1
-Timothy “Tim” Kaine,Charles “Chuck” Schumer,VA,1,Democrat,NY,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Christopher Coons,VA,1,Democrat,DE,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Christopher Murphy,VA,1,Democrat,CT,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Charles “Chuck” Schumer,VA,1,Democrat,NY,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Christopher Coons,VA,1,Democrat,DE,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Christopher Murphy,VA,1,Democrat,CT,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Claire McCaskill,VA,1,Democrat,MO,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Cory Booker,VA,1,Democrat,NJ,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Cory Booker,VA,1,Democrat,NJ,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Daniel Coats,VA,1,Democrat,IN,1,Republican,0,0,1
 Timothy “Tim” Kaine,David Vitter,VA,1,Democrat,LA,1,Republican,0,0,1
 Timothy “Tim” Kaine,Dean Heller,VA,1,Democrat,NV,1,Republican,0,0,1
 Timothy “Tim” Kaine,Deb Fischer,VA,1,Democrat,NE,1,Republican,0,0,1
 Timothy “Tim” Kaine,Debbie Stabenow,VA,1,Democrat,MI,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Dianne Feinstein,VA,1,Democrat,CA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Edward “Ed” Markey,VA,1,Democrat,MA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Elizabeth Warren,VA,1,Democrat,MA,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Edward “Ed” Markey,VA,1,Democrat,MA,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Elizabeth Warren,VA,1,Democrat,MA,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Harry Reid,VA,1,Democrat,NV,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Heidi Heitkamp,VA,1,Democrat,ND,1,Democrat,1,0,1
 Timothy “Tim” Kaine,James “Jim” Inhofe,VA,1,Democrat,OK,1,Republican,0,0,1
-Timothy “Tim” Kaine,Jeanne Shaheen,VA,1,Democrat,NH,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Jeanne Shaheen,VA,1,Democrat,NH,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Jeff Merkley,VA,1,Democrat,OR,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Jerry Moran,VA,1,Democrat,KS,1,Republican,0,0,1
 Timothy “Tim” Kaine,Joe Donnelly,VA,1,Democrat,IN,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Joe Manchin,VA,1,Democrat,WV,1,Democrat,1,0,1
-Timothy “Tim” Kaine,John “Jay” Rockefeller,VA,1,Democrat,WV,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Joe Manchin,VA,1,Democrat,WV,1,Democrat,1,1,1
+Timothy “Tim” Kaine,John “Jay” Rockefeller,VA,1,Democrat,WV,1,Democrat,1,1,1
 Timothy “Tim” Kaine,John “Johnny” Isakson,VA,1,Democrat,GA,1,Republican,0,0,1
 Timothy “Tim” Kaine,John Barrasso,VA,1,Democrat,WY,1,Republican,0,0,1
 Timothy “Tim” Kaine,John Boozman,VA,1,Democrat,AR,1,Republican,0,0,1
-Timothy “Tim” Kaine,John F. “Jack” Reed,VA,1,Democrat,RI,1,Democrat,1,0,1
+Timothy “Tim” Kaine,John F. “Jack” Reed,VA,1,Democrat,RI,1,Democrat,1,1,1
 Timothy “Tim” Kaine,John Hoeven,VA,1,Democrat,ND,1,Republican,0,0,1
 Timothy “Tim” Kaine,John Thune,VA,1,Democrat,SD,1,Republican,0,0,1
 Timothy “Tim” Kaine,John Walsh,VA,1,Democrat,MT,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Jon Tester,VA,1,Democrat,MT,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Kay Hagan,VA,1,Democrat,NC,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Kelly Ayotte,VA,1,Democrat,NH,1,Republican,0,0,1
-Timothy “Tim” Kaine,Kirsten Gillibrand,VA,1,Democrat,NY,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Kelly Ayotte,VA,1,Democrat,NH,1,Republican,0,1,1
+Timothy “Tim” Kaine,Kirsten Gillibrand,VA,1,Democrat,NY,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Lindsey Graham,VA,1,Democrat,SC,1,Republican,0,0,1
 Timothy “Tim” Kaine,Lisa Murkowski,VA,1,Democrat,AK,1,Republican,0,0,1
 Timothy “Tim” Kaine,Maria Cantwell,VA,1,Democrat,WA,1,Democrat,1,0,1
@@ -6056,7 +6056,7 @@ Timothy “Tim” Kaine,Mark Begich,VA,1,Democrat,AK,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Mark Kirk,VA,1,Democrat,IL,1,Republican,0,0,1
 Timothy “Tim” Kaine,Mark Pryor,VA,1,Democrat,AR,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Mark Udall,VA,1,Democrat,CO,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Mark Warner,VA,1,Democrat,VA,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Mark Warner,VA,1,Democrat,VA,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Martin Heinrich,VA,1,Democrat,NM,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Mary Landrieu,VA,1,Democrat,LA,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Mazie Hirono,VA,1,Democrat,HI,1,Democrat,1,0,1
@@ -6066,30 +6066,30 @@ Timothy “Tim” Kaine,Mike Johanns,VA,1,Democrat,NE,1,Republican,0,0,1
 Timothy “Tim” Kaine,Mitch McConnell,VA,1,Democrat,KY,1,Republican,0,0,1
 Timothy “Tim” Kaine,Patrick Leahy,VA,1,Democrat,VT,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Patty Murray,VA,1,Democrat,WA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Richard Blumenthal,VA,1,Democrat,CT,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Richard Blumenthal,VA,1,Democrat,CT,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Richard Durbin,VA,1,Democrat,IL,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Robert “Bob” Casey,VA,1,Democrat,PA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Robert “Bob” Menendez,VA,1,Democrat,NJ,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Robert “Bob” Casey,VA,1,Democrat,PA,1,Democrat,1,1,1
+Timothy “Tim” Kaine,Robert “Bob” Menendez,VA,1,Democrat,NJ,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Roger Wicker,VA,1,Democrat,MS,1,Republican,0,0,1
 Timothy “Tim” Kaine,Ron Wyden,VA,1,Democrat,OR,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Roy Blunt,VA,1,Democrat,MO,1,Republican,0,0,1
 Timothy “Tim” Kaine,Saxby Chambliss,VA,1,Democrat,GA,1,Republican,0,0,1
-Timothy “Tim” Kaine,Sheldon Whitehouse,VA,1,Democrat,RI,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Sheldon Whitehouse,VA,1,Democrat,RI,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Sherrod Brown,VA,1,Democrat,OH,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Susan Collins,VA,1,Democrat,ME,1,Republican,0,0,1
 Timothy “Tim” Kaine,Tammy Baldwin,VA,1,Democrat,WI,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Thad Cochran,VA,1,Democrat,MS,1,Republican,0,0,1
 Timothy “Tim” Kaine,Thomas “Tom” Harkin,VA,1,Democrat,IA,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Thomas Carper,VA,1,Democrat,DE,1,Democrat,1,0,1
+Timothy “Tim” Kaine,Thomas Carper,VA,1,Democrat,DE,1,Democrat,1,1,1
 Timothy “Tim” Kaine,Tim Johnson,VA,1,Democrat,SD,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Tom Udall,VA,1,Democrat,NM,1,Democrat,1,0,1
 Tom Udall,Alan “Al” Franken,NM,1,Democrat,MN,1,Democrat,1,0,1
 Tom Udall,Amy Klobuchar,NM,1,Democrat,MN,1,Democrat,1,0,1
-Tom Udall,Angus King,NM,1,Democrat,ME,1,Independent,0,0,1
+Tom Udall,Angus King,NM,1,Democrat,ME,1,Democrat,1,0,1
 Tom Udall,Barbara Boxer,NM,1,Democrat,CA,1,Democrat,1,0,1
 Tom Udall,Barbara Mikulski,NM,1,Democrat,MD,1,Democrat,1,0,1
 Tom Udall,Benjamin Cardin,NM,1,Democrat,MD,1,Democrat,1,0,1
-Tom Udall,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Independent,0,0,1
+Tom Udall,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Democrat,1,0,1
 Tom Udall,Bill Nelson,NM,1,Democrat,FL,1,Democrat,1,0,1
 Tom Udall,Bob Corker,NM,1,Democrat,TN,1,Republican,0,0,1
 Tom Udall,Carl Levin,NM,1,Democrat,MI,1,Democrat,1,0,1

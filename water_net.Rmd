@@ -26,11 +26,12 @@ output:
 library(rio)
 library(tidyverse)
 library(linkcomm)
-library(concoR)
+library(concorR)
 library(network)
 library(statnet)
 library(igraph)
 library(intergraph)
+library(stargazer)
 
 water_dyads <- import("water_dyads.csv")
 water_dyads2 <- import("water_dyads2.csv")
@@ -40,6 +41,8 @@ water_infrastructure <- water_infrastructure %>%
   mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %>% 
   select(-c(district, person)) %>% 
   mutate(storm = ifelse(state %in% c("TX", "LA", "SC", "GA", "AL", "FL"), 1, 0)) ## sandy relief just in case
+
+water_infrastructure$party[water_infrastructure$party == "Independent"] <- "Democrat"
 
 water_el <- water_dyads %>% 
  select(name, name2) ## edge list
@@ -95,7 +98,8 @@ first_block <- water_infrastructure %>%
   full_join(block2) %>% 
   group_by(party, storm, block) %>% 
   summarize(number = n()) %>% 
-  arrange(block, .by_group = F) ## looking at the storm membership by party for block 1
+  arrange(block, .by_group = F) %>% 
+  rename(`Political Party ` = "party", , `Storm Status ` = "storm", `Subgroup ` = "block", `Number ` = number)## looking at the storm membership by party for block 1
 
 second_block <- water_infrastructure %>% 
   full_join(block2) %>% 
@@ -122,5 +126,9 @@ cross_party2 <- water_dyads %>%
 first_block
 
 second_block
+
+stargazer(first_block, summary = FALSE, type = "html", rownames = FALSE, out = "water.html", column.labels = c("Political Party ", "Storm Status ", "Subgroup ", "Number "))
+
+export(first_block, "water_subgroups.csv")
 ```
 

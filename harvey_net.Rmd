@@ -28,11 +28,12 @@ plot(harvey_net)
 #library(rio)
 #library(tidyverse)
 library(linkcomm)
-library(concoR)
+library(concorR)
 library(network)
 library(statnet)
 library(igraph)
 library(intergraph)
+library(stargazer)
 
 harvey_dyads <- import("harvey_dyads.csv")
 harvey_dyads2 <- import("harvey_dyads2.csv")
@@ -45,7 +46,7 @@ harvey_relief <-harvey_relief %>%
 harvey_relief <- harvey_relief %>% 
   mutate(name = substr(name, 6,nchar(harvey_relief$name)-15)) %>% 
   mutate(storm = ifelse(state %in% c("TX", "LA", "SC", "GA", "AL", "FL"), 1, 0)) ## harvey relief just in case
-
+harvey_relief$party[harvey_relief$party == "Independent"] <- "Democrat"
 harvey_el <- harvey_dyads %>% 
  select(name, name2) ## edge list
 
@@ -99,7 +100,13 @@ modularity(net_harvey2, block2$block) ## calculate modularity, how to add the st
 first_block <- harvey_relief %>% 
   full_join(block2) %>% 
   group_by(party, storm, block) %>% 
-  summarize(number = n()) ## looking at the storm membership by party for block 1
+  summarize(number = n()) %>% 
+  rename(`Political Party ` = "party", `Storm Status ` = "storm", `Subgroup ` = "block", `Number ` = number) %>% 
+  arrange(`Subgroup `, .by_group = F)## looking at the storm membership by party for block 1
+
+first_block
+
+export(first_block, "harvey_subgroups.csv")
 
 second_block <- harvey_relief %>% 
   full_join(block2) %>% 
@@ -123,7 +130,7 @@ cross_party2 <- harvey_dyads %>%
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
 
-first_block
+stargazer(first_block, summary = FALSE, type = "html", rownames = FALSE, out = "harvey.html", column.labels = c("Political Party ", "Storm Status ", "Subgroup ", "Number "))
 
 second_block
 ```

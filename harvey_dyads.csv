@@ -1,8 +1,8 @@
 name,name2,state,vote,party,state2,vote2,party2,cross_party,storm,sharevote
 Alan “Al” Franken,Amy Klobuchar,MN,1,Democrat,MN,1,Democrat,1,0,1
-Alan “Al” Franken,Angus King,MN,1,Democrat,ME,1,Independent,0,0,1
+Alan “Al” Franken,Angus King,MN,1,Democrat,ME,1,Democrat,1,0,1
 Alan “Al” Franken,Benjamin Cardin,MN,1,Democrat,MD,1,Democrat,1,0,1
-Alan “Al” Franken,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Independent,0,0,1
+Alan “Al” Franken,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Democrat,1,0,1
 Alan “Al” Franken,Bill Cassidy,MN,1,Democrat,LA,1,Republican,0,0,1
 Alan “Al” Franken,Bill Nelson,MN,1,Democrat,FL,1,Democrat,1,0,1
 Alan “Al” Franken,Brian Schatz,MN,1,Democrat,HI,1,Democrat,1,0,1
@@ -79,9 +79,9 @@ Alan “Al” Franken,Todd Young,MN,1,Democrat,IN,1,Republican,0,0,1
 Alan “Al” Franken,Tom Cotton,MN,1,Democrat,AR,1,Republican,0,0,1
 Alan “Al” Franken,Tom Udall,MN,1,Democrat,NM,1,Democrat,1,0,1
 Amy Klobuchar,Alan “Al” Franken,MN,1,Democrat,MN,1,Democrat,1,0,1
-Amy Klobuchar,Angus King,MN,1,Democrat,ME,1,Independent,0,0,1
+Amy Klobuchar,Angus King,MN,1,Democrat,ME,1,Democrat,1,0,1
 Amy Klobuchar,Benjamin Cardin,MN,1,Democrat,MD,1,Democrat,1,0,1
-Amy Klobuchar,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Independent,0,0,1
+Amy Klobuchar,Bernard “Bernie” Sanders,MN,1,Democrat,VT,1,Democrat,1,0,1
 Amy Klobuchar,Bill Cassidy,MN,1,Democrat,LA,1,Republican,0,0,1
 Amy Klobuchar,Bill Nelson,MN,1,Democrat,FL,1,Democrat,1,0,1
 Amy Klobuchar,Brian Schatz,MN,1,Democrat,HI,1,Democrat,1,0,1
@@ -157,89 +157,89 @@ Amy Klobuchar,Timothy “Tim” Kaine,MN,1,Democrat,VA,1,Democrat,1,0,1
 Amy Klobuchar,Todd Young,MN,1,Democrat,IN,1,Republican,0,0,1
 Amy Klobuchar,Tom Cotton,MN,1,Democrat,AR,1,Republican,0,0,1
 Amy Klobuchar,Tom Udall,MN,1,Democrat,NM,1,Democrat,1,0,1
-Angus King,Alan “Al” Franken,ME,1,Independent,MN,1,Democrat,0,0,1
-Angus King,Amy Klobuchar,ME,1,Independent,MN,1,Democrat,0,0,1
-Angus King,Benjamin Cardin,ME,1,Independent,MD,1,Democrat,0,0,1
-Angus King,Bernard “Bernie” Sanders,ME,1,Independent,VT,1,Independent,1,0,1
-Angus King,Bill Cassidy,ME,1,Independent,LA,1,Republican,0,0,1
-Angus King,Bill Nelson,ME,1,Independent,FL,1,Democrat,0,0,1
-Angus King,Brian Schatz,ME,1,Independent,HI,1,Democrat,0,0,1
-Angus King,Catherine Cortez Masto,ME,1,Independent,NV,1,Democrat,0,0,1
-Angus King,Charles “Chuck” Schumer,ME,1,Independent,NY,1,Democrat,0,0,1
-Angus King,Chris Van Hollen,ME,1,Independent,MD,1,Democrat,0,0,1
-Angus King,Christopher Coons,ME,1,Independent,DE,1,Democrat,0,0,1
-Angus King,Christopher Murphy,ME,1,Independent,CT,1,Democrat,0,0,1
-Angus King,Claire McCaskill,ME,1,Independent,MO,1,Democrat,0,0,1
-Angus King,Cory Booker,ME,1,Independent,NJ,1,Democrat,0,0,1
-Angus King,Cory Gardner,ME,1,Independent,CO,1,Republican,0,0,1
-Angus King,David Perdue,ME,1,Independent,GA,1,Republican,0,0,1
-Angus King,Dean Heller,ME,1,Independent,NV,1,Republican,0,0,1
-Angus King,Debbie Stabenow,ME,1,Independent,MI,1,Democrat,0,0,1
-Angus King,Dianne Feinstein,ME,1,Independent,CA,1,Democrat,0,0,1
-Angus King,Edward “Ed” Markey,ME,1,Independent,MA,1,Democrat,0,0,1
-Angus King,Elizabeth Warren,ME,1,Independent,MA,1,Democrat,0,0,1
-Angus King,Gary Peters,ME,1,Independent,MI,1,Democrat,0,0,1
-Angus King,Heidi Heitkamp,ME,1,Independent,ND,1,Democrat,0,0,1
-Angus King,James “Jim” Inhofe,ME,1,Independent,OK,1,Republican,0,0,1
-Angus King,Jeanne Shaheen,ME,1,Independent,NH,1,Democrat,0,0,1
-Angus King,Jeff Merkley,ME,1,Independent,OR,1,Democrat,0,0,1
-Angus King,Joe Donnelly,ME,1,Independent,IN,1,Democrat,0,0,1
-Angus King,Joe Manchin,ME,1,Independent,WV,1,Democrat,0,0,1
-Angus King,John “Johnny” Isakson,ME,1,Independent,GA,1,Republican,0,0,1
-Angus King,John Barrasso,ME,1,Independent,WY,1,Republican,0,0,1
-Angus King,John Boozman,ME,1,Independent,AR,1,Republican,0,0,1
-Angus King,John Cornyn,ME,1,Independent,TX,1,Republican,0,0,1
-Angus King,John F. “Jack” Reed,ME,1,Independent,RI,1,Democrat,0,0,1
-Angus King,John Hoeven,ME,1,Independent,ND,1,Republican,0,0,1
-Angus King,John Neely Kennedy,ME,1,Independent,LA,1,Republican,0,0,1
-Angus King,John Thune,ME,1,Independent,SD,1,Republican,0,0,1
-Angus King,Jon Tester,ME,1,Independent,MT,1,Democrat,0,0,1
-Angus King,Kamala Harris,ME,1,Independent,CA,1,Democrat,0,0,1
-Angus King,Kirsten Gillibrand,ME,1,Independent,NY,1,Democrat,0,0,1
-Angus King,Lamar Alexander,ME,1,Independent,TN,1,Republican,0,0,1
-Angus King,Lisa Murkowski,ME,1,Independent,AK,1,Republican,0,0,1
-Angus King,Luther Strange,ME,1,Independent,AL,1,Republican,0,0,1
-Angus King,Margaret “Maggie” Hassan,ME,1,Independent,NH,1,Democrat,0,0,1
-Angus King,Maria Cantwell,ME,1,Independent,WA,1,Democrat,0,0,1
-Angus King,Mark Warner,ME,1,Independent,VA,1,Democrat,0,0,1
-Angus King,Martin Heinrich,ME,1,Independent,NM,1,Democrat,0,0,1
-Angus King,Mazie Hirono,ME,1,Independent,HI,1,Democrat,0,0,1
-Angus King,Michael “Mike” Crapo,ME,1,Independent,ID,1,Republican,0,0,1
-Angus King,Michael Bennet,ME,1,Independent,CO,1,Democrat,0,0,1
-Angus King,Mike Rounds,ME,1,Independent,SD,1,Republican,0,0,1
-Angus King,Mitch McConnell,ME,1,Independent,KY,1,Republican,0,0,1
-Angus King,Orrin Hatch,ME,1,Independent,UT,1,Republican,0,0,1
-Angus King,Pat Roberts,ME,1,Independent,KS,1,Republican,0,0,1
-Angus King,Patrick Leahy,ME,1,Independent,VT,1,Democrat,0,0,1
-Angus King,Patty Murray,ME,1,Independent,WA,1,Democrat,0,0,1
-Angus King,Richard Blumenthal,ME,1,Independent,CT,1,Democrat,0,0,1
-Angus King,Richard Burr,ME,1,Independent,NC,1,Republican,0,0,1
-Angus King,Richard Durbin,ME,1,Independent,IL,1,Democrat,0,0,1
-Angus King,Richard Shelby,ME,1,Independent,AL,1,Republican,0,0,1
-Angus King,Robert “Bob” Casey,ME,1,Independent,PA,1,Democrat,0,0,1
-Angus King,Robert “Rob” Portman,ME,1,Independent,OH,1,Republican,0,0,1
-Angus King,Roger Wicker,ME,1,Independent,MS,1,Republican,0,0,1
-Angus King,Ron Wyden,ME,1,Independent,OR,1,Democrat,0,0,1
-Angus King,Roy Blunt,ME,1,Independent,MO,1,Republican,0,0,1
-Angus King,Sheldon Whitehouse,ME,1,Independent,RI,1,Democrat,0,0,1
-Angus King,Shelley Moore Capito,ME,1,Independent,WV,1,Republican,0,0,1
-Angus King,Sherrod Brown,ME,1,Independent,OH,1,Democrat,0,0,1
-Angus King,Susan Collins,ME,1,Independent,ME,1,Republican,0,0,1
-Angus King,Tammy Baldwin,ME,1,Independent,WI,1,Democrat,0,0,1
-Angus King,Tammy Duckworth,ME,1,Independent,IL,1,Democrat,0,0,1
-Angus King,Ted Cruz,ME,1,Independent,TX,1,Republican,0,0,1
-Angus King,Thad Cochran,ME,1,Independent,MS,1,Republican,0,0,1
-Angus King,Thom Tillis,ME,1,Independent,NC,1,Republican,0,0,1
-Angus King,Thomas Carper,ME,1,Independent,DE,1,Democrat,0,0,1
-Angus King,Tim Scott,ME,1,Independent,SC,1,Republican,0,0,1
-Angus King,Timothy “Tim” Kaine,ME,1,Independent,VA,1,Democrat,0,0,1
-Angus King,Todd Young,ME,1,Independent,IN,1,Republican,0,0,1
-Angus King,Tom Cotton,ME,1,Independent,AR,1,Republican,0,0,1
-Angus King,Tom Udall,ME,1,Independent,NM,1,Democrat,0,0,1
+Angus King,Alan “Al” Franken,ME,1,Democrat,MN,1,Democrat,1,0,1
+Angus King,Amy Klobuchar,ME,1,Democrat,MN,1,Democrat,1,0,1
+Angus King,Benjamin Cardin,ME,1,Democrat,MD,1,Democrat,1,0,1
+Angus King,Bernard “Bernie” Sanders,ME,1,Democrat,VT,1,Democrat,1,0,1
+Angus King,Bill Cassidy,ME,1,Democrat,LA,1,Republican,0,0,1
+Angus King,Bill Nelson,ME,1,Democrat,FL,1,Democrat,1,0,1
+Angus King,Brian Schatz,ME,1,Democrat,HI,1,Democrat,1,0,1
+Angus King,Catherine Cortez Masto,ME,1,Democrat,NV,1,Democrat,1,0,1
+Angus King,Charles “Chuck” Schumer,ME,1,Democrat,NY,1,Democrat,1,0,1
+Angus King,Chris Van Hollen,ME,1,Democrat,MD,1,Democrat,1,0,1
+Angus King,Christopher Coons,ME,1,Democrat,DE,1,Democrat,1,0,1
+Angus King,Christopher Murphy,ME,1,Democrat,CT,1,Democrat,1,0,1
+Angus King,Claire McCaskill,ME,1,Democrat,MO,1,Democrat,1,0,1
+Angus King,Cory Booker,ME,1,Democrat,NJ,1,Democrat,1,0,1
+Angus King,Cory Gardner,ME,1,Democrat,CO,1,Republican,0,0,1
+Angus King,David Perdue,ME,1,Democrat,GA,1,Republican,0,0,1
+Angus King,Dean Heller,ME,1,Democrat,NV,1,Republican,0,0,1
+Angus King,Debbie Stabenow,ME,1,Democrat,MI,1,Democrat,1,0,1
+Angus King,Dianne Feinstein,ME,1,Democrat,CA,1,Democrat,1,0,1
+Angus King,Edward “Ed” Markey,ME,1,Democrat,MA,1,Democrat,1,0,1
+Angus King,Elizabeth Warren,ME,1,Democrat,MA,1,Democrat,1,0,1
+Angus King,Gary Peters,ME,1,Democrat,MI,1,Democrat,1,0,1
+Angus King,Heidi Heitkamp,ME,1,Democrat,ND,1,Democrat,1,0,1
+Angus King,James “Jim” Inhofe,ME,1,Democrat,OK,1,Republican,0,0,1
+Angus King,Jeanne Shaheen,ME,1,Democrat,NH,1,Democrat,1,0,1
+Angus King,Jeff Merkley,ME,1,Democrat,OR,1,Democrat,1,0,1
+Angus King,Joe Donnelly,ME,1,Democrat,IN,1,Democrat,1,0,1
+Angus King,Joe Manchin,ME,1,Democrat,WV,1,Democrat,1,0,1
+Angus King,John “Johnny” Isakson,ME,1,Democrat,GA,1,Republican,0,0,1
+Angus King,John Barrasso,ME,1,Democrat,WY,1,Republican,0,0,1
+Angus King,John Boozman,ME,1,Democrat,AR,1,Republican,0,0,1
+Angus King,John Cornyn,ME,1,Democrat,TX,1,Republican,0,0,1
+Angus King,John F. “Jack” Reed,ME,1,Democrat,RI,1,Democrat,1,0,1
+Angus King,John Hoeven,ME,1,Democrat,ND,1,Republican,0,0,1
+Angus King,John Neely Kennedy,ME,1,Democrat,LA,1,Republican,0,0,1
+Angus King,John Thune,ME,1,Democrat,SD,1,Republican,0,0,1
+Angus King,Jon Tester,ME,1,Democrat,MT,1,Democrat,1,0,1
+Angus King,Kamala Harris,ME,1,Democrat,CA,1,Democrat,1,0,1
+Angus King,Kirsten Gillibrand,ME,1,Democrat,NY,1,Democrat,1,0,1
+Angus King,Lamar Alexander,ME,1,Democrat,TN,1,Republican,0,0,1
+Angus King,Lisa Murkowski,ME,1,Democrat,AK,1,Republican,0,0,1
+Angus King,Luther Strange,ME,1,Democrat,AL,1,Republican,0,0,1
+Angus King,Margaret “Maggie” Hassan,ME,1,Democrat,NH,1,Democrat,1,0,1
+Angus King,Maria Cantwell,ME,1,Democrat,WA,1,Democrat,1,0,1
+Angus King,Mark Warner,ME,1,Democrat,VA,1,Democrat,1,0,1
+Angus King,Martin Heinrich,ME,1,Democrat,NM,1,Democrat,1,0,1
+Angus King,Mazie Hirono,ME,1,Democrat,HI,1,Democrat,1,0,1
+Angus King,Michael “Mike” Crapo,ME,1,Democrat,ID,1,Republican,0,0,1
+Angus King,Michael Bennet,ME,1,Democrat,CO,1,Democrat,1,0,1
+Angus King,Mike Rounds,ME,1,Democrat,SD,1,Republican,0,0,1
+Angus King,Mitch McConnell,ME,1,Democrat,KY,1,Republican,0,0,1
+Angus King,Orrin Hatch,ME,1,Democrat,UT,1,Republican,0,0,1
+Angus King,Pat Roberts,ME,1,Democrat,KS,1,Republican,0,0,1
+Angus King,Patrick Leahy,ME,1,Democrat,VT,1,Democrat,1,0,1
+Angus King,Patty Murray,ME,1,Democrat,WA,1,Democrat,1,0,1
+Angus King,Richard Blumenthal,ME,1,Democrat,CT,1,Democrat,1,0,1
+Angus King,Richard Burr,ME,1,Democrat,NC,1,Republican,0,0,1
+Angus King,Richard Durbin,ME,1,Democrat,IL,1,Democrat,1,0,1
+Angus King,Richard Shelby,ME,1,Democrat,AL,1,Republican,0,0,1
+Angus King,Robert “Bob” Casey,ME,1,Democrat,PA,1,Democrat,1,0,1
+Angus King,Robert “Rob” Portman,ME,1,Democrat,OH,1,Republican,0,0,1
+Angus King,Roger Wicker,ME,1,Democrat,MS,1,Republican,0,0,1
+Angus King,Ron Wyden,ME,1,Democrat,OR,1,Democrat,1,0,1
+Angus King,Roy Blunt,ME,1,Democrat,MO,1,Republican,0,0,1
+Angus King,Sheldon Whitehouse,ME,1,Democrat,RI,1,Democrat,1,0,1
+Angus King,Shelley Moore Capito,ME,1,Democrat,WV,1,Republican,0,0,1
+Angus King,Sherrod Brown,ME,1,Democrat,OH,1,Democrat,1,0,1
+Angus King,Susan Collins,ME,1,Democrat,ME,1,Republican,0,0,1
+Angus King,Tammy Baldwin,ME,1,Democrat,WI,1,Democrat,1,0,1
+Angus King,Tammy Duckworth,ME,1,Democrat,IL,1,Democrat,1,0,1
+Angus King,Ted Cruz,ME,1,Democrat,TX,1,Republican,0,0,1
+Angus King,Thad Cochran,ME,1,Democrat,MS,1,Republican,0,0,1
+Angus King,Thom Tillis,ME,1,Democrat,NC,1,Republican,0,0,1
+Angus King,Thomas Carper,ME,1,Democrat,DE,1,Democrat,1,0,1
+Angus King,Tim Scott,ME,1,Democrat,SC,1,Republican,0,0,1
+Angus King,Timothy “Tim” Kaine,ME,1,Democrat,VA,1,Democrat,1,0,1
+Angus King,Todd Young,ME,1,Democrat,IN,1,Republican,0,0,1
+Angus King,Tom Cotton,ME,1,Democrat,AR,1,Republican,0,0,1
+Angus King,Tom Udall,ME,1,Democrat,NM,1,Democrat,1,0,1
 Benjamin Cardin,Alan “Al” Franken,MD,1,Democrat,MN,1,Democrat,1,0,1
 Benjamin Cardin,Amy Klobuchar,MD,1,Democrat,MN,1,Democrat,1,0,1
-Benjamin Cardin,Angus King,MD,1,Democrat,ME,1,Independent,0,0,1
-Benjamin Cardin,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Independent,0,0,1
+Benjamin Cardin,Angus King,MD,1,Democrat,ME,1,Democrat,1,0,1
+Benjamin Cardin,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Democrat,1,0,1
 Benjamin Cardin,Bill Cassidy,MD,1,Democrat,LA,1,Republican,0,0,1
 Benjamin Cardin,Bill Nelson,MD,1,Democrat,FL,1,Democrat,1,0,1
 Benjamin Cardin,Brian Schatz,MD,1,Democrat,HI,1,Democrat,1,0,1
@@ -315,90 +315,90 @@ Benjamin Cardin,Timothy “Tim” Kaine,MD,1,Democrat,VA,1,Democrat,1,0,1
 Benjamin Cardin,Todd Young,MD,1,Democrat,IN,1,Republican,0,0,1
 Benjamin Cardin,Tom Cotton,MD,1,Democrat,AR,1,Republican,0,0,1
 Benjamin Cardin,Tom Udall,MD,1,Democrat,NM,1,Democrat,1,0,1
-Bernard “Bernie” Sanders,Alan “Al” Franken,VT,1,Independent,MN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Amy Klobuchar,VT,1,Independent,MN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Angus King,VT,1,Independent,ME,1,Independent,1,0,1
-Bernard “Bernie” Sanders,Benjamin Cardin,VT,1,Independent,MD,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Bill Cassidy,VT,1,Independent,LA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Bill Nelson,VT,1,Independent,FL,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Brian Schatz,VT,1,Independent,HI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Catherine Cortez Masto,VT,1,Independent,NV,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Charles “Chuck” Schumer,VT,1,Independent,NY,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Chris Van Hollen,VT,1,Independent,MD,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Christopher Coons,VT,1,Independent,DE,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Christopher Murphy,VT,1,Independent,CT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Claire McCaskill,VT,1,Independent,MO,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Cory Booker,VT,1,Independent,NJ,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Cory Gardner,VT,1,Independent,CO,1,Republican,0,0,1
-Bernard “Bernie” Sanders,David Perdue,VT,1,Independent,GA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Dean Heller,VT,1,Independent,NV,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Debbie Stabenow,VT,1,Independent,MI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Dianne Feinstein,VT,1,Independent,CA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Edward “Ed” Markey,VT,1,Independent,MA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Elizabeth Warren,VT,1,Independent,MA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Gary Peters,VT,1,Independent,MI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Heidi Heitkamp,VT,1,Independent,ND,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,James “Jim” Inhofe,VT,1,Independent,OK,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Jeanne Shaheen,VT,1,Independent,NH,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Jeff Merkley,VT,1,Independent,OR,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Joe Donnelly,VT,1,Independent,IN,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Joe Manchin,VT,1,Independent,WV,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,John “Johnny” Isakson,VT,1,Independent,GA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Barrasso,VT,1,Independent,WY,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Boozman,VT,1,Independent,AR,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Cornyn,VT,1,Independent,TX,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John F. “Jack” Reed,VT,1,Independent,RI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,John Hoeven,VT,1,Independent,ND,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Neely Kennedy,VT,1,Independent,LA,1,Republican,0,0,1
-Bernard “Bernie” Sanders,John Thune,VT,1,Independent,SD,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Jon Tester,VT,1,Independent,MT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Kamala Harris,VT,1,Independent,CA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Kirsten Gillibrand,VT,1,Independent,NY,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Lamar Alexander,VT,1,Independent,TN,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Lisa Murkowski,VT,1,Independent,AK,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Luther Strange,VT,1,Independent,AL,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Margaret “Maggie” Hassan,VT,1,Independent,NH,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Maria Cantwell,VT,1,Independent,WA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mark Warner,VT,1,Independent,VA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Martin Heinrich,VT,1,Independent,NM,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mazie Hirono,VT,1,Independent,HI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Michael “Mike” Crapo,VT,1,Independent,ID,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Michael Bennet,VT,1,Independent,CO,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Mike Rounds,VT,1,Independent,SD,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Mitch McConnell,VT,1,Independent,KY,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Orrin Hatch,VT,1,Independent,UT,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Pat Roberts,VT,1,Independent,KS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Patrick Leahy,VT,1,Independent,VT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Patty Murray,VT,1,Independent,WA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Richard Blumenthal,VT,1,Independent,CT,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Richard Burr,VT,1,Independent,NC,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Richard Durbin,VT,1,Independent,IL,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Richard Shelby,VT,1,Independent,AL,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Robert “Bob” Casey,VT,1,Independent,PA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Robert “Rob” Portman,VT,1,Independent,OH,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Roger Wicker,VT,1,Independent,MS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Ron Wyden,VT,1,Independent,OR,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Roy Blunt,VT,1,Independent,MO,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Sheldon Whitehouse,VT,1,Independent,RI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Shelley Moore Capito,VT,1,Independent,WV,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Sherrod Brown,VT,1,Independent,OH,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Susan Collins,VT,1,Independent,ME,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Tammy Baldwin,VT,1,Independent,WI,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Tammy Duckworth,VT,1,Independent,IL,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Ted Cruz,VT,1,Independent,TX,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Thad Cochran,VT,1,Independent,MS,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Thom Tillis,VT,1,Independent,NC,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Thomas Carper,VT,1,Independent,DE,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Tim Scott,VT,1,Independent,SC,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Timothy “Tim” Kaine,VT,1,Independent,VA,1,Democrat,0,0,1
-Bernard “Bernie” Sanders,Todd Young,VT,1,Independent,IN,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Tom Cotton,VT,1,Independent,AR,1,Republican,0,0,1
-Bernard “Bernie” Sanders,Tom Udall,VT,1,Independent,NM,1,Democrat,0,0,1
+Bernard “Bernie” Sanders,Alan “Al” Franken,VT,1,Democrat,MN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Amy Klobuchar,VT,1,Democrat,MN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Angus King,VT,1,Democrat,ME,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Benjamin Cardin,VT,1,Democrat,MD,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Bill Cassidy,VT,1,Democrat,LA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Bill Nelson,VT,1,Democrat,FL,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Brian Schatz,VT,1,Democrat,HI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Catherine Cortez Masto,VT,1,Democrat,NV,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Charles “Chuck” Schumer,VT,1,Democrat,NY,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Chris Van Hollen,VT,1,Democrat,MD,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Christopher Coons,VT,1,Democrat,DE,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Christopher Murphy,VT,1,Democrat,CT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Claire McCaskill,VT,1,Democrat,MO,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Cory Booker,VT,1,Democrat,NJ,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Cory Gardner,VT,1,Democrat,CO,1,Republican,0,0,1
+Bernard “Bernie” Sanders,David Perdue,VT,1,Democrat,GA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Dean Heller,VT,1,Democrat,NV,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Debbie Stabenow,VT,1,Democrat,MI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Dianne Feinstein,VT,1,Democrat,CA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Edward “Ed” Markey,VT,1,Democrat,MA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Elizabeth Warren,VT,1,Democrat,MA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Gary Peters,VT,1,Democrat,MI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Heidi Heitkamp,VT,1,Democrat,ND,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,James “Jim” Inhofe,VT,1,Democrat,OK,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Jeanne Shaheen,VT,1,Democrat,NH,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Jeff Merkley,VT,1,Democrat,OR,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Joe Donnelly,VT,1,Democrat,IN,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Joe Manchin,VT,1,Democrat,WV,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,John “Johnny” Isakson,VT,1,Democrat,GA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Barrasso,VT,1,Democrat,WY,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Boozman,VT,1,Democrat,AR,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Cornyn,VT,1,Democrat,TX,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John F. “Jack” Reed,VT,1,Democrat,RI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,John Hoeven,VT,1,Democrat,ND,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Neely Kennedy,VT,1,Democrat,LA,1,Republican,0,0,1
+Bernard “Bernie” Sanders,John Thune,VT,1,Democrat,SD,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Jon Tester,VT,1,Democrat,MT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Kamala Harris,VT,1,Democrat,CA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Kirsten Gillibrand,VT,1,Democrat,NY,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Lamar Alexander,VT,1,Democrat,TN,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Lisa Murkowski,VT,1,Democrat,AK,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Luther Strange,VT,1,Democrat,AL,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Margaret “Maggie” Hassan,VT,1,Democrat,NH,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Maria Cantwell,VT,1,Democrat,WA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mark Warner,VT,1,Democrat,VA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Martin Heinrich,VT,1,Democrat,NM,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mazie Hirono,VT,1,Democrat,HI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Michael “Mike” Crapo,VT,1,Democrat,ID,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Michael Bennet,VT,1,Democrat,CO,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Mike Rounds,VT,1,Democrat,SD,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Mitch McConnell,VT,1,Democrat,KY,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Orrin Hatch,VT,1,Democrat,UT,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Pat Roberts,VT,1,Democrat,KS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Patrick Leahy,VT,1,Democrat,VT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Patty Murray,VT,1,Democrat,WA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Richard Blumenthal,VT,1,Democrat,CT,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Richard Burr,VT,1,Democrat,NC,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Richard Durbin,VT,1,Democrat,IL,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Richard Shelby,VT,1,Democrat,AL,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Robert “Bob” Casey,VT,1,Democrat,PA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Robert “Rob” Portman,VT,1,Democrat,OH,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Roger Wicker,VT,1,Democrat,MS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Ron Wyden,VT,1,Democrat,OR,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Roy Blunt,VT,1,Democrat,MO,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Sheldon Whitehouse,VT,1,Democrat,RI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Shelley Moore Capito,VT,1,Democrat,WV,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Sherrod Brown,VT,1,Democrat,OH,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Susan Collins,VT,1,Democrat,ME,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Tammy Baldwin,VT,1,Democrat,WI,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Tammy Duckworth,VT,1,Democrat,IL,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Ted Cruz,VT,1,Democrat,TX,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Thad Cochran,VT,1,Democrat,MS,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Thom Tillis,VT,1,Democrat,NC,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Thomas Carper,VT,1,Democrat,DE,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Tim Scott,VT,1,Democrat,SC,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Timothy “Tim” Kaine,VT,1,Democrat,VA,1,Democrat,1,0,1
+Bernard “Bernie” Sanders,Todd Young,VT,1,Democrat,IN,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Tom Cotton,VT,1,Democrat,AR,1,Republican,0,0,1
+Bernard “Bernie” Sanders,Tom Udall,VT,1,Democrat,NM,1,Democrat,1,0,1
 Bill Cassidy,Alan “Al” Franken,LA,1,Republican,MN,1,Democrat,0,0,1
 Bill Cassidy,Amy Klobuchar,LA,1,Republican,MN,1,Democrat,0,0,1
-Bill Cassidy,Angus King,LA,1,Republican,ME,1,Independent,0,0,1
+Bill Cassidy,Angus King,LA,1,Republican,ME,1,Democrat,0,0,1
 Bill Cassidy,Benjamin Cardin,LA,1,Republican,MD,1,Democrat,0,0,1
-Bill Cassidy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Independent,0,0,1
+Bill Cassidy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Democrat,0,0,1
 Bill Cassidy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,1,1
 Bill Cassidy,Brian Schatz,LA,1,Republican,HI,1,Democrat,0,0,1
 Bill Cassidy,Catherine Cortez Masto,LA,1,Republican,NV,1,Democrat,0,0,1
@@ -475,9 +475,9 @@ Bill Cassidy,Tom Cotton,LA,1,Republican,AR,1,Republican,1,0,1
 Bill Cassidy,Tom Udall,LA,1,Republican,NM,1,Democrat,0,0,1
 Bill Nelson,Alan “Al” Franken,FL,1,Democrat,MN,1,Democrat,1,0,1
 Bill Nelson,Amy Klobuchar,FL,1,Democrat,MN,1,Democrat,1,0,1
-Bill Nelson,Angus King,FL,1,Democrat,ME,1,Independent,0,0,1
+Bill Nelson,Angus King,FL,1,Democrat,ME,1,Democrat,1,0,1
 Bill Nelson,Benjamin Cardin,FL,1,Democrat,MD,1,Democrat,1,0,1
-Bill Nelson,Bernard “Bernie” Sanders,FL,1,Democrat,VT,1,Independent,0,0,1
+Bill Nelson,Bernard “Bernie” Sanders,FL,1,Democrat,VT,1,Democrat,1,0,1
 Bill Nelson,Bill Cassidy,FL,1,Democrat,LA,1,Republican,0,1,1
 Bill Nelson,Brian Schatz,FL,1,Democrat,HI,1,Democrat,1,0,1
 Bill Nelson,Catherine Cortez Masto,FL,1,Democrat,NV,1,Democrat,1,0,1
@@ -554,9 +554,9 @@ Bill Nelson,Tom Cotton,FL,1,Democrat,AR,1,Republican,0,0,1
 Bill Nelson,Tom Udall,FL,1,Democrat,NM,1,Democrat,1,0,1
 Brian Schatz,Alan “Al” Franken,HI,1,Democrat,MN,1,Democrat,1,0,1
 Brian Schatz,Amy Klobuchar,HI,1,Democrat,MN,1,Democrat,1,0,1
-Brian Schatz,Angus King,HI,1,Democrat,ME,1,Independent,0,0,1
+Brian Schatz,Angus King,HI,1,Democrat,ME,1,Democrat,1,0,1
 Brian Schatz,Benjamin Cardin,HI,1,Democrat,MD,1,Democrat,1,0,1
-Brian Schatz,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Independent,0,0,1
+Brian Schatz,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Democrat,1,0,1
 Brian Schatz,Bill Cassidy,HI,1,Democrat,LA,1,Republican,0,0,1
 Brian Schatz,Bill Nelson,HI,1,Democrat,FL,1,Democrat,1,0,1
 Brian Schatz,Catherine Cortez Masto,HI,1,Democrat,NV,1,Democrat,1,0,1
@@ -633,9 +633,9 @@ Brian Schatz,Tom Cotton,HI,1,Democrat,AR,1,Republican,0,0,1
 Brian Schatz,Tom Udall,HI,1,Democrat,NM,1,Democrat,1,0,1
 Catherine Cortez Masto,Alan “Al” Franken,NV,1,Democrat,MN,1,Democrat,1,0,1
 Catherine Cortez Masto,Amy Klobuchar,NV,1,Democrat,MN,1,Democrat,1,0,1
-Catherine Cortez Masto,Angus King,NV,1,Democrat,ME,1,Independent,0,0,1
+Catherine Cortez Masto,Angus King,NV,1,Democrat,ME,1,Democrat,1,0,1
 Catherine Cortez Masto,Benjamin Cardin,NV,1,Democrat,MD,1,Democrat,1,0,1
-Catherine Cortez Masto,Bernard “Bernie” Sanders,NV,1,Democrat,VT,1,Independent,0,0,1
+Catherine Cortez Masto,Bernard “Bernie” Sanders,NV,1,Democrat,VT,1,Democrat,1,0,1
 Catherine Cortez Masto,Bill Cassidy,NV,1,Democrat,LA,1,Republican,0,0,1
 Catherine Cortez Masto,Bill Nelson,NV,1,Democrat,FL,1,Democrat,1,0,1
 Catherine Cortez Masto,Brian Schatz,NV,1,Democrat,HI,1,Democrat,1,0,1
@@ -712,9 +712,9 @@ Catherine Cortez Masto,Tom Cotton,NV,1,Democrat,AR,1,Republican,0,0,1
 Catherine Cortez Masto,Tom Udall,NV,1,Democrat,NM,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Alan “Al” Franken,NY,1,Democrat,MN,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Amy Klobuchar,NY,1,Democrat,MN,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Angus King,NY,1,Democrat,ME,1,Independent,0,0,1
+Charles “Chuck” Schumer,Angus King,NY,1,Democrat,ME,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Benjamin Cardin,NY,1,Democrat,MD,1,Democrat,1,0,1
-Charles “Chuck” Schumer,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Independent,0,0,1
+Charles “Chuck” Schumer,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Bill Cassidy,NY,1,Democrat,LA,1,Republican,0,0,1
 Charles “Chuck” Schumer,Bill Nelson,NY,1,Democrat,FL,1,Democrat,1,0,1
 Charles “Chuck” Schumer,Brian Schatz,NY,1,Democrat,HI,1,Democrat,1,0,1
@@ -791,9 +791,9 @@ Charles “Chuck” Schumer,Tom Cotton,NY,1,Democrat,AR,1,Republican,0,0,1
 Charles “Chuck” Schumer,Tom Udall,NY,1,Democrat,NM,1,Democrat,1,0,1
 Chris Van Hollen,Alan “Al” Franken,MD,1,Democrat,MN,1,Democrat,1,0,1
 Chris Van Hollen,Amy Klobuchar,MD,1,Democrat,MN,1,Democrat,1,0,1
-Chris Van Hollen,Angus King,MD,1,Democrat,ME,1,Independent,0,0,1
+Chris Van Hollen,Angus King,MD,1,Democrat,ME,1,Democrat,1,0,1
 Chris Van Hollen,Benjamin Cardin,MD,1,Democrat,MD,1,Democrat,1,0,1
-Chris Van Hollen,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Independent,0,0,1
+Chris Van Hollen,Bernard “Bernie” Sanders,MD,1,Democrat,VT,1,Democrat,1,0,1
 Chris Van Hollen,Bill Cassidy,MD,1,Democrat,LA,1,Republican,0,0,1
 Chris Van Hollen,Bill Nelson,MD,1,Democrat,FL,1,Democrat,1,0,1
 Chris Van Hollen,Brian Schatz,MD,1,Democrat,HI,1,Democrat,1,0,1
@@ -870,9 +870,9 @@ Chris Van Hollen,Tom Cotton,MD,1,Democrat,AR,1,Republican,0,0,1
 Chris Van Hollen,Tom Udall,MD,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Coons,Alan “Al” Franken,DE,1,Democrat,MN,1,Democrat,1,0,1
 Christopher Coons,Amy Klobuchar,DE,1,Democrat,MN,1,Democrat,1,0,1
-Christopher Coons,Angus King,DE,1,Democrat,ME,1,Independent,0,0,1
+Christopher Coons,Angus King,DE,1,Democrat,ME,1,Democrat,1,0,1
 Christopher Coons,Benjamin Cardin,DE,1,Democrat,MD,1,Democrat,1,0,1
-Christopher Coons,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Independent,0,0,1
+Christopher Coons,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Democrat,1,0,1
 Christopher Coons,Bill Cassidy,DE,1,Democrat,LA,1,Republican,0,0,1
 Christopher Coons,Bill Nelson,DE,1,Democrat,FL,1,Democrat,1,0,1
 Christopher Coons,Brian Schatz,DE,1,Democrat,HI,1,Democrat,1,0,1
@@ -949,9 +949,9 @@ Christopher Coons,Tom Cotton,DE,1,Democrat,AR,1,Republican,0,0,1
 Christopher Coons,Tom Udall,DE,1,Democrat,NM,1,Democrat,1,0,1
 Christopher Murphy,Alan “Al” Franken,CT,1,Democrat,MN,1,Democrat,1,0,1
 Christopher Murphy,Amy Klobuchar,CT,1,Democrat,MN,1,Democrat,1,0,1
-Christopher Murphy,Angus King,CT,1,Democrat,ME,1,Independent,0,0,1
+Christopher Murphy,Angus King,CT,1,Democrat,ME,1,Democrat,1,0,1
 Christopher Murphy,Benjamin Cardin,CT,1,Democrat,MD,1,Democrat,1,0,1
-Christopher Murphy,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Independent,0,0,1
+Christopher Murphy,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Democrat,1,0,1
 Christopher Murphy,Bill Cassidy,CT,1,Democrat,LA,1,Republican,0,0,1
 Christopher Murphy,Bill Nelson,CT,1,Democrat,FL,1,Democrat,1,0,1
 Christopher Murphy,Brian Schatz,CT,1,Democrat,HI,1,Democrat,1,0,1
@@ -1028,9 +1028,9 @@ Christopher Murphy,Tom Cotton,CT,1,Democrat,AR,1,Republican,0,0,1
 Christopher Murphy,Tom Udall,CT,1,Democrat,NM,1,Democrat,1,0,1
 Claire McCaskill,Alan “Al” Franken,MO,1,Democrat,MN,1,Democrat,1,0,1
 Claire McCaskill,Amy Klobuchar,MO,1,Democrat,MN,1,Democrat,1,0,1
-Claire McCaskill,Angus King,MO,1,Democrat,ME,1,Independent,0,0,1
+Claire McCaskill,Angus King,MO,1,Democrat,ME,1,Democrat,1,0,1
 Claire McCaskill,Benjamin Cardin,MO,1,Democrat,MD,1,Democrat,1,0,1
-Claire McCaskill,Bernard “Bernie” Sanders,MO,1,Democrat,VT,1,Independent,0,0,1
+Claire McCaskill,Bernard “Bernie” Sanders,MO,1,Democrat,VT,1,Democrat,1,0,1
 Claire McCaskill,Bill Cassidy,MO,1,Democrat,LA,1,Republican,0,0,1
 Claire McCaskill,Bill Nelson,MO,1,Democrat,FL,1,Democrat,1,0,1
 Claire McCaskill,Brian Schatz,MO,1,Democrat,HI,1,Democrat,1,0,1
@@ -1107,9 +1107,9 @@ Claire McCaskill,Tom Cotton,MO,1,Democrat,AR,1,Republican,0,0,1
 Claire McCaskill,Tom Udall,MO,1,Democrat,NM,1,Democrat,1,0,1
 Cory Booker,Alan “Al” Franken,NJ,1,Democrat,MN,1,Democrat,1,0,1
 Cory Booker,Amy Klobuchar,NJ,1,Democrat,MN,1,Democrat,1,0,1
-Cory Booker,Angus King,NJ,1,Democrat,ME,1,Independent,0,0,1
+Cory Booker,Angus King,NJ,1,Democrat,ME,1,Democrat,1,0,1
 Cory Booker,Benjamin Cardin,NJ,1,Democrat,MD,1,Democrat,1,0,1
-Cory Booker,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Independent,0,0,1
+Cory Booker,Bernard “Bernie” Sanders,NJ,1,Democrat,VT,1,Democrat,1,0,1
 Cory Booker,Bill Cassidy,NJ,1,Democrat,LA,1,Republican,0,0,1
 Cory Booker,Bill Nelson,NJ,1,Democrat,FL,1,Democrat,1,0,1
 Cory Booker,Brian Schatz,NJ,1,Democrat,HI,1,Democrat,1,0,1
@@ -1186,9 +1186,9 @@ Cory Booker,Tom Cotton,NJ,1,Democrat,AR,1,Republican,0,0,1
 Cory Booker,Tom Udall,NJ,1,Democrat,NM,1,Democrat,1,0,1
 Cory Gardner,Alan “Al” Franken,CO,1,Republican,MN,1,Democrat,0,0,1
 Cory Gardner,Amy Klobuchar,CO,1,Republican,MN,1,Democrat,0,0,1
-Cory Gardner,Angus King,CO,1,Republican,ME,1,Independent,0,0,1
+Cory Gardner,Angus King,CO,1,Republican,ME,1,Democrat,0,0,1
 Cory Gardner,Benjamin Cardin,CO,1,Republican,MD,1,Democrat,0,0,1
-Cory Gardner,Bernard “Bernie” Sanders,CO,1,Republican,VT,1,Independent,0,0,1
+Cory Gardner,Bernard “Bernie” Sanders,CO,1,Republican,VT,1,Democrat,0,0,1
 Cory Gardner,Bill Cassidy,CO,1,Republican,LA,1,Republican,1,0,1
 Cory Gardner,Bill Nelson,CO,1,Republican,FL,1,Democrat,0,0,1
 Cory Gardner,Brian Schatz,CO,1,Republican,HI,1,Democrat,0,0,1
@@ -1265,9 +1265,9 @@ Cory Gardner,Tom Cotton,CO,1,Republican,AR,1,Republican,1,0,1
 Cory Gardner,Tom Udall,CO,1,Republican,NM,1,Democrat,0,0,1
 David Perdue,Alan “Al” Franken,GA,1,Republican,MN,1,Democrat,0,0,1
 David Perdue,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
-David Perdue,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
+David Perdue,Angus King,GA,1,Republican,ME,1,Democrat,0,0,1
 David Perdue,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
-David Perdue,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
+David Perdue,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Democrat,0,0,1
 David Perdue,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,1,1
 David Perdue,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,1,1
 David Perdue,Brian Schatz,GA,1,Republican,HI,1,Democrat,0,0,1
@@ -1344,9 +1344,9 @@ David Perdue,Tom Cotton,GA,1,Republican,AR,1,Republican,1,0,1
 David Perdue,Tom Udall,GA,1,Republican,NM,1,Democrat,0,0,1
 Dean Heller,Alan “Al” Franken,NV,1,Republican,MN,1,Democrat,0,0,1
 Dean Heller,Amy Klobuchar,NV,1,Republican,MN,1,Democrat,0,0,1
-Dean Heller,Angus King,NV,1,Republican,ME,1,Independent,0,0,1
+Dean Heller,Angus King,NV,1,Republican,ME,1,Democrat,0,0,1
 Dean Heller,Benjamin Cardin,NV,1,Republican,MD,1,Democrat,0,0,1
-Dean Heller,Bernard “Bernie” Sanders,NV,1,Republican,VT,1,Independent,0,0,1
+Dean Heller,Bernard “Bernie” Sanders,NV,1,Republican,VT,1,Democrat,0,0,1
 Dean Heller,Bill Cassidy,NV,1,Republican,LA,1,Republican,1,0,1
 Dean Heller,Bill Nelson,NV,1,Republican,FL,1,Democrat,0,0,1
 Dean Heller,Brian Schatz,NV,1,Republican,HI,1,Democrat,0,0,1
@@ -1423,9 +1423,9 @@ Dean Heller,Tom Cotton,NV,1,Republican,AR,1,Republican,1,0,1
 Dean Heller,Tom Udall,NV,1,Republican,NM,1,Democrat,0,0,1
 Debbie Stabenow,Alan “Al” Franken,MI,1,Democrat,MN,1,Democrat,1,0,1
 Debbie Stabenow,Amy Klobuchar,MI,1,Democrat,MN,1,Democrat,1,0,1
-Debbie Stabenow,Angus King,MI,1,Democrat,ME,1,Independent,0,0,1
+Debbie Stabenow,Angus King,MI,1,Democrat,ME,1,Democrat,1,0,1
 Debbie Stabenow,Benjamin Cardin,MI,1,Democrat,MD,1,Democrat,1,0,1
-Debbie Stabenow,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Independent,0,0,1
+Debbie Stabenow,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Democrat,1,0,1
 Debbie Stabenow,Bill Cassidy,MI,1,Democrat,LA,1,Republican,0,0,1
 Debbie Stabenow,Bill Nelson,MI,1,Democrat,FL,1,Democrat,1,0,1
 Debbie Stabenow,Brian Schatz,MI,1,Democrat,HI,1,Democrat,1,0,1
@@ -1502,9 +1502,9 @@ Debbie Stabenow,Tom Cotton,MI,1,Democrat,AR,1,Republican,0,0,1
 Debbie Stabenow,Tom Udall,MI,1,Democrat,NM,1,Democrat,1,0,1
 Dianne Feinstein,Alan “Al” Franken,CA,1,Democrat,MN,1,Democrat,1,0,1
 Dianne Feinstein,Amy Klobuchar,CA,1,Democrat,MN,1,Democrat,1,0,1
-Dianne Feinstein,Angus King,CA,1,Democrat,ME,1,Independent,0,0,1
+Dianne Feinstein,Angus King,CA,1,Democrat,ME,1,Democrat,1,0,1
 Dianne Feinstein,Benjamin Cardin,CA,1,Democrat,MD,1,Democrat,1,0,1
-Dianne Feinstein,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Independent,0,0,1
+Dianne Feinstein,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Democrat,1,0,1
 Dianne Feinstein,Bill Cassidy,CA,1,Democrat,LA,1,Republican,0,0,1
 Dianne Feinstein,Bill Nelson,CA,1,Democrat,FL,1,Democrat,1,0,1
 Dianne Feinstein,Brian Schatz,CA,1,Democrat,HI,1,Democrat,1,0,1
@@ -1581,9 +1581,9 @@ Dianne Feinstein,Tom Cotton,CA,1,Democrat,AR,1,Republican,0,0,1
 Dianne Feinstein,Tom Udall,CA,1,Democrat,NM,1,Democrat,1,0,1
 Edward “Ed” Markey,Alan “Al” Franken,MA,1,Democrat,MN,1,Democrat,1,0,1
 Edward “Ed” Markey,Amy Klobuchar,MA,1,Democrat,MN,1,Democrat,1,0,1
-Edward “Ed” Markey,Angus King,MA,1,Democrat,ME,1,Independent,0,0,1
+Edward “Ed” Markey,Angus King,MA,1,Democrat,ME,1,Democrat,1,0,1
 Edward “Ed” Markey,Benjamin Cardin,MA,1,Democrat,MD,1,Democrat,1,0,1
-Edward “Ed” Markey,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Independent,0,0,1
+Edward “Ed” Markey,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Democrat,1,0,1
 Edward “Ed” Markey,Bill Cassidy,MA,1,Democrat,LA,1,Republican,0,0,1
 Edward “Ed” Markey,Bill Nelson,MA,1,Democrat,FL,1,Democrat,1,0,1
 Edward “Ed” Markey,Brian Schatz,MA,1,Democrat,HI,1,Democrat,1,0,1
@@ -1660,9 +1660,9 @@ Edward “Ed” Markey,Tom Cotton,MA,1,Democrat,AR,1,Republican,0,0,1
 Edward “Ed” Markey,Tom Udall,MA,1,Democrat,NM,1,Democrat,1,0,1
 Elizabeth Warren,Alan “Al” Franken,MA,1,Democrat,MN,1,Democrat,1,0,1
 Elizabeth Warren,Amy Klobuchar,MA,1,Democrat,MN,1,Democrat,1,0,1
-Elizabeth Warren,Angus King,MA,1,Democrat,ME,1,Independent,0,0,1
+Elizabeth Warren,Angus King,MA,1,Democrat,ME,1,Democrat,1,0,1
 Elizabeth Warren,Benjamin Cardin,MA,1,Democrat,MD,1,Democrat,1,0,1
-Elizabeth Warren,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Independent,0,0,1
+Elizabeth Warren,Bernard “Bernie” Sanders,MA,1,Democrat,VT,1,Democrat,1,0,1
 Elizabeth Warren,Bill Cassidy,MA,1,Democrat,LA,1,Republican,0,0,1
 Elizabeth Warren,Bill Nelson,MA,1,Democrat,FL,1,Democrat,1,0,1
 Elizabeth Warren,Brian Schatz,MA,1,Democrat,HI,1,Democrat,1,0,1
@@ -1739,9 +1739,9 @@ Elizabeth Warren,Tom Cotton,MA,1,Democrat,AR,1,Republican,0,0,1
 Elizabeth Warren,Tom Udall,MA,1,Democrat,NM,1,Democrat,1,0,1
 Gary Peters,Alan “Al” Franken,MI,1,Democrat,MN,1,Democrat,1,0,1
 Gary Peters,Amy Klobuchar,MI,1,Democrat,MN,1,Democrat,1,0,1
-Gary Peters,Angus King,MI,1,Democrat,ME,1,Independent,0,0,1
+Gary Peters,Angus King,MI,1,Democrat,ME,1,Democrat,1,0,1
 Gary Peters,Benjamin Cardin,MI,1,Democrat,MD,1,Democrat,1,0,1
-Gary Peters,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Independent,0,0,1
+Gary Peters,Bernard “Bernie” Sanders,MI,1,Democrat,VT,1,Democrat,1,0,1
 Gary Peters,Bill Cassidy,MI,1,Democrat,LA,1,Republican,0,0,1
 Gary Peters,Bill Nelson,MI,1,Democrat,FL,1,Democrat,1,0,1
 Gary Peters,Brian Schatz,MI,1,Democrat,HI,1,Democrat,1,0,1
@@ -1818,9 +1818,9 @@ Gary Peters,Tom Cotton,MI,1,Democrat,AR,1,Republican,0,0,1
 Gary Peters,Tom Udall,MI,1,Democrat,NM,1,Democrat,1,0,1
 Heidi Heitkamp,Alan “Al” Franken,ND,1,Democrat,MN,1,Democrat,1,0,1
 Heidi Heitkamp,Amy Klobuchar,ND,1,Democrat,MN,1,Democrat,1,0,1
-Heidi Heitkamp,Angus King,ND,1,Democrat,ME,1,Independent,0,0,1
+Heidi Heitkamp,Angus King,ND,1,Democrat,ME,1,Democrat,1,0,1
 Heidi Heitkamp,Benjamin Cardin,ND,1,Democrat,MD,1,Democrat,1,0,1
-Heidi Heitkamp,Bernard “Bernie” Sanders,ND,1,Democrat,VT,1,Independent,0,0,1
+Heidi Heitkamp,Bernard “Bernie” Sanders,ND,1,Democrat,VT,1,Democrat,1,0,1
 Heidi Heitkamp,Bill Cassidy,ND,1,Democrat,LA,1,Republican,0,0,1
 Heidi Heitkamp,Bill Nelson,ND,1,Democrat,FL,1,Democrat,1,0,1
 Heidi Heitkamp,Brian Schatz,ND,1,Democrat,HI,1,Democrat,1,0,1
@@ -1897,9 +1897,9 @@ Heidi Heitkamp,Tom Cotton,ND,1,Democrat,AR,1,Republican,0,0,1
 Heidi Heitkamp,Tom Udall,ND,1,Democrat,NM,1,Democrat,1,0,1
 James “Jim” Inhofe,Alan “Al” Franken,OK,1,Republican,MN,1,Democrat,0,0,1
 James “Jim” Inhofe,Amy Klobuchar,OK,1,Republican,MN,1,Democrat,0,0,1
-James “Jim” Inhofe,Angus King,OK,1,Republican,ME,1,Independent,0,0,1
+James “Jim” Inhofe,Angus King,OK,1,Republican,ME,1,Democrat,0,0,1
 James “Jim” Inhofe,Benjamin Cardin,OK,1,Republican,MD,1,Democrat,0,0,1
-James “Jim” Inhofe,Bernard “Bernie” Sanders,OK,1,Republican,VT,1,Independent,0,0,1
+James “Jim” Inhofe,Bernard “Bernie” Sanders,OK,1,Republican,VT,1,Democrat,0,0,1
 James “Jim” Inhofe,Bill Cassidy,OK,1,Republican,LA,1,Republican,1,0,1
 James “Jim” Inhofe,Bill Nelson,OK,1,Republican,FL,1,Democrat,0,0,1
 James “Jim” Inhofe,Brian Schatz,OK,1,Republican,HI,1,Democrat,0,0,1
@@ -1976,9 +1976,9 @@ James “Jim” Inhofe,Tom Cotton,OK,1,Republican,AR,1,Republican,1,0,1
 James “Jim” Inhofe,Tom Udall,OK,1,Republican,NM,1,Democrat,0,0,1
 Jeanne Shaheen,Alan “Al” Franken,NH,1,Democrat,MN,1,Democrat,1,0,1
 Jeanne Shaheen,Amy Klobuchar,NH,1,Democrat,MN,1,Democrat,1,0,1
-Jeanne Shaheen,Angus King,NH,1,Democrat,ME,1,Independent,0,0,1
+Jeanne Shaheen,Angus King,NH,1,Democrat,ME,1,Democrat,1,0,1
 Jeanne Shaheen,Benjamin Cardin,NH,1,Democrat,MD,1,Democrat,1,0,1
-Jeanne Shaheen,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Independent,0,0,1
+Jeanne Shaheen,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Democrat,1,0,1
 Jeanne Shaheen,Bill Cassidy,NH,1,Democrat,LA,1,Republican,0,0,1
 Jeanne Shaheen,Bill Nelson,NH,1,Democrat,FL,1,Democrat,1,0,1
 Jeanne Shaheen,Brian Schatz,NH,1,Democrat,HI,1,Democrat,1,0,1
@@ -2055,9 +2055,9 @@ Jeanne Shaheen,Tom Cotton,NH,1,Democrat,AR,1,Republican,0,0,1
 Jeanne Shaheen,Tom Udall,NH,1,Democrat,NM,1,Democrat,1,0,1
 Jeff Merkley,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Jeff Merkley,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
-Jeff Merkley,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
+Jeff Merkley,Angus King,OR,1,Democrat,ME,1,Democrat,1,0,1
 Jeff Merkley,Benjamin Cardin,OR,1,Democrat,MD,1,Democrat,1,0,1
-Jeff Merkley,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Independent,0,0,1
+Jeff Merkley,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Democrat,1,0,1
 Jeff Merkley,Bill Cassidy,OR,1,Democrat,LA,1,Republican,0,0,1
 Jeff Merkley,Bill Nelson,OR,1,Democrat,FL,1,Democrat,1,0,1
 Jeff Merkley,Brian Schatz,OR,1,Democrat,HI,1,Democrat,1,0,1
@@ -2134,9 +2134,9 @@ Jeff Merkley,Tom Cotton,OR,1,Democrat,AR,1,Republican,0,0,1
 Jeff Merkley,Tom Udall,OR,1,Democrat,NM,1,Democrat,1,0,1
 Joe Donnelly,Alan “Al” Franken,IN,1,Democrat,MN,1,Democrat,1,0,1
 Joe Donnelly,Amy Klobuchar,IN,1,Democrat,MN,1,Democrat,1,0,1
-Joe Donnelly,Angus King,IN,1,Democrat,ME,1,Independent,0,0,1
+Joe Donnelly,Angus King,IN,1,Democrat,ME,1,Democrat,1,0,1
 Joe Donnelly,Benjamin Cardin,IN,1,Democrat,MD,1,Democrat,1,0,1
-Joe Donnelly,Bernard “Bernie” Sanders,IN,1,Democrat,VT,1,Independent,0,0,1
+Joe Donnelly,Bernard “Bernie” Sanders,IN,1,Democrat,VT,1,Democrat,1,0,1
 Joe Donnelly,Bill Cassidy,IN,1,Democrat,LA,1,Republican,0,0,1
 Joe Donnelly,Bill Nelson,IN,1,Democrat,FL,1,Democrat,1,0,1
 Joe Donnelly,Brian Schatz,IN,1,Democrat,HI,1,Democrat,1,0,1
@@ -2213,9 +2213,9 @@ Joe Donnelly,Tom Cotton,IN,1,Democrat,AR,1,Republican,0,0,1
 Joe Donnelly,Tom Udall,IN,1,Democrat,NM,1,Democrat,1,0,1
 Joe Manchin,Alan “Al” Franken,WV,1,Democrat,MN,1,Democrat,1,0,1
 Joe Manchin,Amy Klobuchar,WV,1,Democrat,MN,1,Democrat,1,0,1
-Joe Manchin,Angus King,WV,1,Democrat,ME,1,Independent,0,0,1
+Joe Manchin,Angus King,WV,1,Democrat,ME,1,Democrat,1,0,1
 Joe Manchin,Benjamin Cardin,WV,1,Democrat,MD,1,Democrat,1,0,1
-Joe Manchin,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Independent,0,0,1
+Joe Manchin,Bernard “Bernie” Sanders,WV,1,Democrat,VT,1,Democrat,1,0,1
 Joe Manchin,Bill Cassidy,WV,1,Democrat,LA,1,Republican,0,0,1
 Joe Manchin,Bill Nelson,WV,1,Democrat,FL,1,Democrat,1,0,1
 Joe Manchin,Brian Schatz,WV,1,Democrat,HI,1,Democrat,1,0,1
@@ -2292,9 +2292,9 @@ Joe Manchin,Tom Cotton,WV,1,Democrat,AR,1,Republican,0,0,1
 Joe Manchin,Tom Udall,WV,1,Democrat,NM,1,Democrat,1,0,1
 John “Johnny” Isakson,Alan “Al” Franken,GA,1,Republican,MN,1,Democrat,0,0,1
 John “Johnny” Isakson,Amy Klobuchar,GA,1,Republican,MN,1,Democrat,0,0,1
-John “Johnny” Isakson,Angus King,GA,1,Republican,ME,1,Independent,0,0,1
+John “Johnny” Isakson,Angus King,GA,1,Republican,ME,1,Democrat,0,0,1
 John “Johnny” Isakson,Benjamin Cardin,GA,1,Republican,MD,1,Democrat,0,0,1
-John “Johnny” Isakson,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Independent,0,0,1
+John “Johnny” Isakson,Bernard “Bernie” Sanders,GA,1,Republican,VT,1,Democrat,0,0,1
 John “Johnny” Isakson,Bill Cassidy,GA,1,Republican,LA,1,Republican,1,1,1
 John “Johnny” Isakson,Bill Nelson,GA,1,Republican,FL,1,Democrat,0,1,1
 John “Johnny” Isakson,Brian Schatz,GA,1,Republican,HI,1,Democrat,0,0,1
@@ -2371,9 +2371,9 @@ John “Johnny” Isakson,Tom Cotton,GA,1,Republican,AR,1,Republican,1,0,1
 John “Johnny” Isakson,Tom Udall,GA,1,Republican,NM,1,Democrat,0,0,1
 John Barrasso,Alan “Al” Franken,WY,1,Republican,MN,1,Democrat,0,0,1
 John Barrasso,Amy Klobuchar,WY,1,Republican,MN,1,Democrat,0,0,1
-John Barrasso,Angus King,WY,1,Republican,ME,1,Independent,0,0,1
+John Barrasso,Angus King,WY,1,Republican,ME,1,Democrat,0,0,1
 John Barrasso,Benjamin Cardin,WY,1,Republican,MD,1,Democrat,0,0,1
-John Barrasso,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Independent,0,0,1
+John Barrasso,Bernard “Bernie” Sanders,WY,1,Republican,VT,1,Democrat,0,0,1
 John Barrasso,Bill Cassidy,WY,1,Republican,LA,1,Republican,1,0,1
 John Barrasso,Bill Nelson,WY,1,Republican,FL,1,Democrat,0,0,1
 John Barrasso,Brian Schatz,WY,1,Republican,HI,1,Democrat,0,0,1
@@ -2450,9 +2450,9 @@ John Barrasso,Tom Cotton,WY,1,Republican,AR,1,Republican,1,0,1
 John Barrasso,Tom Udall,WY,1,Republican,NM,1,Democrat,0,0,1
 John Boozman,Alan “Al” Franken,AR,1,Republican,MN,1,Democrat,0,0,1
 John Boozman,Amy Klobuchar,AR,1,Republican,MN,1,Democrat,0,0,1
-John Boozman,Angus King,AR,1,Republican,ME,1,Independent,0,0,1
+John Boozman,Angus King,AR,1,Republican,ME,1,Democrat,0,0,1
 John Boozman,Benjamin Cardin,AR,1,Republican,MD,1,Democrat,0,0,1
-John Boozman,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Independent,0,0,1
+John Boozman,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Democrat,0,0,1
 John Boozman,Bill Cassidy,AR,1,Republican,LA,1,Republican,1,0,1
 John Boozman,Bill Nelson,AR,1,Republican,FL,1,Democrat,0,0,1
 John Boozman,Brian Schatz,AR,1,Republican,HI,1,Democrat,0,0,1
@@ -2529,9 +2529,9 @@ John Boozman,Tom Cotton,AR,1,Republican,AR,1,Republican,1,0,1
 John Boozman,Tom Udall,AR,1,Republican,NM,1,Democrat,0,0,1
 John Cornyn,Alan “Al” Franken,TX,1,Republican,MN,1,Democrat,0,0,1
 John Cornyn,Amy Klobuchar,TX,1,Republican,MN,1,Democrat,0,0,1
-John Cornyn,Angus King,TX,1,Republican,ME,1,Independent,0,0,1
+John Cornyn,Angus King,TX,1,Republican,ME,1,Democrat,0,0,1
 John Cornyn,Benjamin Cardin,TX,1,Republican,MD,1,Democrat,0,0,1
-John Cornyn,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Independent,0,0,1
+John Cornyn,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Democrat,0,0,1
 John Cornyn,Bill Cassidy,TX,1,Republican,LA,1,Republican,1,1,1
 John Cornyn,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,1,1
 John Cornyn,Brian Schatz,TX,1,Republican,HI,1,Democrat,0,0,1
@@ -2608,9 +2608,9 @@ John Cornyn,Tom Cotton,TX,1,Republican,AR,1,Republican,1,0,1
 John Cornyn,Tom Udall,TX,1,Republican,NM,1,Democrat,0,0,1
 John F. “Jack” Reed,Alan “Al” Franken,RI,1,Democrat,MN,1,Democrat,1,0,1
 John F. “Jack” Reed,Amy Klobuchar,RI,1,Democrat,MN,1,Democrat,1,0,1
-John F. “Jack” Reed,Angus King,RI,1,Democrat,ME,1,Independent,0,0,1
+John F. “Jack” Reed,Angus King,RI,1,Democrat,ME,1,Democrat,1,0,1
 John F. “Jack” Reed,Benjamin Cardin,RI,1,Democrat,MD,1,Democrat,1,0,1
-John F. “Jack” Reed,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Independent,0,0,1
+John F. “Jack” Reed,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Democrat,1,0,1
 John F. “Jack” Reed,Bill Cassidy,RI,1,Democrat,LA,1,Republican,0,0,1
 John F. “Jack” Reed,Bill Nelson,RI,1,Democrat,FL,1,Democrat,1,0,1
 John F. “Jack” Reed,Brian Schatz,RI,1,Democrat,HI,1,Democrat,1,0,1
@@ -2687,9 +2687,9 @@ John F. “Jack” Reed,Tom Cotton,RI,1,Democrat,AR,1,Republican,0,0,1
 John F. “Jack” Reed,Tom Udall,RI,1,Democrat,NM,1,Democrat,1,0,1
 John Hoeven,Alan “Al” Franken,ND,1,Republican,MN,1,Democrat,0,0,1
 John Hoeven,Amy Klobuchar,ND,1,Republican,MN,1,Democrat,0,0,1
-John Hoeven,Angus King,ND,1,Republican,ME,1,Independent,0,0,1
+John Hoeven,Angus King,ND,1,Republican,ME,1,Democrat,0,0,1
 John Hoeven,Benjamin Cardin,ND,1,Republican,MD,1,Democrat,0,0,1
-John Hoeven,Bernard “Bernie” Sanders,ND,1,Republican,VT,1,Independent,0,0,1
+John Hoeven,Bernard “Bernie” Sanders,ND,1,Republican,VT,1,Democrat,0,0,1
 John Hoeven,Bill Cassidy,ND,1,Republican,LA,1,Republican,1,0,1
 John Hoeven,Bill Nelson,ND,1,Republican,FL,1,Democrat,0,0,1
 John Hoeven,Brian Schatz,ND,1,Republican,HI,1,Democrat,0,0,1
@@ -2766,9 +2766,9 @@ John Hoeven,Tom Cotton,ND,1,Republican,AR,1,Republican,1,0,1
 John Hoeven,Tom Udall,ND,1,Republican,NM,1,Democrat,0,0,1
 John Neely Kennedy,Alan “Al” Franken,LA,1,Republican,MN,1,Democrat,0,0,1
 John Neely Kennedy,Amy Klobuchar,LA,1,Republican,MN,1,Democrat,0,0,1
-John Neely Kennedy,Angus King,LA,1,Republican,ME,1,Independent,0,0,1
+John Neely Kennedy,Angus King,LA,1,Republican,ME,1,Democrat,0,0,1
 John Neely Kennedy,Benjamin Cardin,LA,1,Republican,MD,1,Democrat,0,0,1
-John Neely Kennedy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Independent,0,0,1
+John Neely Kennedy,Bernard “Bernie” Sanders,LA,1,Republican,VT,1,Democrat,0,0,1
 John Neely Kennedy,Bill Cassidy,LA,1,Republican,LA,1,Republican,1,1,1
 John Neely Kennedy,Bill Nelson,LA,1,Republican,FL,1,Democrat,0,1,1
 John Neely Kennedy,Brian Schatz,LA,1,Republican,HI,1,Democrat,0,0,1
@@ -2845,9 +2845,9 @@ John Neely Kennedy,Tom Cotton,LA,1,Republican,AR,1,Republican,1,0,1
 John Neely Kennedy,Tom Udall,LA,1,Republican,NM,1,Democrat,0,0,1
 John Thune,Alan “Al” Franken,SD,1,Republican,MN,1,Democrat,0,0,1
 John Thune,Amy Klobuchar,SD,1,Republican,MN,1,Democrat,0,0,1
-John Thune,Angus King,SD,1,Republican,ME,1,Independent,0,0,1
+John Thune,Angus King,SD,1,Republican,ME,1,Democrat,0,0,1
 John Thune,Benjamin Cardin,SD,1,Republican,MD,1,Democrat,0,0,1
-John Thune,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Independent,0,0,1
+John Thune,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Democrat,0,0,1
 John Thune,Bill Cassidy,SD,1,Republican,LA,1,Republican,1,0,1
 John Thune,Bill Nelson,SD,1,Republican,FL,1,Democrat,0,0,1
 John Thune,Brian Schatz,SD,1,Republican,HI,1,Democrat,0,0,1
@@ -2924,9 +2924,9 @@ John Thune,Tom Cotton,SD,1,Republican,AR,1,Republican,1,0,1
 John Thune,Tom Udall,SD,1,Republican,NM,1,Democrat,0,0,1
 Jon Tester,Alan “Al” Franken,MT,1,Democrat,MN,1,Democrat,1,0,1
 Jon Tester,Amy Klobuchar,MT,1,Democrat,MN,1,Democrat,1,0,1
-Jon Tester,Angus King,MT,1,Democrat,ME,1,Independent,0,0,1
+Jon Tester,Angus King,MT,1,Democrat,ME,1,Democrat,1,0,1
 Jon Tester,Benjamin Cardin,MT,1,Democrat,MD,1,Democrat,1,0,1
-Jon Tester,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Independent,0,0,1
+Jon Tester,Bernard “Bernie” Sanders,MT,1,Democrat,VT,1,Democrat,1,0,1
 Jon Tester,Bill Cassidy,MT,1,Democrat,LA,1,Republican,0,0,1
 Jon Tester,Bill Nelson,MT,1,Democrat,FL,1,Democrat,1,0,1
 Jon Tester,Brian Schatz,MT,1,Democrat,HI,1,Democrat,1,0,1
@@ -3003,9 +3003,9 @@ Jon Tester,Tom Cotton,MT,1,Democrat,AR,1,Republican,0,0,1
 Jon Tester,Tom Udall,MT,1,Democrat,NM,1,Democrat,1,0,1
 Kamala Harris,Alan “Al” Franken,CA,1,Democrat,MN,1,Democrat,1,0,1
 Kamala Harris,Amy Klobuchar,CA,1,Democrat,MN,1,Democrat,1,0,1
-Kamala Harris,Angus King,CA,1,Democrat,ME,1,Independent,0,0,1
+Kamala Harris,Angus King,CA,1,Democrat,ME,1,Democrat,1,0,1
 Kamala Harris,Benjamin Cardin,CA,1,Democrat,MD,1,Democrat,1,0,1
-Kamala Harris,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Independent,0,0,1
+Kamala Harris,Bernard “Bernie” Sanders,CA,1,Democrat,VT,1,Democrat,1,0,1
 Kamala Harris,Bill Cassidy,CA,1,Democrat,LA,1,Republican,0,0,1
 Kamala Harris,Bill Nelson,CA,1,Democrat,FL,1,Democrat,1,0,1
 Kamala Harris,Brian Schatz,CA,1,Democrat,HI,1,Democrat,1,0,1
@@ -3082,9 +3082,9 @@ Kamala Harris,Tom Cotton,CA,1,Democrat,AR,1,Republican,0,0,1
 Kamala Harris,Tom Udall,CA,1,Democrat,NM,1,Democrat,1,0,1
 Kirsten Gillibrand,Alan “Al” Franken,NY,1,Democrat,MN,1,Democrat,1,0,1
 Kirsten Gillibrand,Amy Klobuchar,NY,1,Democrat,MN,1,Democrat,1,0,1
-Kirsten Gillibrand,Angus King,NY,1,Democrat,ME,1,Independent,0,0,1
+Kirsten Gillibrand,Angus King,NY,1,Democrat,ME,1,Democrat,1,0,1
 Kirsten Gillibrand,Benjamin Cardin,NY,1,Democrat,MD,1,Democrat,1,0,1
-Kirsten Gillibrand,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Independent,0,0,1
+Kirsten Gillibrand,Bernard “Bernie” Sanders,NY,1,Democrat,VT,1,Democrat,1,0,1
 Kirsten Gillibrand,Bill Cassidy,NY,1,Democrat,LA,1,Republican,0,0,1
 Kirsten Gillibrand,Bill Nelson,NY,1,Democrat,FL,1,Democrat,1,0,1
 Kirsten Gillibrand,Brian Schatz,NY,1,Democrat,HI,1,Democrat,1,0,1
@@ -3161,9 +3161,9 @@ Kirsten Gillibrand,Tom Cotton,NY,1,Democrat,AR,1,Republican,0,0,1
 Kirsten Gillibrand,Tom Udall,NY,1,Democrat,NM,1,Democrat,1,0,1
 Lamar Alexander,Alan “Al” Franken,TN,1,Republican,MN,1,Democrat,0,0,1
 Lamar Alexander,Amy Klobuchar,TN,1,Republican,MN,1,Democrat,0,0,1
-Lamar Alexander,Angus King,TN,1,Republican,ME,1,Independent,0,0,1
+Lamar Alexander,Angus King,TN,1,Republican,ME,1,Democrat,0,0,1
 Lamar Alexander,Benjamin Cardin,TN,1,Republican,MD,1,Democrat,0,0,1
-Lamar Alexander,Bernard “Bernie” Sanders,TN,1,Republican,VT,1,Independent,0,0,1
+Lamar Alexander,Bernard “Bernie” Sanders,TN,1,Republican,VT,1,Democrat,0,0,1
 Lamar Alexander,Bill Cassidy,TN,1,Republican,LA,1,Republican,1,0,1
 Lamar Alexander,Bill Nelson,TN,1,Republican,FL,1,Democrat,0,0,1
 Lamar Alexander,Brian Schatz,TN,1,Republican,HI,1,Democrat,0,0,1
@@ -3240,9 +3240,9 @@ Lamar Alexander,Tom Cotton,TN,1,Republican,AR,1,Republican,1,0,1
 Lamar Alexander,Tom Udall,TN,1,Republican,NM,1,Democrat,0,0,1
 Lisa Murkowski,Alan “Al” Franken,AK,1,Republican,MN,1,Democrat,0,0,1
 Lisa Murkowski,Amy Klobuchar,AK,1,Republican,MN,1,Democrat,0,0,1
-Lisa Murkowski,Angus King,AK,1,Republican,ME,1,Independent,0,0,1
+Lisa Murkowski,Angus King,AK,1,Republican,ME,1,Democrat,0,0,1
 Lisa Murkowski,Benjamin Cardin,AK,1,Republican,MD,1,Democrat,0,0,1
-Lisa Murkowski,Bernard “Bernie” Sanders,AK,1,Republican,VT,1,Independent,0,0,1
+Lisa Murkowski,Bernard “Bernie” Sanders,AK,1,Republican,VT,1,Democrat,0,0,1
 Lisa Murkowski,Bill Cassidy,AK,1,Republican,LA,1,Republican,1,0,1
 Lisa Murkowski,Bill Nelson,AK,1,Republican,FL,1,Democrat,0,0,1
 Lisa Murkowski,Brian Schatz,AK,1,Republican,HI,1,Democrat,0,0,1
@@ -3319,9 +3319,9 @@ Lisa Murkowski,Tom Cotton,AK,1,Republican,AR,1,Republican,1,0,1
 Lisa Murkowski,Tom Udall,AK,1,Republican,NM,1,Democrat,0,0,1
 Luther Strange,Alan “Al” Franken,AL,1,Republican,MN,1,Democrat,0,0,1
 Luther Strange,Amy Klobuchar,AL,1,Republican,MN,1,Democrat,0,0,1
-Luther Strange,Angus King,AL,1,Republican,ME,1,Independent,0,0,1
+Luther Strange,Angus King,AL,1,Republican,ME,1,Democrat,0,0,1
 Luther Strange,Benjamin Cardin,AL,1,Republican,MD,1,Democrat,0,0,1
-Luther Strange,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Independent,0,0,1
+Luther Strange,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Democrat,0,0,1
 Luther Strange,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,1,1
 Luther Strange,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,1,1
 Luther Strange,Brian Schatz,AL,1,Republican,HI,1,Democrat,0,0,1
@@ -3398,9 +3398,9 @@ Luther Strange,Tom Cotton,AL,1,Republican,AR,1,Republican,1,0,1
 Luther Strange,Tom Udall,AL,1,Republican,NM,1,Democrat,0,0,1
 Margaret “Maggie” Hassan,Alan “Al” Franken,NH,1,Democrat,MN,1,Democrat,1,0,1
 Margaret “Maggie” Hassan,Amy Klobuchar,NH,1,Democrat,MN,1,Democrat,1,0,1
-Margaret “Maggie” Hassan,Angus King,NH,1,Democrat,ME,1,Independent,0,0,1
+Margaret “Maggie” Hassan,Angus King,NH,1,Democrat,ME,1,Democrat,1,0,1
 Margaret “Maggie” Hassan,Benjamin Cardin,NH,1,Democrat,MD,1,Democrat,1,0,1
-Margaret “Maggie” Hassan,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Independent,0,0,1
+Margaret “Maggie” Hassan,Bernard “Bernie” Sanders,NH,1,Democrat,VT,1,Democrat,1,0,1
 Margaret “Maggie” Hassan,Bill Cassidy,NH,1,Democrat,LA,1,Republican,0,0,1
 Margaret “Maggie” Hassan,Bill Nelson,NH,1,Democrat,FL,1,Democrat,1,0,1
 Margaret “Maggie” Hassan,Brian Schatz,NH,1,Democrat,HI,1,Democrat,1,0,1
@@ -3477,9 +3477,9 @@ Margaret “Maggie” Hassan,Tom Cotton,NH,1,Democrat,AR,1,Republican,0,0,1
 Margaret “Maggie” Hassan,Tom Udall,NH,1,Democrat,NM,1,Democrat,1,0,1
 Maria Cantwell,Alan “Al” Franken,WA,1,Democrat,MN,1,Democrat,1,0,1
 Maria Cantwell,Amy Klobuchar,WA,1,Democrat,MN,1,Democrat,1,0,1
-Maria Cantwell,Angus King,WA,1,Democrat,ME,1,Independent,0,0,1
+Maria Cantwell,Angus King,WA,1,Democrat,ME,1,Democrat,1,0,1
 Maria Cantwell,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,0,1
-Maria Cantwell,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Independent,0,0,1
+Maria Cantwell,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Democrat,1,0,1
 Maria Cantwell,Bill Cassidy,WA,1,Democrat,LA,1,Republican,0,0,1
 Maria Cantwell,Bill Nelson,WA,1,Democrat,FL,1,Democrat,1,0,1
 Maria Cantwell,Brian Schatz,WA,1,Democrat,HI,1,Democrat,1,0,1
@@ -3556,9 +3556,9 @@ Maria Cantwell,Tom Cotton,WA,1,Democrat,AR,1,Republican,0,0,1
 Maria Cantwell,Tom Udall,WA,1,Democrat,NM,1,Democrat,1,0,1
 Mark Warner,Alan “Al” Franken,VA,1,Democrat,MN,1,Democrat,1,0,1
 Mark Warner,Amy Klobuchar,VA,1,Democrat,MN,1,Democrat,1,0,1
-Mark Warner,Angus King,VA,1,Democrat,ME,1,Independent,0,0,1
+Mark Warner,Angus King,VA,1,Democrat,ME,1,Democrat,1,0,1
 Mark Warner,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,0,1
-Mark Warner,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Independent,0,0,1
+Mark Warner,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Democrat,1,0,1
 Mark Warner,Bill Cassidy,VA,1,Democrat,LA,1,Republican,0,0,1
 Mark Warner,Bill Nelson,VA,1,Democrat,FL,1,Democrat,1,0,1
 Mark Warner,Brian Schatz,VA,1,Democrat,HI,1,Democrat,1,0,1
@@ -3635,9 +3635,9 @@ Mark Warner,Tom Cotton,VA,1,Democrat,AR,1,Republican,0,0,1
 Mark Warner,Tom Udall,VA,1,Democrat,NM,1,Democrat,1,0,1
 Martin Heinrich,Alan “Al” Franken,NM,1,Democrat,MN,1,Democrat,1,0,1
 Martin Heinrich,Amy Klobuchar,NM,1,Democrat,MN,1,Democrat,1,0,1
-Martin Heinrich,Angus King,NM,1,Democrat,ME,1,Independent,0,0,1
+Martin Heinrich,Angus King,NM,1,Democrat,ME,1,Democrat,1,0,1
 Martin Heinrich,Benjamin Cardin,NM,1,Democrat,MD,1,Democrat,1,0,1
-Martin Heinrich,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Independent,0,0,1
+Martin Heinrich,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Democrat,1,0,1
 Martin Heinrich,Bill Cassidy,NM,1,Democrat,LA,1,Republican,0,0,1
 Martin Heinrich,Bill Nelson,NM,1,Democrat,FL,1,Democrat,1,0,1
 Martin Heinrich,Brian Schatz,NM,1,Democrat,HI,1,Democrat,1,0,1
@@ -3714,9 +3714,9 @@ Martin Heinrich,Tom Cotton,NM,1,Democrat,AR,1,Republican,0,0,1
 Martin Heinrich,Tom Udall,NM,1,Democrat,NM,1,Democrat,1,0,1
 Mazie Hirono,Alan “Al” Franken,HI,1,Democrat,MN,1,Democrat,1,0,1
 Mazie Hirono,Amy Klobuchar,HI,1,Democrat,MN,1,Democrat,1,0,1
-Mazie Hirono,Angus King,HI,1,Democrat,ME,1,Independent,0,0,1
+Mazie Hirono,Angus King,HI,1,Democrat,ME,1,Democrat,1,0,1
 Mazie Hirono,Benjamin Cardin,HI,1,Democrat,MD,1,Democrat,1,0,1
-Mazie Hirono,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Independent,0,0,1
+Mazie Hirono,Bernard “Bernie” Sanders,HI,1,Democrat,VT,1,Democrat,1,0,1
 Mazie Hirono,Bill Cassidy,HI,1,Democrat,LA,1,Republican,0,0,1
 Mazie Hirono,Bill Nelson,HI,1,Democrat,FL,1,Democrat,1,0,1
 Mazie Hirono,Brian Schatz,HI,1,Democrat,HI,1,Democrat,1,0,1
@@ -3793,9 +3793,9 @@ Mazie Hirono,Tom Cotton,HI,1,Democrat,AR,1,Republican,0,0,1
 Mazie Hirono,Tom Udall,HI,1,Democrat,NM,1,Democrat,1,0,1
 Michael “Mike” Crapo,Alan “Al” Franken,ID,1,Republican,MN,1,Democrat,0,0,1
 Michael “Mike” Crapo,Amy Klobuchar,ID,1,Republican,MN,1,Democrat,0,0,1
-Michael “Mike” Crapo,Angus King,ID,1,Republican,ME,1,Independent,0,0,1
+Michael “Mike” Crapo,Angus King,ID,1,Republican,ME,1,Democrat,0,0,1
 Michael “Mike” Crapo,Benjamin Cardin,ID,1,Republican,MD,1,Democrat,0,0,1
-Michael “Mike” Crapo,Bernard “Bernie” Sanders,ID,1,Republican,VT,1,Independent,0,0,1
+Michael “Mike” Crapo,Bernard “Bernie” Sanders,ID,1,Republican,VT,1,Democrat,0,0,1
 Michael “Mike” Crapo,Bill Cassidy,ID,1,Republican,LA,1,Republican,1,0,1
 Michael “Mike” Crapo,Bill Nelson,ID,1,Republican,FL,1,Democrat,0,0,1
 Michael “Mike” Crapo,Brian Schatz,ID,1,Republican,HI,1,Democrat,0,0,1
@@ -3872,9 +3872,9 @@ Michael “Mike” Crapo,Tom Cotton,ID,1,Republican,AR,1,Republican,1,0,1
 Michael “Mike” Crapo,Tom Udall,ID,1,Republican,NM,1,Democrat,0,0,1
 Michael Bennet,Alan “Al” Franken,CO,1,Democrat,MN,1,Democrat,1,0,1
 Michael Bennet,Amy Klobuchar,CO,1,Democrat,MN,1,Democrat,1,0,1
-Michael Bennet,Angus King,CO,1,Democrat,ME,1,Independent,0,0,1
+Michael Bennet,Angus King,CO,1,Democrat,ME,1,Democrat,1,0,1
 Michael Bennet,Benjamin Cardin,CO,1,Democrat,MD,1,Democrat,1,0,1
-Michael Bennet,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Independent,0,0,1
+Michael Bennet,Bernard “Bernie” Sanders,CO,1,Democrat,VT,1,Democrat,1,0,1
 Michael Bennet,Bill Cassidy,CO,1,Democrat,LA,1,Republican,0,0,1
 Michael Bennet,Bill Nelson,CO,1,Democrat,FL,1,Democrat,1,0,1
 Michael Bennet,Brian Schatz,CO,1,Democrat,HI,1,Democrat,1,0,1
@@ -3951,9 +3951,9 @@ Michael Bennet,Tom Cotton,CO,1,Democrat,AR,1,Republican,0,0,1
 Michael Bennet,Tom Udall,CO,1,Democrat,NM,1,Democrat,1,0,1
 Mike Rounds,Alan “Al” Franken,SD,1,Republican,MN,1,Democrat,0,0,1
 Mike Rounds,Amy Klobuchar,SD,1,Republican,MN,1,Democrat,0,0,1
-Mike Rounds,Angus King,SD,1,Republican,ME,1,Independent,0,0,1
+Mike Rounds,Angus King,SD,1,Republican,ME,1,Democrat,0,0,1
 Mike Rounds,Benjamin Cardin,SD,1,Republican,MD,1,Democrat,0,0,1
-Mike Rounds,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Independent,0,0,1
+Mike Rounds,Bernard “Bernie” Sanders,SD,1,Republican,VT,1,Democrat,0,0,1
 Mike Rounds,Bill Cassidy,SD,1,Republican,LA,1,Republican,1,0,1
 Mike Rounds,Bill Nelson,SD,1,Republican,FL,1,Democrat,0,0,1
 Mike Rounds,Brian Schatz,SD,1,Republican,HI,1,Democrat,0,0,1
@@ -4030,9 +4030,9 @@ Mike Rounds,Tom Cotton,SD,1,Republican,AR,1,Republican,1,0,1
 Mike Rounds,Tom Udall,SD,1,Republican,NM,1,Democrat,0,0,1
 Mitch McConnell,Alan “Al” Franken,KY,1,Republican,MN,1,Democrat,0,0,1
 Mitch McConnell,Amy Klobuchar,KY,1,Republican,MN,1,Democrat,0,0,1
-Mitch McConnell,Angus King,KY,1,Republican,ME,1,Independent,0,0,1
+Mitch McConnell,Angus King,KY,1,Republican,ME,1,Democrat,0,0,1
 Mitch McConnell,Benjamin Cardin,KY,1,Republican,MD,1,Democrat,0,0,1
-Mitch McConnell,Bernard “Bernie” Sanders,KY,1,Republican,VT,1,Independent,0,0,1
+Mitch McConnell,Bernard “Bernie” Sanders,KY,1,Republican,VT,1,Democrat,0,0,1
 Mitch McConnell,Bill Cassidy,KY,1,Republican,LA,1,Republican,1,0,1
 Mitch McConnell,Bill Nelson,KY,1,Republican,FL,1,Democrat,0,0,1
 Mitch McConnell,Brian Schatz,KY,1,Republican,HI,1,Democrat,0,0,1
@@ -4109,9 +4109,9 @@ Mitch McConnell,Tom Cotton,KY,1,Republican,AR,1,Republican,1,0,1
 Mitch McConnell,Tom Udall,KY,1,Republican,NM,1,Democrat,0,0,1
 Orrin Hatch,Alan “Al” Franken,UT,1,Republican,MN,1,Democrat,0,0,1
 Orrin Hatch,Amy Klobuchar,UT,1,Republican,MN,1,Democrat,0,0,1
-Orrin Hatch,Angus King,UT,1,Republican,ME,1,Independent,0,0,1
+Orrin Hatch,Angus King,UT,1,Republican,ME,1,Democrat,0,0,1
 Orrin Hatch,Benjamin Cardin,UT,1,Republican,MD,1,Democrat,0,0,1
-Orrin Hatch,Bernard “Bernie” Sanders,UT,1,Republican,VT,1,Independent,0,0,1
+Orrin Hatch,Bernard “Bernie” Sanders,UT,1,Republican,VT,1,Democrat,0,0,1
 Orrin Hatch,Bill Cassidy,UT,1,Republican,LA,1,Republican,1,0,1
 Orrin Hatch,Bill Nelson,UT,1,Republican,FL,1,Democrat,0,0,1
 Orrin Hatch,Brian Schatz,UT,1,Republican,HI,1,Democrat,0,0,1
@@ -4188,9 +4188,9 @@ Orrin Hatch,Tom Cotton,UT,1,Republican,AR,1,Republican,1,0,1
 Orrin Hatch,Tom Udall,UT,1,Republican,NM,1,Democrat,0,0,1
 Pat Roberts,Alan “Al” Franken,KS,1,Republican,MN,1,Democrat,0,0,1
 Pat Roberts,Amy Klobuchar,KS,1,Republican,MN,1,Democrat,0,0,1
-Pat Roberts,Angus King,KS,1,Republican,ME,1,Independent,0,0,1
+Pat Roberts,Angus King,KS,1,Republican,ME,1,Democrat,0,0,1
 Pat Roberts,Benjamin Cardin,KS,1,Republican,MD,1,Democrat,0,0,1
-Pat Roberts,Bernard “Bernie” Sanders,KS,1,Republican,VT,1,Independent,0,0,1
+Pat Roberts,Bernard “Bernie” Sanders,KS,1,Republican,VT,1,Democrat,0,0,1
 Pat Roberts,Bill Cassidy,KS,1,Republican,LA,1,Republican,1,0,1
 Pat Roberts,Bill Nelson,KS,1,Republican,FL,1,Democrat,0,0,1
 Pat Roberts,Brian Schatz,KS,1,Republican,HI,1,Democrat,0,0,1
@@ -4267,9 +4267,9 @@ Pat Roberts,Tom Cotton,KS,1,Republican,AR,1,Republican,1,0,1
 Pat Roberts,Tom Udall,KS,1,Republican,NM,1,Democrat,0,0,1
 Patrick Leahy,Alan “Al” Franken,VT,1,Democrat,MN,1,Democrat,1,0,1
 Patrick Leahy,Amy Klobuchar,VT,1,Democrat,MN,1,Democrat,1,0,1
-Patrick Leahy,Angus King,VT,1,Democrat,ME,1,Independent,0,0,1
+Patrick Leahy,Angus King,VT,1,Democrat,ME,1,Democrat,1,0,1
 Patrick Leahy,Benjamin Cardin,VT,1,Democrat,MD,1,Democrat,1,0,1
-Patrick Leahy,Bernard “Bernie” Sanders,VT,1,Democrat,VT,1,Independent,0,0,1
+Patrick Leahy,Bernard “Bernie” Sanders,VT,1,Democrat,VT,1,Democrat,1,0,1
 Patrick Leahy,Bill Cassidy,VT,1,Democrat,LA,1,Republican,0,0,1
 Patrick Leahy,Bill Nelson,VT,1,Democrat,FL,1,Democrat,1,0,1
 Patrick Leahy,Brian Schatz,VT,1,Democrat,HI,1,Democrat,1,0,1
@@ -4346,9 +4346,9 @@ Patrick Leahy,Tom Cotton,VT,1,Democrat,AR,1,Republican,0,0,1
 Patrick Leahy,Tom Udall,VT,1,Democrat,NM,1,Democrat,1,0,1
 Patty Murray,Alan “Al” Franken,WA,1,Democrat,MN,1,Democrat,1,0,1
 Patty Murray,Amy Klobuchar,WA,1,Democrat,MN,1,Democrat,1,0,1
-Patty Murray,Angus King,WA,1,Democrat,ME,1,Independent,0,0,1
+Patty Murray,Angus King,WA,1,Democrat,ME,1,Democrat,1,0,1
 Patty Murray,Benjamin Cardin,WA,1,Democrat,MD,1,Democrat,1,0,1
-Patty Murray,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Independent,0,0,1
+Patty Murray,Bernard “Bernie” Sanders,WA,1,Democrat,VT,1,Democrat,1,0,1
 Patty Murray,Bill Cassidy,WA,1,Democrat,LA,1,Republican,0,0,1
 Patty Murray,Bill Nelson,WA,1,Democrat,FL,1,Democrat,1,0,1
 Patty Murray,Brian Schatz,WA,1,Democrat,HI,1,Democrat,1,0,1
@@ -4425,9 +4425,9 @@ Patty Murray,Tom Cotton,WA,1,Democrat,AR,1,Republican,0,0,1
 Patty Murray,Tom Udall,WA,1,Democrat,NM,1,Democrat,1,0,1
 Richard Blumenthal,Alan “Al” Franken,CT,1,Democrat,MN,1,Democrat,1,0,1
 Richard Blumenthal,Amy Klobuchar,CT,1,Democrat,MN,1,Democrat,1,0,1
-Richard Blumenthal,Angus King,CT,1,Democrat,ME,1,Independent,0,0,1
+Richard Blumenthal,Angus King,CT,1,Democrat,ME,1,Democrat,1,0,1
 Richard Blumenthal,Benjamin Cardin,CT,1,Democrat,MD,1,Democrat,1,0,1
-Richard Blumenthal,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Independent,0,0,1
+Richard Blumenthal,Bernard “Bernie” Sanders,CT,1,Democrat,VT,1,Democrat,1,0,1
 Richard Blumenthal,Bill Cassidy,CT,1,Democrat,LA,1,Republican,0,0,1
 Richard Blumenthal,Bill Nelson,CT,1,Democrat,FL,1,Democrat,1,0,1
 Richard Blumenthal,Brian Schatz,CT,1,Democrat,HI,1,Democrat,1,0,1
@@ -4504,9 +4504,9 @@ Richard Blumenthal,Tom Cotton,CT,1,Democrat,AR,1,Republican,0,0,1
 Richard Blumenthal,Tom Udall,CT,1,Democrat,NM,1,Democrat,1,0,1
 Richard Burr,Alan “Al” Franken,NC,1,Republican,MN,1,Democrat,0,0,1
 Richard Burr,Amy Klobuchar,NC,1,Republican,MN,1,Democrat,0,0,1
-Richard Burr,Angus King,NC,1,Republican,ME,1,Independent,0,0,1
+Richard Burr,Angus King,NC,1,Republican,ME,1,Democrat,0,0,1
 Richard Burr,Benjamin Cardin,NC,1,Republican,MD,1,Democrat,0,0,1
-Richard Burr,Bernard “Bernie” Sanders,NC,1,Republican,VT,1,Independent,0,0,1
+Richard Burr,Bernard “Bernie” Sanders,NC,1,Republican,VT,1,Democrat,0,0,1
 Richard Burr,Bill Cassidy,NC,1,Republican,LA,1,Republican,1,0,1
 Richard Burr,Bill Nelson,NC,1,Republican,FL,1,Democrat,0,0,1
 Richard Burr,Brian Schatz,NC,1,Republican,HI,1,Democrat,0,0,1
@@ -4583,9 +4583,9 @@ Richard Burr,Tom Cotton,NC,1,Republican,AR,1,Republican,1,0,1
 Richard Burr,Tom Udall,NC,1,Republican,NM,1,Democrat,0,0,1
 Richard Durbin,Alan “Al” Franken,IL,1,Democrat,MN,1,Democrat,1,0,1
 Richard Durbin,Amy Klobuchar,IL,1,Democrat,MN,1,Democrat,1,0,1
-Richard Durbin,Angus King,IL,1,Democrat,ME,1,Independent,0,0,1
+Richard Durbin,Angus King,IL,1,Democrat,ME,1,Democrat,1,0,1
 Richard Durbin,Benjamin Cardin,IL,1,Democrat,MD,1,Democrat,1,0,1
-Richard Durbin,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Independent,0,0,1
+Richard Durbin,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Democrat,1,0,1
 Richard Durbin,Bill Cassidy,IL,1,Democrat,LA,1,Republican,0,0,1
 Richard Durbin,Bill Nelson,IL,1,Democrat,FL,1,Democrat,1,0,1
 Richard Durbin,Brian Schatz,IL,1,Democrat,HI,1,Democrat,1,0,1
@@ -4662,9 +4662,9 @@ Richard Durbin,Tom Cotton,IL,1,Democrat,AR,1,Republican,0,0,1
 Richard Durbin,Tom Udall,IL,1,Democrat,NM,1,Democrat,1,0,1
 Richard Shelby,Alan “Al” Franken,AL,1,Republican,MN,1,Democrat,0,0,1
 Richard Shelby,Amy Klobuchar,AL,1,Republican,MN,1,Democrat,0,0,1
-Richard Shelby,Angus King,AL,1,Republican,ME,1,Independent,0,0,1
+Richard Shelby,Angus King,AL,1,Republican,ME,1,Democrat,0,0,1
 Richard Shelby,Benjamin Cardin,AL,1,Republican,MD,1,Democrat,0,0,1
-Richard Shelby,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Independent,0,0,1
+Richard Shelby,Bernard “Bernie” Sanders,AL,1,Republican,VT,1,Democrat,0,0,1
 Richard Shelby,Bill Cassidy,AL,1,Republican,LA,1,Republican,1,1,1
 Richard Shelby,Bill Nelson,AL,1,Republican,FL,1,Democrat,0,1,1
 Richard Shelby,Brian Schatz,AL,1,Republican,HI,1,Democrat,0,0,1
@@ -4741,9 +4741,9 @@ Richard Shelby,Tom Cotton,AL,1,Republican,AR,1,Republican,1,0,1
 Richard Shelby,Tom Udall,AL,1,Republican,NM,1,Democrat,0,0,1
 Robert “Bob” Casey,Alan “Al” Franken,PA,1,Democrat,MN,1,Democrat,1,0,1
 Robert “Bob” Casey,Amy Klobuchar,PA,1,Democrat,MN,1,Democrat,1,0,1
-Robert “Bob” Casey,Angus King,PA,1,Democrat,ME,1,Independent,0,0,1
+Robert “Bob” Casey,Angus King,PA,1,Democrat,ME,1,Democrat,1,0,1
 Robert “Bob” Casey,Benjamin Cardin,PA,1,Democrat,MD,1,Democrat,1,0,1
-Robert “Bob” Casey,Bernard “Bernie” Sanders,PA,1,Democrat,VT,1,Independent,0,0,1
+Robert “Bob” Casey,Bernard “Bernie” Sanders,PA,1,Democrat,VT,1,Democrat,1,0,1
 Robert “Bob” Casey,Bill Cassidy,PA,1,Democrat,LA,1,Republican,0,0,1
 Robert “Bob” Casey,Bill Nelson,PA,1,Democrat,FL,1,Democrat,1,0,1
 Robert “Bob” Casey,Brian Schatz,PA,1,Democrat,HI,1,Democrat,1,0,1
@@ -4820,9 +4820,9 @@ Robert “Bob” Casey,Tom Cotton,PA,1,Democrat,AR,1,Republican,0,0,1
 Robert “Bob” Casey,Tom Udall,PA,1,Democrat,NM,1,Democrat,1,0,1
 Robert “Rob” Portman,Alan “Al” Franken,OH,1,Republican,MN,1,Democrat,0,0,1
 Robert “Rob” Portman,Amy Klobuchar,OH,1,Republican,MN,1,Democrat,0,0,1
-Robert “Rob” Portman,Angus King,OH,1,Republican,ME,1,Independent,0,0,1
+Robert “Rob” Portman,Angus King,OH,1,Republican,ME,1,Democrat,0,0,1
 Robert “Rob” Portman,Benjamin Cardin,OH,1,Republican,MD,1,Democrat,0,0,1
-Robert “Rob” Portman,Bernard “Bernie” Sanders,OH,1,Republican,VT,1,Independent,0,0,1
+Robert “Rob” Portman,Bernard “Bernie” Sanders,OH,1,Republican,VT,1,Democrat,0,0,1
 Robert “Rob” Portman,Bill Cassidy,OH,1,Republican,LA,1,Republican,1,0,1
 Robert “Rob” Portman,Bill Nelson,OH,1,Republican,FL,1,Democrat,0,0,1
 Robert “Rob” Portman,Brian Schatz,OH,1,Republican,HI,1,Democrat,0,0,1
@@ -4899,9 +4899,9 @@ Robert “Rob” Portman,Tom Cotton,OH,1,Republican,AR,1,Republican,1,0,1
 Robert “Rob” Portman,Tom Udall,OH,1,Republican,NM,1,Democrat,0,0,1
 Roger Wicker,Alan “Al” Franken,MS,1,Republican,MN,1,Democrat,0,0,1
 Roger Wicker,Amy Klobuchar,MS,1,Republican,MN,1,Democrat,0,0,1
-Roger Wicker,Angus King,MS,1,Republican,ME,1,Independent,0,0,1
+Roger Wicker,Angus King,MS,1,Republican,ME,1,Democrat,0,0,1
 Roger Wicker,Benjamin Cardin,MS,1,Republican,MD,1,Democrat,0,0,1
-Roger Wicker,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Independent,0,0,1
+Roger Wicker,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Democrat,0,0,1
 Roger Wicker,Bill Cassidy,MS,1,Republican,LA,1,Republican,1,0,1
 Roger Wicker,Bill Nelson,MS,1,Republican,FL,1,Democrat,0,0,1
 Roger Wicker,Brian Schatz,MS,1,Republican,HI,1,Democrat,0,0,1
@@ -4978,9 +4978,9 @@ Roger Wicker,Tom Cotton,MS,1,Republican,AR,1,Republican,1,0,1
 Roger Wicker,Tom Udall,MS,1,Republican,NM,1,Democrat,0,0,1
 Ron Wyden,Alan “Al” Franken,OR,1,Democrat,MN,1,Democrat,1,0,1
 Ron Wyden,Amy Klobuchar,OR,1,Democrat,MN,1,Democrat,1,0,1
-Ron Wyden,Angus King,OR,1,Democrat,ME,1,Independent,0,0,1
+Ron Wyden,Angus King,OR,1,Democrat,ME,1,Democrat,1,0,1
 Ron Wyden,Benjamin Cardin,OR,1,Democrat,MD,1,Democrat,1,0,1
-Ron Wyden,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Independent,0,0,1
+Ron Wyden,Bernard “Bernie” Sanders,OR,1,Democrat,VT,1,Democrat,1,0,1
 Ron Wyden,Bill Cassidy,OR,1,Democrat,LA,1,Republican,0,0,1
 Ron Wyden,Bill Nelson,OR,1,Democrat,FL,1,Democrat,1,0,1
 Ron Wyden,Brian Schatz,OR,1,Democrat,HI,1,Democrat,1,0,1
@@ -5057,9 +5057,9 @@ Ron Wyden,Tom Cotton,OR,1,Democrat,AR,1,Republican,0,0,1
 Ron Wyden,Tom Udall,OR,1,Democrat,NM,1,Democrat,1,0,1
 Roy Blunt,Alan “Al” Franken,MO,1,Republican,MN,1,Democrat,0,0,1
 Roy Blunt,Amy Klobuchar,MO,1,Republican,MN,1,Democrat,0,0,1
-Roy Blunt,Angus King,MO,1,Republican,ME,1,Independent,0,0,1
+Roy Blunt,Angus King,MO,1,Republican,ME,1,Democrat,0,0,1
 Roy Blunt,Benjamin Cardin,MO,1,Republican,MD,1,Democrat,0,0,1
-Roy Blunt,Bernard “Bernie” Sanders,MO,1,Republican,VT,1,Independent,0,0,1
+Roy Blunt,Bernard “Bernie” Sanders,MO,1,Republican,VT,1,Democrat,0,0,1
 Roy Blunt,Bill Cassidy,MO,1,Republican,LA,1,Republican,1,0,1
 Roy Blunt,Bill Nelson,MO,1,Republican,FL,1,Democrat,0,0,1
 Roy Blunt,Brian Schatz,MO,1,Republican,HI,1,Democrat,0,0,1
@@ -5136,9 +5136,9 @@ Roy Blunt,Tom Cotton,MO,1,Republican,AR,1,Republican,1,0,1
 Roy Blunt,Tom Udall,MO,1,Republican,NM,1,Democrat,0,0,1
 Sheldon Whitehouse,Alan “Al” Franken,RI,1,Democrat,MN,1,Democrat,1,0,1
 Sheldon Whitehouse,Amy Klobuchar,RI,1,Democrat,MN,1,Democrat,1,0,1
-Sheldon Whitehouse,Angus King,RI,1,Democrat,ME,1,Independent,0,0,1
+Sheldon Whitehouse,Angus King,RI,1,Democrat,ME,1,Democrat,1,0,1
 Sheldon Whitehouse,Benjamin Cardin,RI,1,Democrat,MD,1,Democrat,1,0,1
-Sheldon Whitehouse,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Independent,0,0,1
+Sheldon Whitehouse,Bernard “Bernie” Sanders,RI,1,Democrat,VT,1,Democrat,1,0,1
 Sheldon Whitehouse,Bill Cassidy,RI,1,Democrat,LA,1,Republican,0,0,1
 Sheldon Whitehouse,Bill Nelson,RI,1,Democrat,FL,1,Democrat,1,0,1
 Sheldon Whitehouse,Brian Schatz,RI,1,Democrat,HI,1,Democrat,1,0,1
@@ -5215,9 +5215,9 @@ Sheldon Whitehouse,Tom Cotton,RI,1,Democrat,AR,1,Republican,0,0,1
 Sheldon Whitehouse,Tom Udall,RI,1,Democrat,NM,1,Democrat,1,0,1
 Shelley Moore Capito,Alan “Al” Franken,WV,1,Republican,MN,1,Democrat,0,0,1
 Shelley Moore Capito,Amy Klobuchar,WV,1,Republican,MN,1,Democrat,0,0,1
-Shelley Moore Capito,Angus King,WV,1,Republican,ME,1,Independent,0,0,1
+Shelley Moore Capito,Angus King,WV,1,Republican,ME,1,Democrat,0,0,1
 Shelley Moore Capito,Benjamin Cardin,WV,1,Republican,MD,1,Democrat,0,0,1
-Shelley Moore Capito,Bernard “Bernie” Sanders,WV,1,Republican,VT,1,Independent,0,0,1
+Shelley Moore Capito,Bernard “Bernie” Sanders,WV,1,Republican,VT,1,Democrat,0,0,1
 Shelley Moore Capito,Bill Cassidy,WV,1,Republican,LA,1,Republican,1,0,1
 Shelley Moore Capito,Bill Nelson,WV,1,Republican,FL,1,Democrat,0,0,1
 Shelley Moore Capito,Brian Schatz,WV,1,Republican,HI,1,Democrat,0,0,1
@@ -5294,9 +5294,9 @@ Shelley Moore Capito,Tom Cotton,WV,1,Republican,AR,1,Republican,1,0,1
 Shelley Moore Capito,Tom Udall,WV,1,Republican,NM,1,Democrat,0,0,1
 Sherrod Brown,Alan “Al” Franken,OH,1,Democrat,MN,1,Democrat,1,0,1
 Sherrod Brown,Amy Klobuchar,OH,1,Democrat,MN,1,Democrat,1,0,1
-Sherrod Brown,Angus King,OH,1,Democrat,ME,1,Independent,0,0,1
+Sherrod Brown,Angus King,OH,1,Democrat,ME,1,Democrat,1,0,1
 Sherrod Brown,Benjamin Cardin,OH,1,Democrat,MD,1,Democrat,1,0,1
-Sherrod Brown,Bernard “Bernie” Sanders,OH,1,Democrat,VT,1,Independent,0,0,1
+Sherrod Brown,Bernard “Bernie” Sanders,OH,1,Democrat,VT,1,Democrat,1,0,1
 Sherrod Brown,Bill Cassidy,OH,1,Democrat,LA,1,Republican,0,0,1
 Sherrod Brown,Bill Nelson,OH,1,Democrat,FL,1,Democrat,1,0,1
 Sherrod Brown,Brian Schatz,OH,1,Democrat,HI,1,Democrat,1,0,1
@@ -5373,9 +5373,9 @@ Sherrod Brown,Tom Cotton,OH,1,Democrat,AR,1,Republican,0,0,1
 Sherrod Brown,Tom Udall,OH,1,Democrat,NM,1,Democrat,1,0,1
 Susan Collins,Alan “Al” Franken,ME,1,Republican,MN,1,Democrat,0,0,1
 Susan Collins,Amy Klobuchar,ME,1,Republican,MN,1,Democrat,0,0,1
-Susan Collins,Angus King,ME,1,Republican,ME,1,Independent,0,0,1
+Susan Collins,Angus King,ME,1,Republican,ME,1,Democrat,0,0,1
 Susan Collins,Benjamin Cardin,ME,1,Republican,MD,1,Democrat,0,0,1
-Susan Collins,Bernard “Bernie” Sanders,ME,1,Republican,VT,1,Independent,0,0,1
+Susan Collins,Bernard “Bernie” Sanders,ME,1,Republican,VT,1,Democrat,0,0,1
 Susan Collins,Bill Cassidy,ME,1,Republican,LA,1,Republican,1,0,1
 Susan Collins,Bill Nelson,ME,1,Republican,FL,1,Democrat,0,0,1
 Susan Collins,Brian Schatz,ME,1,Republican,HI,1,Democrat,0,0,1
@@ -5452,9 +5452,9 @@ Susan Collins,Tom Cotton,ME,1,Republican,AR,1,Republican,1,0,1
 Susan Collins,Tom Udall,ME,1,Republican,NM,1,Democrat,0,0,1
 Tammy Baldwin,Alan “Al” Franken,WI,1,Democrat,MN,1,Democrat,1,0,1
 Tammy Baldwin,Amy Klobuchar,WI,1,Democrat,MN,1,Democrat,1,0,1
-Tammy Baldwin,Angus King,WI,1,Democrat,ME,1,Independent,0,0,1
+Tammy Baldwin,Angus King,WI,1,Democrat,ME,1,Democrat,1,0,1
 Tammy Baldwin,Benjamin Cardin,WI,1,Democrat,MD,1,Democrat,1,0,1
-Tammy Baldwin,Bernard “Bernie” Sanders,WI,1,Democrat,VT,1,Independent,0,0,1
+Tammy Baldwin,Bernard “Bernie” Sanders,WI,1,Democrat,VT,1,Democrat,1,0,1
 Tammy Baldwin,Bill Cassidy,WI,1,Democrat,LA,1,Republican,0,0,1
 Tammy Baldwin,Bill Nelson,WI,1,Democrat,FL,1,Democrat,1,0,1
 Tammy Baldwin,Brian Schatz,WI,1,Democrat,HI,1,Democrat,1,0,1
@@ -5531,9 +5531,9 @@ Tammy Baldwin,Tom Cotton,WI,1,Democrat,AR,1,Republican,0,0,1
 Tammy Baldwin,Tom Udall,WI,1,Democrat,NM,1,Democrat,1,0,1
 Tammy Duckworth,Alan “Al” Franken,IL,1,Democrat,MN,1,Democrat,1,0,1
 Tammy Duckworth,Amy Klobuchar,IL,1,Democrat,MN,1,Democrat,1,0,1
-Tammy Duckworth,Angus King,IL,1,Democrat,ME,1,Independent,0,0,1
+Tammy Duckworth,Angus King,IL,1,Democrat,ME,1,Democrat,1,0,1
 Tammy Duckworth,Benjamin Cardin,IL,1,Democrat,MD,1,Democrat,1,0,1
-Tammy Duckworth,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Independent,0,0,1
+Tammy Duckworth,Bernard “Bernie” Sanders,IL,1,Democrat,VT,1,Democrat,1,0,1
 Tammy Duckworth,Bill Cassidy,IL,1,Democrat,LA,1,Republican,0,0,1
 Tammy Duckworth,Bill Nelson,IL,1,Democrat,FL,1,Democrat,1,0,1
 Tammy Duckworth,Brian Schatz,IL,1,Democrat,HI,1,Democrat,1,0,1
@@ -5610,9 +5610,9 @@ Tammy Duckworth,Tom Cotton,IL,1,Democrat,AR,1,Republican,0,0,1
 Tammy Duckworth,Tom Udall,IL,1,Democrat,NM,1,Democrat,1,0,1
 Ted Cruz,Alan “Al” Franken,TX,1,Republican,MN,1,Democrat,0,0,1
 Ted Cruz,Amy Klobuchar,TX,1,Republican,MN,1,Democrat,0,0,1
-Ted Cruz,Angus King,TX,1,Republican,ME,1,Independent,0,0,1
+Ted Cruz,Angus King,TX,1,Republican,ME,1,Democrat,0,0,1
 Ted Cruz,Benjamin Cardin,TX,1,Republican,MD,1,Democrat,0,0,1
-Ted Cruz,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Independent,0,0,1
+Ted Cruz,Bernard “Bernie” Sanders,TX,1,Republican,VT,1,Democrat,0,0,1
 Ted Cruz,Bill Cassidy,TX,1,Republican,LA,1,Republican,1,1,1
 Ted Cruz,Bill Nelson,TX,1,Republican,FL,1,Democrat,0,1,1
 Ted Cruz,Brian Schatz,TX,1,Republican,HI,1,Democrat,0,0,1
@@ -5689,9 +5689,9 @@ Ted Cruz,Tom Cotton,TX,1,Republican,AR,1,Republican,1,0,1
 Ted Cruz,Tom Udall,TX,1,Republican,NM,1,Democrat,0,0,1
 Thad Cochran,Alan “Al” Franken,MS,1,Republican,MN,1,Democrat,0,0,1
 Thad Cochran,Amy Klobuchar,MS,1,Republican,MN,1,Democrat,0,0,1
-Thad Cochran,Angus King,MS,1,Republican,ME,1,Independent,0,0,1
+Thad Cochran,Angus King,MS,1,Republican,ME,1,Democrat,0,0,1
 Thad Cochran,Benjamin Cardin,MS,1,Republican,MD,1,Democrat,0,0,1
-Thad Cochran,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Independent,0,0,1
+Thad Cochran,Bernard “Bernie” Sanders,MS,1,Republican,VT,1,Democrat,0,0,1
 Thad Cochran,Bill Cassidy,MS,1,Republican,LA,1,Republican,1,0,1
 Thad Cochran,Bill Nelson,MS,1,Republican,FL,1,Democrat,0,0,1
 Thad Cochran,Brian Schatz,MS,1,Republican,HI,1,Democrat,0,0,1
@@ -5768,9 +5768,9 @@ Thad Cochran,Tom Cotton,MS,1,Republican,AR,1,Republican,1,0,1
 Thad Cochran,Tom Udall,MS,1,Republican,NM,1,Democrat,0,0,1
 Thom Tillis,Alan “Al” Franken,NC,1,Republican,MN,1,Democrat,0,0,1
 Thom Tillis,Amy Klobuchar,NC,1,Republican,MN,1,Democrat,0,0,1
-Thom Tillis,Angus King,NC,1,Republican,ME,1,Independent,0,0,1
+Thom Tillis,Angus King,NC,1,Republican,ME,1,Democrat,0,0,1
 Thom Tillis,Benjamin Cardin,NC,1,Republican,MD,1,Democrat,0,0,1
-Thom Tillis,Bernard “Bernie” Sanders,NC,1,Republican,VT,1,Independent,0,0,1
+Thom Tillis,Bernard “Bernie” Sanders,NC,1,Republican,VT,1,Democrat,0,0,1
 Thom Tillis,Bill Cassidy,NC,1,Republican,LA,1,Republican,1,0,1
 Thom Tillis,Bill Nelson,NC,1,Republican,FL,1,Democrat,0,0,1
 Thom Tillis,Brian Schatz,NC,1,Republican,HI,1,Democrat,0,0,1
@@ -5847,9 +5847,9 @@ Thom Tillis,Tom Cotton,NC,1,Republican,AR,1,Republican,1,0,1
 Thom Tillis,Tom Udall,NC,1,Republican,NM,1,Democrat,0,0,1
 Thomas Carper,Alan “Al” Franken,DE,1,Democrat,MN,1,Democrat,1,0,1
 Thomas Carper,Amy Klobuchar,DE,1,Democrat,MN,1,Democrat,1,0,1
-Thomas Carper,Angus King,DE,1,Democrat,ME,1,Independent,0,0,1
+Thomas Carper,Angus King,DE,1,Democrat,ME,1,Democrat,1,0,1
 Thomas Carper,Benjamin Cardin,DE,1,Democrat,MD,1,Democrat,1,0,1
-Thomas Carper,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Independent,0,0,1
+Thomas Carper,Bernard “Bernie” Sanders,DE,1,Democrat,VT,1,Democrat,1,0,1
 Thomas Carper,Bill Cassidy,DE,1,Democrat,LA,1,Republican,0,0,1
 Thomas Carper,Bill Nelson,DE,1,Democrat,FL,1,Democrat,1,0,1
 Thomas Carper,Brian Schatz,DE,1,Democrat,HI,1,Democrat,1,0,1
@@ -5926,9 +5926,9 @@ Thomas Carper,Tom Cotton,DE,1,Democrat,AR,1,Republican,0,0,1
 Thomas Carper,Tom Udall,DE,1,Democrat,NM,1,Democrat,1,0,1
 Tim Scott,Alan “Al” Franken,SC,1,Republican,MN,1,Democrat,0,0,1
 Tim Scott,Amy Klobuchar,SC,1,Republican,MN,1,Democrat,0,0,1
-Tim Scott,Angus King,SC,1,Republican,ME,1,Independent,0,0,1
+Tim Scott,Angus King,SC,1,Republican,ME,1,Democrat,0,0,1
 Tim Scott,Benjamin Cardin,SC,1,Republican,MD,1,Democrat,0,0,1
-Tim Scott,Bernard “Bernie” Sanders,SC,1,Republican,VT,1,Independent,0,0,1
+Tim Scott,Bernard “Bernie” Sanders,SC,1,Republican,VT,1,Democrat,0,0,1
 Tim Scott,Bill Cassidy,SC,1,Republican,LA,1,Republican,1,1,1
 Tim Scott,Bill Nelson,SC,1,Republican,FL,1,Democrat,0,1,1
 Tim Scott,Brian Schatz,SC,1,Republican,HI,1,Democrat,0,0,1
@@ -6005,9 +6005,9 @@ Tim Scott,Tom Cotton,SC,1,Republican,AR,1,Republican,1,0,1
 Tim Scott,Tom Udall,SC,1,Republican,NM,1,Democrat,0,0,1
 Timothy “Tim” Kaine,Alan “Al” Franken,VA,1,Democrat,MN,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Amy Klobuchar,VA,1,Democrat,MN,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Angus King,VA,1,Democrat,ME,1,Independent,0,0,1
+Timothy “Tim” Kaine,Angus King,VA,1,Democrat,ME,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Benjamin Cardin,VA,1,Democrat,MD,1,Democrat,1,0,1
-Timothy “Tim” Kaine,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Independent,0,0,1
+Timothy “Tim” Kaine,Bernard “Bernie” Sanders,VA,1,Democrat,VT,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Bill Cassidy,VA,1,Democrat,LA,1,Republican,0,0,1
 Timothy “Tim” Kaine,Bill Nelson,VA,1,Democrat,FL,1,Democrat,1,0,1
 Timothy “Tim” Kaine,Brian Schatz,VA,1,Democrat,HI,1,Democrat,1,0,1
@@ -6084,9 +6084,9 @@ Timothy “Tim” Kaine,Tom Cotton,VA,1,Democrat,AR,1,Republican,0,0,1
 Timothy “Tim” Kaine,Tom Udall,VA,1,Democrat,NM,1,Democrat,1,0,1
 Todd Young,Alan “Al” Franken,IN,1,Republican,MN,1,Democrat,0,0,1
 Todd Young,Amy Klobuchar,IN,1,Republican,MN,1,Democrat,0,0,1
-Todd Young,Angus King,IN,1,Republican,ME,1,Independent,0,0,1
+Todd Young,Angus King,IN,1,Republican,ME,1,Democrat,0,0,1
 Todd Young,Benjamin Cardin,IN,1,Republican,MD,1,Democrat,0,0,1
-Todd Young,Bernard “Bernie” Sanders,IN,1,Republican,VT,1,Independent,0,0,1
+Todd Young,Bernard “Bernie” Sanders,IN,1,Republican,VT,1,Democrat,0,0,1
 Todd Young,Bill Cassidy,IN,1,Republican,LA,1,Republican,1,0,1
 Todd Young,Bill Nelson,IN,1,Republican,FL,1,Democrat,0,0,1
 Todd Young,Brian Schatz,IN,1,Republican,HI,1,Democrat,0,0,1
@@ -6163,9 +6163,9 @@ Todd Young,Tom Cotton,IN,1,Republican,AR,1,Republican,1,0,1
 Todd Young,Tom Udall,IN,1,Republican,NM,1,Democrat,0,0,1
 Tom Cotton,Alan “Al” Franken,AR,1,Republican,MN,1,Democrat,0,0,1
 Tom Cotton,Amy Klobuchar,AR,1,Republican,MN,1,Democrat,0,0,1
-Tom Cotton,Angus King,AR,1,Republican,ME,1,Independent,0,0,1
+Tom Cotton,Angus King,AR,1,Republican,ME,1,Democrat,0,0,1
 Tom Cotton,Benjamin Cardin,AR,1,Republican,MD,1,Democrat,0,0,1
-Tom Cotton,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Independent,0,0,1
+Tom Cotton,Bernard “Bernie” Sanders,AR,1,Republican,VT,1,Democrat,0,0,1
 Tom Cotton,Bill Cassidy,AR,1,Republican,LA,1,Republican,1,0,1
 Tom Cotton,Bill Nelson,AR,1,Republican,FL,1,Democrat,0,0,1
 Tom Cotton,Brian Schatz,AR,1,Republican,HI,1,Democrat,0,0,1
@@ -6242,9 +6242,9 @@ Tom Cotton,Todd Young,AR,1,Republican,IN,1,Republican,1,0,1
 Tom Cotton,Tom Udall,AR,1,Republican,NM,1,Democrat,0,0,1
 Tom Udall,Alan “Al” Franken,NM,1,Democrat,MN,1,Democrat,1,0,1
 Tom Udall,Amy Klobuchar,NM,1,Democrat,MN,1,Democrat,1,0,1
-Tom Udall,Angus King,NM,1,Democrat,ME,1,Independent,0,0,1
+Tom Udall,Angus King,NM,1,Democrat,ME,1,Democrat,1,0,1
 Tom Udall,Benjamin Cardin,NM,1,Democrat,MD,1,Democrat,1,0,1
-Tom Udall,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Independent,0,0,1
+Tom Udall,Bernard “Bernie” Sanders,NM,1,Democrat,VT,1,Democrat,1,0,1
 Tom Udall,Bill Cassidy,NM,1,Democrat,LA,1,Republican,0,0,1
 Tom Udall,Bill Nelson,NM,1,Democrat,FL,1,Democrat,1,0,1
 Tom Udall,Brian Schatz,NM,1,Democrat,HI,1,Democrat,1,0,1

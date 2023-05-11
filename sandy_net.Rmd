@@ -10,12 +10,13 @@ output:
 library(rio)
 library(tidyverse)
 library(linkcomm)
-library(concoR)
+library(concorR)
 library(network)
 library(statnet)
 library(igraph)
 library(intergraph)
 library(knitr)
+library(stargazer)
 
 sandy_dyads <- import("sandy_dyads.csv")
 sandy_dyads2 <- import("sandy_dyads2.csv")
@@ -26,6 +27,7 @@ sandy_relief <- sandy_relief %>%
   select(-c(district, person)) %>% 
   mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "VA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0)) ## sandy relief just in case
 
+sandy_relief$party[sandy_relief$party == "Independent"] <- "Democrat"
 sandy_el <- sandy_dyads %>% 
  select(name, name2) ## edge list
 
@@ -88,7 +90,8 @@ first_block <- sandy_relief %>%
   full_join(block2) %>% 
   group_by(party, storm, block) %>% 
   summarize(number = n()) %>% 
-  arrange(block, .by_group = F) ## looking at the storm membership by party for block 1
+  arrange(block, .by_group = F) %>% 
+  rename(`Political Party ` = "party", `Storm Status ` = "storm", `Subgroup ` = "block", `Number ` = number)## looking at the storm membership by party for block 1
 
 first_block
 
@@ -116,11 +119,19 @@ cross_party2 <- sandy_dyads %>%
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
 
-plot(blocks, labels=blocks$glabels, main="Subgroups for H.R. 152 and H.R. 5021", xlab="", ylab="", sub="")
+plot(blocks, labels=sandy_relief$party, main="Subgroups for H.R. 152 and H.R. 5021", xlab="", ylab="", sub="")  
 rect.hclust(blocks$cluster, k=2, border ="blue")
 ```
 
-```{r, fig.caption = "Hurricane Sandy and Highway Funding Block 1 Membership by Party and Storm Status"}
-first_block
+```{r}
+stargazer(first_block, type = "html", summary = FALSE, rownames = FALSE, out = "sandy.html", column.labels = c("Political Party ", "Storm Status ", "Subgroup ", "Number "))
+```
+
+```{r}
+ggplot(first_block, aes(x = as.factor(`Subgroup `), y = `Number `, fill = `Political Party `, color = as.factor(`Storm Status `))) + geom_col(position = "dodge") + scale_color_manual(aesthetics = "color", values = c("black","aliceblue")) + scale_fill_manual(aesthetics = "fill", values = c("dodgerblue2", "firebrick3")) ## this 
+```
+
+```{r}
+#export(first_block, "sandy_subgroups.csv")
 ```
 

@@ -24,11 +24,12 @@ plot(highway_net) ## also pretty modular
 library(rio)
 library(tidyverse)
 library(linkcomm)
-library(concoR)
+library(concorR)
 library(network)
 library(statnet)
 library(igraph)
 library(intergraph)
+library(stargazer)
 
 highway_dyads <- import("highway_dyads.csv")
 highway_dyads2 <- import("highway_dyads2.csv")
@@ -39,6 +40,7 @@ highway_funds <- highway_funds %>%
   mutate(name = substr(name, 6,nchar(highway_funds$name)-15)) %>% 
   mutate(storm = ifelse(state %in% c("PA", "MA", "NH", "WV", "VA", "MD", "DE", "RI", "CT", "NJ", "NY"), 1, 0))
 
+highway_funds$party[highway_funds$party == "Independent"] <- "Democrat"
 highway_el <- highway_dyads %>% 
  select(name, name2) ## edge list
 
@@ -91,9 +93,12 @@ modularity(net_highway2, block2$block) ## calculate modularity, how to add the s
 
 first_block <- highway_funds %>% 
   full_join(block2) %>% 
-  filter(block == 1) %>% 
-  group_by(party, storm) %>% 
-  summarize(number = n()) ## looking at the storm membership by party for block 1
+  group_by(party, storm, block) %>% 
+  summarize(number = n()) %>% 
+  rename(`Political Party ` = "party", `Storm Status ` = "storm", `Subgroup ` = "block", `Number ` = number) %>% 
+  arrange(`Subgroup `, .by_group = F)## looking at the storm membership by party for block 1
+
+export(first_block, "highways_subgroups.csv")
 
 second_block <- highway_funds %>% 
   full_join(block2) %>% 
@@ -117,5 +122,6 @@ cross_party2 <- highway_dyads %>%
   group_by(cross_party, storm) %>% 
   summarize(number = n()) ## number of ties by cross party and storm
 
+stargazer(first_block, summary = FALSE, type = "text", rownames = FALSE, column.labels = c("Political Party ", "Storm Status ", "Subgroup ", "Number "), out = "highway.html")
 ```
 

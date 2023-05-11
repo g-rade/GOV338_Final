@@ -372,18 +372,24 @@ display: none;
 #plot(water_net)</code></pre>
 <pre class="r"><code>library(rio)
 library(tidyverse)</code></pre>
-<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
-## ✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
-## ✔ tibble  3.2.1      ✔ dplyr   1.0.10
-## ✔ tidyr   1.2.0      ✔ stringr 1.5.0 
-## ✔ readr   2.1.2      ✔ forcats 0.5.2 
+<pre><code>## ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+## ✔ dplyr     1.1.2     ✔ readr     2.1.4
+## ✔ forcats   1.0.0     ✔ stringr   1.5.0
+## ✔ ggplot2   3.4.2     ✔ tibble    3.2.1
+## ✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+## ✔ purrr     1.0.1     
 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
-## ✖ dplyr::lag()    masks stats::lag()</code></pre>
+## ✖ dplyr::lag()    masks stats::lag()
+## ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
 <pre class="r"><code>library(linkcomm)</code></pre>
 <pre><code>## Loading required package: igraph
 ## 
 ## Attaching package: &#39;igraph&#39;
+## 
+## The following objects are masked from &#39;package:lubridate&#39;:
+## 
+##     %--%, union
 ## 
 ## The following objects are masked from &#39;package:dplyr&#39;:
 ## 
@@ -420,7 +426,7 @@ library(tidyverse)</code></pre>
 ## To cite, see:
 ##    &gt; citation(&quot;linkcomm&quot;)
 ## NOTE: To use linkcomm, you require read and write permissions in the current directory (see: help(&quot;getwd&quot;), help(&quot;setwd&quot;))</code></pre>
-<pre class="r"><code>library(concoR)
+<pre class="r"><code>library(concorR)
 library(network)</code></pre>
 <pre><code>## 
 ## &#39;network&#39; 1.18.1 (2023-01-24), part of the Statnet Project
@@ -452,7 +458,7 @@ library(network)</code></pre>
 ## 
 ## Loading required package: networkDynamic
 ## 
-## &#39;networkDynamic&#39; 0.11.2 (2022-05-04), part of the Statnet Project
+## &#39;networkDynamic&#39; 0.11.3 (2023-02-15), part of the Statnet Project
 ## * &#39;news(package=&quot;networkDynamic&quot;)&#39; for changes since last version
 ## * &#39;citation(&quot;networkDynamic&quot;)&#39; for citation information
 ## * &#39;https://statnet.org&#39; for help, support, and other information
@@ -517,23 +523,30 @@ library(network)</code></pre>
 ## unable to reach CRAN</code></pre>
 <pre class="r"><code>library(igraph)
 library(intergraph)
-
-water_dyads &lt;- import(&quot;water_dyads.csv&quot;)
+library(stargazer)</code></pre>
+<pre><code>## 
+## Please cite as: 
+## 
+##  Hlavac, Marek (2022). stargazer: Well-Formatted Regression and Summary Statistics Tables.
+##  R package version 5.2.3. https://CRAN.R-project.org/package=stargazer</code></pre>
+<pre class="r"><code>water_dyads &lt;- import(&quot;water_dyads.csv&quot;)
 water_dyads2 &lt;- import(&quot;water_dyads2.csv&quot;)
 water_infrastructure &lt;- import(&quot;water2018.csv&quot;)
 
 water_infrastructure &lt;- water_infrastructure %&gt;% 
   mutate(name = substr(name, 6,nchar(water_infrastructure$name)-15)) %&gt;% 
   select(-c(district, person)) %&gt;% 
-  mutate(storm = ifelse(state %in% c(&quot;TX&quot;, &quot;LA&quot;, &quot;VI&quot;, &quot;SC&quot;, &quot;GA&quot;, &quot;AL&quot;, &quot;FL&quot;), 1, 0)) ## sandy relief just in case
+  mutate(storm = ifelse(state %in% c(&quot;TX&quot;, &quot;LA&quot;, &quot;SC&quot;, &quot;GA&quot;, &quot;AL&quot;, &quot;FL&quot;), 1, 0)) ## sandy relief just in case
+
+water_infrastructure$party[water_infrastructure$party == &quot;Independent&quot;] &lt;- &quot;Democrat&quot;
 
 water_el &lt;- water_dyads %&gt;% 
  select(name, name2) ## edge list
 
 water_dyads2 &lt;- water_dyads2 %&gt;% 
   anti_join(water_dyads)</code></pre>
-<pre><code>## Joining, by = c(&quot;name&quot;, &quot;name2&quot;, &quot;party&quot;, &quot;vote&quot;, &quot;state&quot;, &quot;state2&quot;, &quot;party2&quot;,
-## &quot;vote2&quot;, &quot;cross_party&quot;, &quot;storm&quot;, &quot;sharevote&quot;)</code></pre>
+<pre><code>## Joining with `by = join_by(name, name2, party, vote, state, state2, party2,
+## vote2, cross_party, storm, sharevote)`</code></pre>
 <pre class="r"><code>water_el2 &lt;- water_dyads2 %&gt;% 
   select(name, name2) ## edge list 2 of all the nodes not in the edge list (idk just spitballing)
 
@@ -558,7 +571,7 @@ water_el2 &lt;- water_el2 %&gt;%
 
 water_el3 &lt;- water_el %&gt;% 
   full_join(water_el2)</code></pre>
-<pre><code>## Joining, by = c(&quot;name&quot;, &quot;name2&quot;, &quot;sharevote&quot;)</code></pre>
+<pre><code>## Joining with `by = join_by(name, name2, sharevote)`</code></pre>
 <pre class="r"><code>## start structural equivalence (get the blocks)
 mat &lt;- as.matrix.network.adjacency(net_water)
 blocks &lt;- equiv.clust(mat, method=&quot;euclidean&quot;) ## use equivalent clusters because they work on network objects
@@ -584,8 +597,9 @@ first_block &lt;- water_infrastructure %&gt;%
   full_join(block2) %&gt;% 
   group_by(party, storm, block) %&gt;% 
   summarize(number = n()) %&gt;% 
-  arrange(block, .by_group = F) ## looking at the storm membership by party for block 1</code></pre>
-<pre><code>## Joining, by = &quot;name&quot;
+  arrange(block, .by_group = F) %&gt;% 
+  rename(`Political Party ` = &quot;party&quot;, , `Storm Status ` = &quot;storm&quot;, `Subgroup ` = &quot;block&quot;, `Number ` = number)## looking at the storm membership by party for block 1</code></pre>
+<pre><code>## Joining with `by = join_by(name)`
 ## `summarise()` has grouped output by &#39;party&#39;, &#39;storm&#39;. You can override using
 ## the `.groups` argument.</code></pre>
 <pre class="r"><code>second_block &lt;- water_infrastructure %&gt;% 
@@ -593,14 +607,14 @@ first_block &lt;- water_infrastructure %&gt;%
   filter(block == 2) %&gt;% 
   group_by(party, storm) %&gt;% 
   summarize(number = n()) ## looking at the storm membership by party for block 2</code></pre>
-<pre><code>## Joining, by = &quot;name&quot;
+<pre><code>## Joining with `by = join_by(name)`
 ## `summarise()` has grouped output by &#39;party&#39;. You can override using the
 ## `.groups` argument.</code></pre>
 <pre class="r"><code>storm &lt;- water_infrastructure %&gt;% 
   full_join(block2) %&gt;% 
   group_by(storm, block) %&gt;% 
   summarize(number = n()) ## looking at the storm membership by block</code></pre>
-<pre><code>## Joining, by = &quot;name&quot;
+<pre><code>## Joining with `by = join_by(name)`
 ## `summarise()` has grouped output by &#39;storm&#39;. You can override using the
 ## `.groups` argument.</code></pre>
 <pre class="r"><code>## not quite sure how to go about doing cross party variable, need to add it to the dyads but then i can&#39;t look at the blocks
@@ -620,10 +634,10 @@ cross_party2 &lt;- water_dyads %&gt;%
 <table>
 <thead>
 <tr class="header">
-<th align="left">party</th>
-<th align="right">storm</th>
-<th align="right">block</th>
-<th align="right">number</th>
+<th align="left">Political Party</th>
+<th align="right">Storm Status</th>
+<th align="right">Subgroup</th>
+<th align="right">Number</th>
 </tr>
 </thead>
 <tbody>
@@ -631,7 +645,7 @@ cross_party2 &lt;- water_dyads %&gt;%
 <td align="left">Democrat</td>
 <td align="right">0</td>
 <td align="right">1</td>
-<td align="right">45</td>
+<td align="right">47</td>
 </tr>
 <tr class="even">
 <td align="left">Democrat</td>
@@ -640,24 +654,18 @@ cross_party2 &lt;- water_dyads %&gt;%
 <td align="right">2</td>
 </tr>
 <tr class="odd">
-<td align="left">Independent</td>
-<td align="right">0</td>
-<td align="right">1</td>
-<td align="right">2</td>
-</tr>
-<tr class="even">
 <td align="left">Republican</td>
 <td align="right">0</td>
 <td align="right">1</td>
 <td align="right">40</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Republican</td>
 <td align="right">1</td>
 <td align="right">1</td>
 <td align="right">10</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Republican</td>
 <td align="right">0</td>
 <td align="right">2</td>
@@ -685,6 +693,15 @@ cross_party2 &lt;- water_dyads %&gt;%
 </tbody>
 </table>
 </div>
+<pre class="r"><code>stargazer(first_block, summary = FALSE, type = &quot;html&quot;, rownames = FALSE, out = &quot;water.html&quot;, column.labels = c(&quot;Political Party &quot;, &quot;Storm Status &quot;, &quot;Subgroup &quot;, &quot;Number &quot;))</code></pre>
+<pre><code>## 
+## &lt;table style=&quot;text-align:center&quot;&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; style=&quot;border-bottom: 1px solid black&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Political Party&lt;/td&gt;&lt;td&gt;Storm Status&lt;/td&gt;&lt;td&gt;Subgroup&lt;/td&gt;&lt;td&gt;Number&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td colspan=&quot;4&quot; style=&quot;border-bottom: 1px solid black&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Democrat&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;47&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Democrat&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Republican&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Republican&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td style=&quot;text-align:left&quot;&gt;Republican&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
+## &lt;tr&gt;&lt;td colspan=&quot;4&quot; style=&quot;border-bottom: 1px solid black&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</code></pre>
 
 
 
